@@ -1,0 +1,1059 @@
+relevant	tweet	tags
+1	threatmeter oracle flexcube enterprise limits and collateral management 12.0.0 remote code execution vulnerability	O ORG PRO PRO O O O O VER VUL VUL VUL VUL
+1	vuln red hat enterprise linux usb device descriptor local denial of service vulnerability	O ORG ORG PRO PRO O O O VUL VUL VUL VUL VUL
+1	oracle discoverer 11.1.1.7.0 remote code execution vulnerability oracle discoverer 11.1.1.7.0 remote code execut	ORG O VER VUL VUL VUL VUL ORG O VER VUL VUL O
+1	cve-2016-1883 the issetugid system call in the linux compatibility layer in freebsd 9.3 10.1 and 10.2 allows loc	ID O O O O O O PRO O O O PRO VER VER O VER O O
+1	threatmeter suse sled12 security update gstreamer-0 10-plugins-bad suse-su-2017 0331-1	O PRO PRO O O O O ID ID
+1	na cve-2016-1249 the dbd mysql module before 4.039 for perl the dbd mysql module before 4.039 for perl	O ID O O PRO O O VER O O O O PRO O O VER O O
+1	vulnerability security shellcode linux reverse shell shellcode 66 bytes	O O O PRO VUL VUL VUL O O
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered	ID O O O O PRO PRO O O
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered	ID O O O O PRO PRO O O
+1	threatmeter cve-2017-3443 vulnerability in the oracle common applications component of oracle e-business suite s	O ID O O O ORG O O O O ORG PRO PRO O
+1	cve-2016-9962 race condition in docker engine before 1.12.6 might allow local root users in a container to gain pr	ID VUL VUL O PRO O O VER O O VUL VUL O O O O O O O
+1	opensuse security update rabbitmq-server opensuse-2017-156	PRO O O O ID
+1	opensuse security update phpmyadmin opensuse-2017-198	PRO O O O ID
+1	opensuse security update libressl opensuse-2017-222	PRO O O O ID
+1	opensuse security update opera opensuse-2017-232	PRO O O O ID
+1	opensuse security update firebird opensuse-2017-279	PRO O O O ID
+1	cyber infosec java python ftp injections allow for firewall bypass	O O PRO VUL VUL VUL O O VUL VUL
+1	rhel 6 jboss-ec2-eap rhsa-2017 0250	PRO VER O ID ID
+1	mcafee epolicy orchestrator datachannel blind sql injection vulnerability vuln antivirus	ORG PRO PRO O VUL VUL VUL VUL O O
+1	oraclevm 3.3 libtiff ovmsa-2017-0037 nessus	PRO VER O ID PRO
+1	oracle mysql 5.5.51 remote code exeution vulnerability oracle mysql 5.5.51 remote code exeution vulnerability 6	ORG PRO VER VUL VUL O O ORG PRO VER VUL VUL O O O
+1	threatmeter oraclevm 3.4 libtiff ovmsa-2017-0036	O PRO VER O ID
+1	threatmeter cve-2017-6074 a new 11-year old linux kernel flaw discovered	O ID O O O O PRO PRO O O
+1	cve-2016-8684 debian linux graphicsmagick opensuse	ID PRO PRO O PRO
+1	threatmeter cve-2016-9532 debian linux libtiff	O ID PRO PRO O
+1	vulnerability security linux kernel 4.4.0 ubuntu dccp double-free privilege escalation	O O PRO PRO VER PRO O VUL VUL VUL
+1	threatmeter cve-2017-3302 crash in libmysqlclient.so in oracle mysql before 5.6.21 and 5.7.x before 5.7.5 and mar	O ID O O O O ORG PRO O VER O VER O VER O O
+1	ubuntu 12.04 lts 14.04 lts tomcat6 tomcat7 regression usn-3177-2 httpoxy nessus	PRO VER O VER O PRO PRO O ID O PRO
+1	threatmeter oracle e-business suite 12.1.1 12.1.2 12.1.3 knowledge management privilege escalation	O ORG PRO PRO VER VER VER O O VUL VUL
+1	threatmeter oracle e-business suite 12.1.1 12.1.2 12.1.3 customer intelligence privilege escalation	O ORG PRO PRO VER VER VER O O VUL VUL
+1	na cve-2016-2779 runuser in util-linux allows local users to runuser in util-linux allows local users to es	O ID O O O O O O O O O O O O O O O
+1	threatmeter opensuse security update bzrtp opensuse-2017-193	O PRO O O O ID
+1	threatmeter opensuse security update spice opensuse-2017-228	O PRO O O O ID
+1	threatmeter opensuse security update libplist opensuse-2017-230	O PRO O O O ID
+1	threatmeter opensuse security update open-vm-tools opensuse-2017-276	O PRO O O O ID
+1	threatmeter opensuse security update mcabber opensuse-2017-282	O PRO O O O ID
+1	threatmeter opensuse security update libgit2 opensuse-2017-213	O PRO O O O ID
+1	threatmeter opensuse security update gd opensuse-2017-289	O PRO O O O ID
+1	threatmeter rhel 6 jboss-ec2-eap rhsa-2017 0250	O PRO VER O ID ID
+1	oracle linux 6 7 openssl elsa-2017-0286	ORG PRO VER VER PRO ID
+1	oracle peoplesoft enterprise peopletools 8.55 obtain information vulnerability oracle peoplesoft enterprise peopl	ORG PRO PRO O VER VUL VUL VUL ORG PRO PRO O
+1	oracle discoverer 11.1.1.7.0 obtain information vulnerability	ORG O VER VUL VUL VUL
+1	na cve-2017-5972 the tcp stack in the linux kernel 3.x does not	O ID O O O O O PRO PRO VER O O
+1	threatmeter citrix xenserver multiple vulnerabilities ctx220112	O ORG PRO VUL VUL O
+1	threatmeter cve-2016-9956 debian linux fedora flightgear	O ID PRO PRO PRO O
+1	centos7 kernel denial of service exploit	PRO PRO VUL VUL VUL VUL
+1	odisseus granetman cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs	O O ID O O O O PRO PRO O O O
+1	threatmeter cve-2016-8683 debian linux graphicsmagick opensuse	O ID PRO PRO O PRO
+1	ubuntu security usn-3208-1 linux kernel vulnerabilities	PRO O ID PRO PRO O
+1	cve-2017-6001 race condition in kernel events core.c in the linux kernel before 4.9.7 allows local users to gain p	ID VUL VUL O PRO O O O O PRO PRO O VER O O O O O O
+1	0daytoday linux kernel 4.4.0 ubuntu dccp double-free poc exploit dos exploits 0day exploit	O PRO PRO VER PRO O VUL O O VUL VUL O O
+1	cve-2017-3443 vulnerability in the oracle common applications component of oracle e-business suite subcomponent	ID O O O ORG O O O O ORG PRO PRO O
+1	threatmeter na cve-2017-5972 the tcp stack in the linux kernel 3.x does not	O O ID O O O O O PRO PRO VER O O
+1	threatmeter 0daytoday linux kernel 4.4.0 ubuntu dccp double-free poc exploit dos exploits 0day exploit	O O PRO PRO VER PRO O VUL O O VUL VUL O O
+1	suse sles11 security update bash suse-su-2017 0302-1	PRO PRO O O O ID ID
+1	suse sles12 security update policycoreutils suse-su-2017 0338-1	PRO PRO O O O ID ID
+1	suse sles12 security update spice suse-su-2017 0393-1	PRO PRO O O O ID ID
+1	suse sles12 security update policycoreutils suse-su-2017 0340-1	PRO PRO O O O ID ID
+1	oracle database server rdbms obtain information vulnerability	ORG PRO PRO O VUL VUL VUL
+1	threatmeter oracle linux 6 7 ntp elsa-2017-0252	O ORG PRO VER VER PRO ID
+1	threatmeter oracle discoverer 11.1.1.7.0 obtain information vulnerability	O ORG O VER VUL VUL VUL
+1	vuln linux kernel cve-2016-4565 local security bypass vulnerability linux kernel cve-2016-4565 local security byp	O PRO PRO ID O VUL VUL VUL PRO PRO ID O O O
+1	bugtraq security dsa 3787-1 tomcat7 security update bugtraq	O O ID ID PRO O O O
+1	suse sled12 sles12 security update opus suse-su-2017 0436-1	PRO PRO PRO O O O ID ID
+1	suse sled12 sles12 security update tigervnc suse-su-2017 0519-1	PRO PRO PRO O O O ID ID
+1	threatmeter suse sles11 security update libcap-ng suse-su-2017 0375-1	O PRO PRO O O O ID ID
+1	threatmeter suse sles11 security update guile suse-su-2017 0394-1	O PRO PRO O O O ID ID
+1	suse sled12 sles12 security update imagemagick suse-su-2017 0529-1	PRO PRO PRO O O O ID ID
+1	threatmeter suse sles12 security update squid suse-su-2017 0128-1	O PRO PRO O O O ID ID
+1	oracle mysql schema remote code execution vulnerability oracle mysql is prone to a remote code-execution vulnerabi	ORG PRO O VUL VUL VUL VUL ORG PRO O O O O O O O
+1	linux kernel up to 4.9.5 atusb.c buffer overflow	PRO PRO VER VER VER O VUL VUL
+1	cve-2017-3302 crash in libmysqlclient.so in oracle mysql before 5.6.21 and 5.7.x before 5.7.5 and mariadb through	ID O O O O ORG PRO O VER O VER O VER O PRO O
+1	linux kernel 4.4.0 ubuntu dccp double-free privilege escalation	PRO PRO VER PRO O VUL VUL VUL
+1	oracle database server 12.1.0.2 ojvm remote code execution vulnerability oracle database server is prone to a remo	ORG PRO PRO VER O VUL VUL VUL VUL ORG PRO PRO O O O O O
+1	linux kernel 4.5.7 denial of service vulnerability linux kernel 4.5.7 denial of service vulnerability 17 feb 2	PRO PRO VER VUL VUL VUL VUL PRO PRO VER VUL VUL VUL VUL O O O
+1	suse sled12 sles12 security update gnutls suse-su-2017 0348-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	suse sled12 sles12 security update tigervnc suse-su-2017 0519-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	threatmeter suse sled12 sles12 security update gnutls suse-su-2017 0348-1	O PRO PRO PRO O O O ID ID
+1	threatmeter suse sled12 sles12 security update spice suse-su-2017 0400-1	O PRO PRO PRO O O O ID ID
+1	threatmeter suse sled12 sles12 security update spice suse-su-2017 0392-1	O PRO PRO PRO O O O ID ID
+1	threatmeter suse sled12 sles12 security update tigervnc suse-su-2017 0519-1	O PRO PRO PRO O O O ID ID
+1	suse sled12 sles12 security update tiff suse-su-2017 0453-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	java python ftp injections allow for firewall bypass cxsecurity	PRO VUL VUL VUL O O VUL VUL O
+1	na cve-2016-2779 runuser in util-linux allows local users to	O ID O O O O O O O
+1	threatmeter linux kernel up to 4.9.5 atusb.c buffer overflow	O PRO PRO VER VER VER O VUL VUL
+1	threatmeter ubuntu 16.04 lts linux linux-raspi2 linux-snapdragon vulnerabilities usn-3189-1	O PRO VER O PRO O PRO O ID
+1	threatmeter linux kernel 4.4.0 ubuntu dccp double-free privilege escalation	O PRO PRO VER PRO O VUL VUL VUL
+1	threatmeter na cve-2016-2779 runuser in util-linux allows local users to	O O ID O O O O O O O
+1	oracle peoplesoft enterprise peopletools 8.54 peoplesoft remote code execution vulnerability	ORG PRO PRO O VER PRO VUL VUL VUL VUL
+1	0daytoday linux kernel 4.4.0 ubuntu dccp double-free privilege escalation exploit 0day exploit	O PRO PRO VER PRO O VUL VUL VUL VUL O O
+1	critical usn-3207-2 linux kernel trusty hwe vulnerabilities a security issue affects these releases of ubunt	O ID PRO PRO O O O O O O O O O O O
+1	threatmeter splunk enterprise lt 5.0.17 6.0.13 6.1.12 6.2.13 6.3.9 6.4.5 6.5.2 or splunk light lt 6.5.2	O PRO PRO O VER VER VER VER VER VER VER O PRO O O VER
+1	cve-2017-0318 all versions of nvidia linux gpu display driver contain a vulnerability in the kernel mode layer han	ID O O O ORG PRO O O O O O O O O PRO O O O
+1	nvidia linux gpu display driver 304.x lt 304.135 340.x lt 340.102 361.x lt 361.119 375.x lt 375.39 3 nessus	ORG PRO O O O VER O VER VER O VER VER O VER VER O VER O PRO
+1	na rhsa-2017 0254 spice security update problem description an update for spice is now available for red hat	O ID ID O O O O O O O O O O O O O ORG ORG
+1	na cve-2016-10153 the crypto scatterlist api in the linux kernel the crypto scatterlist api in the linux ke	O ID O O O O O O PRO PRO O O O O O O PRO O
+1	thehackersnews hackread a wave of ransom attacks is targeting mysql databases worldwide securityaffairs	O O O O O VUL VUL O O PRO O O O
+1	oracle interaction center intelligence 12.1.1 remote code execution vulnerability oracle interaction center inte	ORG O O O VER VUL VUL VUL VUL ORG O O O
+1	netapp virtual storage console up to 6.2.0 on vmware vsphere certificate weak authentication	O O O O VER VER VER O PRO PRO O VUL VUL
+1	threatmeter linux kernel up to 4.9.6 vc4 gem.c vc4 get bcl privilege escalation	O PRO PRO VER VER VER O O O O O VUL VUL
+1	threatmeter na cve-2017-5669 the do shmat function in ipc shm.c in the linux	O O ID O O O O O O O O O PRO
+1	linux kernel up to 4.8.12 virt kvm kvm main.c kvm ioctl create device denial of service	PRO PRO VER VER VER O O O O O O O O VUL VUL VUL
+1	threatmeter f5 networks big-ip linux kernel vulnerability k17309	O O O O PRO PRO O O
+1	linux kernel 4.4.0 ubuntu dccp double-free crash packetstorm	PRO PRO VER PRO O VUL O O
+1	threatmeter linux kernel 4.4.0 ubuntu dccp double-free poc	O PRO PRO VER PRO O VUL O
+1	vulnerability security mysql file uploader 1.0 sql injection	O O PRO O O VER VUL VUL
+1	cve-2017-2596 the nested vmx check vmptr function in arch x86 kvm vmx.c in the linux kernel through 4.9.8 improper	ID O O O O O O O O O O O O O PRO PRO VER VER O
+1	threatmeter ftp injection flaws in java and python allows firewall bypass	O O O O O PRO O O O VUL VUL
+1	vuln linux kernel net x25 x25 facilities.c local information disclosure vulnerability	O PRO PRO O O O O VUL VUL VUL VUL
+1	0daytoday linux x86 multi dual mode reverse shell shellcode 129 bytes shellcode 0day exploit	O PRO VER O O O VUL VUL VUL O O O O O
+1	certpa certeu a wave of ransom attacks is targeting mysql databases worldwide securityaffairs mysql	O O O O O VUL VUL O O PRO O O O PRO
+1	a wave of ransom attacks is targeting mysql databases worldwide securityaffairs mysql ransom cybercrime	O O O VUL VUL O O PRO O O O PRO O O
+1	a wave of ransom attacks is targeting mysql databases worldwide securityaffairs mysql ransom cybercrime	O O O VUL VUL O O PRO O O O PRO O O
+1	opensuse security update gstreamer-0 10-plugins-base opensuse-2017-169	PRO O O O O ID
+1	vulnerability security bugtraq security dsa 3787-1 tomcat7 security update	O O O O O O PRO O O
+1	vulnerability security bugtraq security dsa 3788-1 tomcat8 security update	O O O O O O PRO O O
+1	threatmeter fedora 25 3 mariadb 2017-801e01d1ed	O PRO VER O PRO O
+1	impact of new linux kernel dccp vulnerability limited threatpost	O O O PRO PRO O O O O
+1	na cve-2010-5328 include linux init task.h in the linux kernel include linux init task.h in the linux kerne	O ID O PRO O O O O PRO PRO O PRO O O O O PRO O
+1	threatmeter oracle business intelligence publisher 11.1.1.7.0 obtain information vulnerability	O ORG O O O VER VUL VUL VUL
+1	threatmeter cve-2016-2317 debian linux graphicsmagick leap linux enterprise debuginfo linux enterprise softw	O ID PRO PRO O O PRO PRO O PRO PRO O
+1	na cve-2017-3417 vulnerability in the oracle universal work vulnerability in the oracle universal work queu	O ID O O O ORG O O O O O ORG O O O
+1	security news a wave of ransom attacks is targeting mysql databases worldwide	O O O O O VUL VUL O O PRO O O
+1	oracle applications dba remote code execution vulnerability oracle applications dba is prone to a remote code-exec	ORG O O VUL VUL VUL VUL ORG O O O O O O O O
+1	citrix netscaler nonce generation flaw lets remote users obtain potentially sensitive information on the target sy	ORG O O O O O O O VUL VUL VUL VUL O O O O
+1	threatmeter cve-2017-2583 the load segment descriptor implementation in arch x86 kvm emulate.c in the linux kerne	O ID O O O O O O O O O O O O PRO O
+1	threatmeter 0daytoday linux x86 64 random listener shellcode 54 bytes shellcode 0day exploit	O O PRO VER O O O O O O O O O
+1	symantec news new release symantec advanced threat protection app is now on splunk	O O O O O O O O O O O O PRO
+1	0daytoday mysql file uploader 1.0 id parameter sql injection vulnerability webapps exploits vulnerability	O PRO O O VER O O VUL VUL VUL O O O
+1	vulnerability security vuln linux kernel net x25 x25 facilities.c local information disclosure vulnerability	O O O PRO PRO O O O O VUL VUL VUL VUL
+1	suse sles12 security update java-1 8 0-ibm suse-su-2017 0460-1 nessus	PRO PRO O O O O O ID ID PRO
+1	0daytoday linux x86-64 egghunter shellcode 38 bytes shellcode 0day exploit	O PRO VER O O O O O O O
+1	a wave of ransom attacks is targeting mysql databases worldwide	O O O VUL VUL O O PRO O O
+1	vulnerability security dos linux kernel 4.4.0 ubuntu dccp double-free poc	O O O PRO PRO VER PRO O VUL O
+1	cve-2017-2583 the load segment descriptor implementation in arch x86 kvm emulate.c in the linux kernel before 4.9	ID O O O O O O O O O O O O PRO PRO O VER
+1	cve-2017-5546 the freelist-randomization feature in mm slab.c in the linux kernel 4.8.x and 4.9.x before 4.9.5 all	ID O O O O O O O O PRO PRO VER O VER O VER O
+1	cve-2017-3419 vulnerability in the oracle crm technical foundation component of oracle e-business suite subcompon	ID O O O ORG O O O O O ORG PRO PRO O
+1	shellcode linux reverse shell shellcode 66 bytes	O PRO VUL VUL VUL O O
+1	high usn-3189-2 linux kernel xenial hwe vulnerabilities	O ID PRO PRO O O O
+1	na cve-2017-3442 vulnerability in the oracle customer vulnerability in the oracle customer interaction hist	O ID O O O ORG O O O O ORG O O O
+1	na cve-2017-3443 vulnerability in the oracle common applications vulnerability in the oracle common applica	O ID O O O ORG O O O O O ORG O O
+1	cve-2017-5025 ffmpeg in google chrome prior to 56.0.2924.76 for linux windows and mac failed to perform proper b	ID O O ORG PRO VER VER VER O PRO PRO O PRO O O O O O
+1	linux kernel up to 4.8.x 4.9.4 freelist-randomization mm slab.c privilege escalation	PRO PRO VER VER VER VER O O O VUL VUL
+1	threatmeter vuln linux kernel net rds recv.c local information disclosure vulnerability	O O PRO PRO O O O VUL VUL VUL VUL
+1	vuln linux kernel usb device descriptor local denial of service vulnerability	O PRO PRO O O O VUL VUL VUL VUL VUL
+1	na cve-2017-3302 crash in libmysqlclient.so in oracle mysql crash in libmysqlclient.so in oracle mysql befo	O ID O O O O ORG PRO O O O O ORG PRO O
+1	rhel 7 jboss core services rhsa-2017 0194 nessus	PRO VER PRO O O ID ID PRO
+1	shellcode linux reverse shell shellcode 66 bytes exploitdb	O PRO VUL VUL VUL O O O
+1	medium usn-3177-2 tomcat regression	O ID PRO O
+1	cve-2017-5933 citrix netscaler adc and netscaler gateway 10.5 before build 65.11 11.0 before build 69.12 69.123	ID ORG O O O O O VER O O VER VER O O VER VER
+1	oracle flexcube enterprise limits and collateral management 12.0.0 remote code execution vulnerability	ORG PRO PRO O O O O VER VUL VUL VUL VUL
+1	threatmeter oracle flexcube enterprise limits and collateral management remote code execution vulnerability	O ORG PRO PRO O O O O VUL VUL VUL VUL
+1	threatmeter oracle e-business suite 12.1.1 12.1.2 12.1.3 customer interaction history privilege escalation	O ORG PRO PRO VER VER VER O O O VUL VUL
+1	oracle applications dba 12.2.6 remote code execution vulnerability	ORG O O VER VUL VUL VUL VUL
+1	threatmeter cve-2017-3440 vulnerability in the oracle customer interaction history component of oracle e-business	O ID O O O ORG O O O O O ORG PRO
+1	threatmeter cve-2017-3442 vulnerability in the oracle customer interaction history component of oracle e-business	O ID O O O ORG O O O O O ORG PRO
+1	threatmeter linux kernel up to 4.9.6 fix cve-2016-6786 kernel events core.c privilege escalation	O PRO PRO VER VER VER O ID PRO O O VUL VUL
+1	local root exploit for the double-free in the linux kernel dccp implementation cve-2017-6074	VUL VUL VUL O O VUL O O PRO PRO O O ID
+1	samsung knox patch mongodb audit crypto in php podcast security	O O O PRO O O O PRO O O
+1	threatmeter java and python plagued by bug allowing attackers to avoid firewalls	O PRO O O O O O O O O VUL VUL
+1	threatmeter java and python plagued by bug allowing attackers to avoid firewalls	O PRO O O O O O O O O VUL VUL
+1	threatmeter links 6 2 2017 linux 4.10 rc7 next debian release frozen	O O O O O PRO VER O O PRO O O
+1	security news java and python ftp attacks can punch holes through firewalls	O O PRO O O VUL VUL O O O O O
+1	linux kernel up to 4.9.10 urg flag net ipv4 tcp.c tcp splice read tcp packet denial of service	PRO PRO VER VER VER O O O O O O O O O O VUL VUL VUL
+1	aix java advisory java oct2016 advisory.asc october 2016 cpu	PRO PRO O PRO O O O O O
+1	java and python ftp attacks can punch holes through firewalls networkworld	PRO O O VUL VUL O O O O O O
+1	oracle agile product lifecycle management framework suite plm remote code execution vulnerability oracle agile p	ORG O O O O O O O VUL VUL VUL VUL ORG O O
+1	linux kernel up to 4.9.5 tmpfs system fs posix acl.c simple set acl privilege escalation	PRO PRO VER VER VER O O O O O O O O VUL VUL
+1	cve-2016-5711 netapp virtual storage console for vmware vsphere before 6.2.1 uses a non-unique certificate which	ID O O O O O PRO PRO O VER O O O O O
+1	java and python ftp attacks can punch holes through firewalls	PRO O O VUL VUL O O O O O
+1	protocol injections hit python and java subscribe now	VUL VUL O O O PRO O O
+1	shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes	O PRO VER PRO O O O O O O
+1	vulnerability security shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes	O O O PRO VER PRO O O O O O O
+1	google once again publicly discloses windows bug after microsoft fails to patch it hitb	ORG O O O O PRO O O ORG O O O O O
+1	vuln linux kernel kvm kvm pit load count function divide by zero denial of service vulnerability	O PRO PRO O O O O O O O O O VUL VUL VUL VUL
+1	citrix netscaler adc netscaler gateway up to 10.4 11.1 gcm nonce generator weak authentication	ORG O O O O VER VER VER VER O O O VUL VUL
+1	cve-2017-5967 the time subsystem in the linux kernel through 4.9.9 when config timer stats is enabled allows loc	ID O O O O O PRO PRO VER VER O O O O O O O O
+1	cve-2017-5967 the time subsystem in the linux kernel through 4.9.9 when config timer stats is enabled allows loc	ID O O O O O PRO PRO VER VER O O O O O O O O
+1	cve-2017-6074 the dccp rcv state process function in net dccp input.c in the linux kernel through 4.9.11 mishandle	ID O O O O O O O O O O O O PRO PRO VER VER O
+1	cve-2010-5328 include linux init task.h in the linux kernel before 2.6.35 does not prevent signals with a process	ID O PRO O O O O PRO PRO O VER O O O O O O O
+1	oracle hospitality opera 5 property services 5.4.1.0 remote code execution vulnerability oracle hospitality opera	ORG O O O O O VER VUL VUL VUL VUL ORG O O
+1	papers mysql out-of-band hacking	O PRO O O
+1	cve-2016-7448 graphicsmagick leap opensuse	ID O O PRO
+1	cve-2017-5551 the simple set acl function in fs posix acl.c in the linux kernel before 4.9.6 preserves the setgid	ID O O O O O O O O O O O PRO PRO O VER O O O
+1	cybersecurity vuln linux kernel kvm kvm pit load count function divide by zero denial of service infosec	O O PRO PRO O O O O O O O O O VUL VUL VUL O
+1	threatmeter linux kernel up to 4.9.8 ext4 image fs ext4 super.c ext4 fill super denial of service	O PRO PRO VER VER VER O O O O O O O O VUL VUL VUL
+1	threatmeter linux kernel up to 4.9.6 videocore drm driver vc4 gem.c vc4 get bcl denial of service	O PRO PRO VER VER VER O O O O O O O O VUL VUL VUL
+1	linux kernel up to 4.9.9 net ipv4 ip sockglue.c ipv4 pktinfo prepare denial of service	PRO PRO VER VER VER O O O O O O O VUL VUL VUL
+1	security hacking kernel exploits a bunch of proof-of-concept exploits for the linux kernel.	O O PRO O O O O O O O O PRO O
+1	cybersecurity news in brief d-link vulnerabilities sha-1 woe mysql hacks infosec	O O O O O O O O PRO O O
+1	threatmeter shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes	O O PRO VER PRO O O O O O O
+1	shellcode linux multi dual mode reverse shell shellcode 129 bytes exploitdb	O PRO O O O VUL VUL VUL O O O
+1	threatmeter oracle agile product lifecycle management framework 9.3.5 obtain information vulnerability	O ORG O O O O O VER VUL VUL VUL
+1	threatmeter shellcode linux multi dual mode reverse shell shellcode 129 bytes	O O PRO O O O VUL VUL VUL O O
+1	linux project patches 11-year-old security flaw that gives attackers root access	PRO O O O O O O VUL VUL VUL VUL
+1	cyber infosec linux kernel 4.4.0 ubuntu dccp double-free crash	O O PRO PRO VER PRO O VUL O
+1	cve-2017-5972 the tcp stack in the linux kernel 3.x does not properly implement a syn cookie protection mechanism	ID O O O O O PRO PRO VER O O O O O O O O O
+1	cve-2017-5970 the ipv4 pktinfo prepare function in net ipv4 ip sockglue.c in the linux kernel through 4.9.9 allows	ID O O O O O O O O O O O O PRO PRO VER VER O
+1	threatmeter cve-2017-5669 the do shmat function in ipc shm.c in the linux kernel through 4.9.12 does not restrict	O ID O O O O O O O O O PRO PRO VER VER O O O
+1	na cve-2017-5548 drivers net ieee802154 atusb.c in the linux	O ID O O O O O O PRO
+1	threatmeter linux kernel up to 4.9.11 net dccp input.c dccp rcv state process denial of service	O PRO PRO VER VER VER O O O O O O O VUL VUL VUL
+1	threatmeter linux kernel up to 4.9.9 net ipv4 ip sockglue.c ipv4 pktinfo prepare denial of service	O PRO PRO VER VER VER O O O O O O O VUL VUL VUL
+1	cve-2017-5547 drivers hid hid-corsair.c in the linux kernel 4.9.x before 4.9.6 interacts incorrectly with the conf	ID O O O O O PRO PRO VER O VER O O O O O
+1	cve-2017-5548 drivers net ieee802154 atusb.c in the linux kernel 4.9.x before 4.9.6 interacts incorrectly with the	ID O O O O O O PRO PRO VER O VER O O O O
+1	ftp injection flaws in java and python allows firewall bypass securityaffairs ftp python java	O O O O PRO O O O VUL VUL O O O PRO
+1	f5 networks big-ip linux kernel vulnerability k17309	O O O PRO PRO O O
+1	linux kernel 4.4.0 ubuntu dccp double-free crash	PRO PRO VER PRO O VUL O
+1	bugtraq security dsa 3788-2 tomcat8 regression update	O O ID ID PRO O O
+1	bugtraq security dsa 3788-2 tomcat8 regression update	O O ID ID PRO O O
+1	threatmeter cve-2017-5986 race condition in the sctp wait for sndbuf function in net sctp socket.c in the linux k	O ID VUL VUL O O O O O O O O O O O O O PRO O
+1	threatmeter oracle customer relationship management technical foundation 12.1.1 remote code execution vulnerabili	O ORG O O O O O VER VUL VUL VUL O
+1	vulnerability security shellcode linux multi dual mode reverse shell shellcode 129 bytes	O O O PRO O O O VUL VUL VUL O O
+1	threatmeter oracle hospitality opera 5 property services 5.4.0.0 remote code execution vulnerability	O ORG O O O O O VER VUL VUL VUL VUL
+1	na cve-2016-1883 the issetugid system call in the linux the issetugid system call in the linux compatibilit	O ID O O O O O O PRO O O O O O O PRO O
+1	cybersecurity unpatched flaws in python java allow firewall bypass infosec	O O O O O PRO O VUL VUL O
+1	webapps mysql file uploader 1.0 id parameter sql injection exploitdb	O PRO O O VER O O VUL VUL O
+1	threatmeter na cve-2017-5548 drivers net ieee802154 atusb.c in the linux	O O ID O O O O O O PRO
+1	threatmeter papers mysql out-of-band hacking	O O PRO O O
+1	threatmeter cve-2016-7449 graphicsmagick leap opensuse	O ID O O PRO
+1	linux kernel gets root-hole security patch for 12-year-old bug theregister	PRO PRO O O O O O O O O
+1	high usn-3189-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its derivat	O ID PRO PRO O O O O O O O O PRO O O O
+1	high usn-3190-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its derivat	O ID PRO PRO O O O O O O O O PRO O O O
+1	critical usn-3206-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its der	O ID PRO PRO O O O O O O O O PRO O O O
+1	red hat security advisory 2017-0216-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0238-01 packetstorm	ORG ORG O ID ID O
+1	red hat security advisory 2017-0275-01 packetstorm	ORG ORG O ID ID O
+1	red hat security advisory 2017-0282-01 packetstorm	ORG ORG O ID ID O
+1	cybersecurity vuln oracle vm virtualbox cve-2017-3316 remote security vulnerability infosec	O O ORG PRO PRO ID O O O O
+1	vuln linux kernel fs pipe.c local denial of service vulnerability	O PRO PRO O O VUL VUL VUL VUL VUL
+1	vuln linux kernel fs pipe.c local denial of service vulnerability	O PRO PRO O O VUL VUL VUL VUL VUL
+1	vuln linux kernel fs pipe.c local denial of service vulnerability	O PRO PRO O O VUL VUL VUL VUL VUL
+1	vuln linux kernel fs pipe.c local denial of service vulnerability	O PRO PRO O O VUL VUL VUL VUL VUL
+1	threatmeter na cve-2016-1880 the linux compatibility layer in the kernel in	O O ID O PRO O O O O PRO O
+1	cybersecurity vuln linux kernel cve-2012-6704 local denial of service vulnerability infosec	O O PRO PRO ID VUL VUL VUL VUL VUL O
+1	vulnerability security vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerab	O O O PRO PRO O O O ID O VUL VUL VUL O
+1	vuln citrix license server for windows and license server vpx cve-2017-5571 open redirect vulnerability vulnerab	O ORG O PRO O PRO O O PRO O ID VUL VUL VUL O
+1	vuln citrix license server for windows and license server vpx cve-2017-5571 open redirect vulnerability bugtraq	O ORG O PRO O PRO O O PRO O ID VUL VUL VUL O
+1	java and python plagued by bug allowing attackers to avoid firewalls	PRO O O O O O O O O O O
+1	cve-2017-5577 the vc4 get bcl function in drivers gpu drm vc4 vc4 gem.c in the videocore drm driver in the linux k	ID O O O O O O O O O O O O O O O O O O O PRO O
+1	samsung knox patch mongodb audit crypto in php podcast security daily	O O O PRO O O O PRO O O O
+1	centos7 kernel crashing by rsyslog daemon vulnerability dos	PRO PRO O O O O O O
+1	0daytoday linux x86 multi dual mode execve amp quot bin sh amp quot null 0 shell 0day exploit	O PRO VER O O O O PRO O O O PRO O O O O O O
+1	0daytoday linux x86 multi dual mode execve amp quot bin sh amp quot null 0 shell 0day exploit	O PRO VER O O O O PRO O O O PRO O O O O O O
+1	linux kernel up to 4.9.9 time subsystem proc timer list timer stats timer set start info information disclosure	PRO PRO VER VER VER O O O O O O O O O O O VUL VUL
+1	cyberpunk blackhat linux malware detect lmd	O O PRO O O O
+1	facepalm apparently linux encryption app cryptkeeper has a universal decryption password the letter p	O O PRO O O O O O O VUL VUL VUL O O
+1	security canada swarm mode features buzz around docker security concerns	O O O O O O O PRO O O
+1	threatmeter capsule8 launches linux-based container security platform	O O O O O O O
+1	linux ip6gre err invalid reads	PRO O O O O
+1	cybersecurity swarm mode features buzz around docker security concerns infosec	O O O O O O PRO O O O
+1	infosec podcast packet pushers weekly podcast old datanauts 072 openstack kubernetes infrastructure amp	O O O O O O O O O PRO O O PRO
+1	java python bugs allow attackers to circumvent firewalls	PRO O O O O O VUL VUL
+1	vulnerability security papers injecting sqlite database based applications	O O O O PRO O O O
+1	shellcode linux multi dual mode execve bin sh null 0 shellcode 37 bytes exploitdb	O PRO O O O O O O O O O O O O
+1	hackers now hit mysql databases with ransomware	O O O PRO O O O
+1	cybersecurity block adverts delete flash kill java asd infosec	O O O O PRO O PRO O O
+1	after targeting linux mirai botnet is here to hack your windows devices	O O PRO VUL VUL O O O O O PRO O
+1	oracle outside in vsdx 8.4.0 8.5.1 8.5.2 8.5.3 use-after-free cxsecurity	ORG PRO PRO O VER VER VER VER VUL O
+1	cve-2017-5008 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi	ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	cve-2017-5007 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi	ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	cve-2017-5027 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi	ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	cve-2017-5008 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi	ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	debian dla-819-1 mysql-5.5 security update	PRO ID PRO O O
+1	medium rhsa-2017 0269 java-1.7.0-openjdk security update	O ID ID PRO O O
+1	threatmeter opensuse security update openssl opensuse-2017-256	O PRO O O PRO ID
+1	threatmeter medium rhsa-2017 0263 java-1.8.0-ibm security update	O O ID ID PRO O O
+1	suse sles11 security update kernel suse-su-2017 0437-1	PRO PRO O O PRO ID ID
+1	opensuse security update the linux kernel opensuse-2017-246	PRO O O O PRO PRO ID
+1	suse sles11 security update kernel suse-su-2017 0437-1 nessus	PRO PRO O O PRO ID ID PRO
+1	suse sles11 security update kernel suse-su-2017 0494-1 nessus	PRO PRO O O PRO ID ID PRO
+1	threatmeter suse sles11 security update kernel suse-su-2017 0494-1	O PRO PRO O O PRO ID ID
+1	threatmeter suse sles12 security update mariadb suse-su-2017 0411-1	O PRO PRO O O PRO ID ID
+1	threatmeter opensuse security update the linux kernel opensuse-2017-246	O PRO O O O PRO PRO ID
+1	threatmeter opensuse security update the linux kernel opensuse-2017-286	O PRO O O O PRO PRO ID
+1	high rhsa-2017 0282 openstack-cinder openstack-glance and openstack-nova security update	O ID ID PRO PRO O PRO O O
+1	threatmeter suse sled12 sles12 security update ceph suse-su-2017 0367-1	O PRO PRO PRO O O PRO ID ID
+1	threatmeter suse sled12 sles12 security update util-linux suse-su-2017 0554-1	O PRO PRO PRO O O O ID ID
+1	threatmeter suse sled12 sles12 security update kernel suse-su-2017 0517-1	O PRO PRO PRO O O PRO ID ID
+1	suse sled12 sles12 security update java-1 7 0-openjdk suse-su-2017 0490-1	PRO PRO PRO O O PRO PRO PRO ID ID
+1	vuln apache tomcat cve-2016-6816 security bypass vulnerability	O PRO PRO ID VUL VUL VUL
+1	vuln apache tomcat cve-2016-6816 security bypass vulnerability	O PRO PRO ID VUL VUL VUL
+1	vuln apache tomcat cve-2016-6816 security bypass vulnerability	O PRO PRO ID VUL VUL VUL
+1	threatmeter oracle database server remote code execution vulnerability	O ORG PRO PRO VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-4565 local security bypass vulnerability	O PRO PRO ID O VUL VUL VUL
+1	threatmeter centos 5 6 7 java-1.7.0-openjdk cesa-2017 0269	O PRO VER VER VER PRO ID ID
+1	threatmeter oracle linux 5 6 7 java-1.7.0-openjdk elsa-2017-0269	O ORG PRO VER VER VER PRO ID
+1	rhel 6 jboss eap rhsa-2017 0170	PRO VER PRO PRO ID ID
+1	threatmeter centos 5 kernel cesa-2016 2962	O PRO VER PRO ID ID
+1	oracle linux 7 bind elsa-2017-0276 nessus	ORG PRO VER O ID PRO
+1	rhel 5 jboss eap rhsa-2017 0246 nessus	PRO VER PRO PRO ID ID PRO
+1	rhel 7 jboss eap rhsa-2017 0171 nessus	PRO VER PRO PRO ID ID PRO
+1	threatmeter rhel 7 jboss eap rhsa-2017 0171	O PRO VER PRO PRO ID ID
+1	threatmeter 0daytoday centos 7 kernel denial of service exploit cve-2017-5972 dos exploits 0day exploit	O O PRO VER PRO VUL VUL VUL VUL ID VUL VUL O O
+1	nvidia linux gpu display driver kernel mode layer denial of service	ORG PRO O O O PRO O O VUL VUL VUL
+1	oraclevm 3.2 unbreakable etc ovmsa-2017-0046	PRO VER O O ID
+1	threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability	O O PRO PRO O O O ID VUL VUL VUL VUL VUL
+1	vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability bugtraq	O PRO PRO O O O ID VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability	O O PRO PRO O O O ID VUL VUL VUL VUL VUL
+1	oraclevm 3.2 unbreakable etc ovmsa-2017-0041 nessus	PRO VER O O ID PRO
+1	threatmeter oraclevm 3.3 unbreakable etc ovmsa-2017-0045	O PRO VER O O ID
+1	cve-2016-5590 mysql enterprise monitor	ID PRO PRO O
+1	cve-2017-3426 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen	ID O O O ORG PRO PRO O O ORG PRO PRO O
+1	cve-2017-3421 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen	ID O O O ORG PRO PRO O O ORG PRO PRO O
+1	cve-2017-3438 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen	ID O O O ORG PRO PRO O O ORG PRO PRO O
+1	cve-2017-3439 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen	ID O O O ORG PRO PRO O O ORG PRO PRO O
+1	threatmeter vuln linux kernel kvm emulate.c information disclosure vulnerability	O O PRO PRO O O VUL VUL VUL
+1	vulnerability security vuln linux kernel kvm emulate.c information disclosure vulnerability	O O O PRO PRO O O VUL VUL VUL
+1	threatmeter cve-2017-3430 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite	O ID O O O ORG PRO PRO O O ORG PRO PRO
+1	threatmeter cve-2017-3439 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite	O ID O O O ORG PRO PRO O O ORG PRO PRO
+1	threatmeter cve-2017-3436 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite	O ID O O O ORG PRO PRO O O ORG PRO PRO
+1	threatmeter cve-2017-5880 splunk web in splunk enterprise versions 6.5.x before 6.5.2 6.4.x before 6.4.5 6.3.x	O ID PRO O O PRO PRO O VER O VER VER O VER VER
+1	vuln oracle vm virtualbox cve-2016-5545 remote security vulnerability vulnerable oracle vm virtualbox 5.1.8 or	O ORG PRO PRO ID O O O O ORG PRO PRO VER O
+1	0daytoday oracle vm virtualbox amp lt 5.0.32 amp lt 5.1.14 privilege escalation e 0day exploit	O ORG PRO PRO PRO O VER PRO O VER VUL VUL O O O
+1	oracle e-business suite up to 12.2.6 marketing privilege escalation	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle e-business suite up to 12.2.6 marketing privilege escalation	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle e-business suite up to 12.2.6 marketing privilege escalation	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle e-business suite up to 12.2.6 marketing privilege escalation	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle e-business suite up to 12.2.6 marketing privilege escalation	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation	ORG PRO PRO VER VER VER PRO PRO VUL VUL
+1	oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation	ORG PRO PRO VER VER VER PRO PRO VUL VUL
+1	oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation	ORG PRO PRO VER VER VER PRO PRO VUL VUL
+1	oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation	ORG PRO PRO VER VER VER PRO PRO VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation	O ORG PRO PRO VER VER VER O VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation	O ORG PRO PRO VER VER VER O VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation	O ORG PRO PRO VER VER VER O VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation	O ORG PRO PRO VER VER VER O VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation	O ORG PRO PRO VER VER VER O VUL VUL
+1	threatmeter oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation	O ORG PRO PRO VER VER VER PRO PRO VUL VUL
+1	cve-2014-9914 android linux kernel	ID PRO PRO PRO
+1	cve-2016-8414 android linux kernel	ID PRO PRO PRO
+1	cve-2016-8419 android linux kernel	ID PRO PRO PRO
+1	several thousand linux devices infected with the linux.proxy.10 trojan securityaffairs linux malware	O O PRO O O O O VUL VUL O PRO O
+1	mysql cluster 7.4.x lt 7.4.6 general subcomponent dos january 2017 cpu	PRO PRO VER O VER O O O O O O
+1	ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3188-2 nessus	PRO VER O PRO O ID PRO
+1	ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3188-2	PRO VER O PRO O ID
+1	threatmeter linux kernel 4.5.3 obtain information vulnerability	O PRO PRO VER VUL VUL VUL
+1	jboss 4.0.2 cross site scripting packetstorm	PRO VER VUL VUL VUL O
+1	linux kernel 4.5.2 denial of service obtain information vulnerability	PRO PRO VER VUL VUL VUL VUL VUL VUL
+1	adobe flash player 23.0.0.162 linux denial of service execute code overflow memory corruption vulnerability adobe	ORG PRO PRO VER PRO VUL VUL VUL VUL VUL VUL VUL VUL VUL ORG
+1	cve-2016-5541 mysql cluster	ID PRO PRO
+1	threatmeter critical usn-3206-1 linux kernel vulnerabilities	O O ID PRO PRO O
+1	oraclevm 3.3 3.4 openssl ovmsa-2017-0042	PRO VER VER PRO ID
+1	threatmeter ubuntu 16.10 linux vulnerabilities usn-3190-1	O PRO VER PRO O ID
+1	vuln util-linux cve-2016-5011 local denial of service vulnerability	O O ID VUL VUL VUL VUL VUL
+1	linux kernel 4.8.2 gain privileges vulnerability	PRO PRO VER VUL VUL VUL
+1	oracle vm virtualbox 5.1.10 denial of service	ORG PRO PRO VER VUL VUL VUL
+1	linux kernel 4.2.5 denial of service vulnerability	PRO PRO VER VUL VUL VUL VUL
+1	linux kernel 4.7.4 denial of service vulnerability	PRO PRO VER VUL VUL VUL VUL
+1	threatmeter oracle vm virtualbox 5.1.10 denial of service	O ORG PRO PRO VER VUL VUL VUL
+1	linux kernel 4.8.2 denial of service overflow gain privileges vulnerability	PRO PRO VER VUL VUL VUL VUL VUL VUL VUL
+1	threatmeter linux kernel 4.3.6 denial of service gain privileges vulnerability	O PRO PRO VER VUL VUL VUL VUL VUL VUL
+1	0daytoday oracle java uninitialized memory remote code execution vulnerability 0day exploit	O ORG PRO VUL VUL VUL VUL VUL VUL O O
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs	ID O O O O PRO PRO O O O
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs linux hacking	ID O O O O PRO PRO O O O PRO O
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs hacking linux	ID O O O O PRO PRO O O O O PRO
+1	cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs hacking linux	ID O O O O PRO PRO O O O O PRO
+1	na cve-2017-3426 vulnerability in the oracle one-to-one vulnerability in the oracle one-to-one fulfillment	O ID O O O ORG PRO O O O ORG PRO PRO
+1	na cve-2017-3430 vulnerability in the oracle one-to-one vulnerability in the oracle one-to-one fulfillment	O ID O O O ORG PRO O O O ORG PRO PRO
+1	na cve-2017-3438 vulnerability in the oracle one-to-one vulnerability in the oracle one-to-one fulfillment	O ID O O O ORG PRO O O O ORG PRO PRO
+1	na cve-2017-3429 vulnerability in the oracle one-to-one vulnerability in the oracle one-to-one fulfillment	O ID O O O ORG PRO O O O ORG PRO PRO
+1	na cve-2017-3439 vulnerability in the oracle one-to-one vulnerability in the oracle one-to-one fulfillment	O ID O O O ORG PRO O O O ORG PRO PRO
+1	threatmeter cve-2017-3265 mysql	O ID PRO
+1	vulnerability security vuln linux kernel cve-2016-10150 denial of service vulnerability	O O O PRO PRO ID VUL VUL VUL VUL
+1	vulnerability security vuln linux kernel cve-2017-5551 local denial of service vulnerability	O O O PRO PRO ID VUL VUL VUL VUL VUL
+1	oracle vm virtualbox	ORG PRO PRO
+1	vuln oracle vm virtualbox cve-2017-3332 local security vulnerability bugtraq	O ORG PRO PRO ID O O O O
+1	vuln oracle vm virtualbox cve-2017-3316 remote security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle vm virtualbox cve-2017-3332 local security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle vm virtualbox cve-2017-3290 local security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability	O ORG PRO PRO O PRO ID O O O
+1	vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability	O ORG PRO PRO O PRO ID O O O
+1	vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability	O ORG PRO PRO O PRO ID O O O
+1	threatmeter cve-2010-5328 linux kernel	O ID PRO PRO
+1	threatmeter cve-2016-10150 linux kernel	O ID PRO PRO
+1	threatmeter vuln apache tomcat cve-2016-6817 denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2017-5551 local denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2012-6704 local denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL O
+1	vuln apache tomcat cve-2016-8735 remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln apache tomcat cve-2016-6817 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-4482 local information disclosure vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5546 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5548 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5548 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5547 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+0	threatmeter webapps wordpress plugin online hotel booking system pro 1.0 sql injection
+0	wordpressdotcom wordpress wordpress 4.7.2 release addresses xss sql injection vulnerabilities securityaffairs
+0	wordpress 4.7.2 update fixes xss sql injection bugs
+0	threatmeter the oracle of delphi puts a board game odyssey on your kitchen table
+0	cve-2017-5598 an issue was discovered in eclinicalworks healowwork 8.0 build 8 this is a blind sql injection with
+0	threatmeter webapps wordpress plugin wp private messages 1.0.1 sql injection
+0	threatmeter wordpress 4.7.2 update fixes xss sql injection bugs
+0	movie portal script 7.36 film-rating.php v sql injection
+0	threatmeter cve-2017-5598 an issue was discovered in eclinicalworks healowwork 8.0 build 8 this is a blind sql i
+0	threatmeter movie portal script 7.36 movie.php f sql injection
+0	rt kitploit owasp security shepherd web and mobile application security training platform ctf linux
+0	vuln eclinicalworks patient portal cve-2017-5570 sql injection vulnerability
+0	lfs252 will help you improve your essential openstack skills info on the bundle deal
+0	vuln eclinicalworks patient portal cve-2017-5570 sql injection vulnerability
+0	cve-2017-5609 sql injection vulnerability in include functions entries.inc.php in serendipity 2.0.5 allows remote
+0	vulnerability security vuln eclinicalworks patient portal cve-2017-5570 sql injection vulnerability
+0	sdxcentral chats with arpit joshipura of the linux foundation about where he thinks networking needs to be taken
+0	kb login authentication script 1.1 sql injection cxsecurity
+0	vulnerability security bugtraq multiple blind sql injection vulnerabilities in formbuilder wordpress plugin
+0	the latest linux webserver security thanks to cloud66 wopot anahristian wordpress security
+0	threatmeter itech freelancer script 5.13 category.php sk sql injection
+0	threatmeter webapps itech multi vendor script 6.49 sql injection
+0	the latest linux webserver security thanks to mattersolutions 0xjudd brightgreenpath wordpress security
+0	threatmeter itech auction script 6.49 mcategory.php mcid sql injection
+0	cve-2017-5611 sql injection vulnerability in wp-includes class-wp-query.php in wp query in wordpress before 4.7.2
+0	webapps auction script 6.49 sql injection
+0	itech real estate script 3.12 search property.php property for sql injection
+0	rt camillosperoni hjosephfuster discusses how infosys offers innovative and differentiated solutions for oracle cloud
+0	itech b2b script 4.28 catcompany.php token sql injection
+0	webapps itech b2b script 4.28 sql injection exploitdb
+0	newest linuxfoundation platinum member hitachiglobal expands commitment to open source
+0	we want to show developers how many great things they can do brunoborges on oraclecode 2017
+0	rt brunoborges say hello to oracle s container registry a place to download pre-built docker images for key products like java
+0	webapps auction script 6.49 sql injection exploitdb
+0	gmail will stop allowing javascript .js file attachments starting february 13 2017 securityaffairs gmail java
+0	gentoo linux security advisory 201701-67 advisory
+0	bingobest cms sql injection cxsecurity
+0	keralainfotech sql injection cxsecurity
+0	threatmeter webapps itech dating script 3.26 sql injection
+0	vulnerability security webapps itech b2b script 4.28 sql injection
+0	threatmeter itech multi vendor script 6.49 product-list.php pl sql injection
+0	gentoo linux security advisory 201701-70 advisory
+0	threatmeter auction script 6.49 sql injection
+0	helpdeskz sql injection file download
+0	rt oraclemktgcloud thrilled to have seasoned biz leaders cathywalker3 vodafoneuk amp yvonne chien abcam w our gm ipsenlaura
+0	threatmeter wordpress online hotel booking system pro 1.0 sql injection
+0	threatmeter 0daytoday oracle vm virtualbox amp lt 5.0.32 amp lt 5.1.14 privilege escalation e 0day exploit
+0	0daytoday itech freelancer script 5.13 sql injection vulnerability webapps exploits vulnerability 0day
+0	bugtraq security bulletin hpsbhf03693 rev.1 hpe imc plat network products running microsoft sql server remo
+0	hi paulvhs let us know what you re planning to do with a linux foundation certification to share and be entered to win
+0	0daytoday itech classifieds script 7.27 scat parameter sql injection vulnerability 0day exploit
+0	0daytoday video sharing script 4.94 sql injection vulnerability webapps exploits vulnerability 0day expl
+0	0daytoday itech news portal script 6.28 sql injection vulnerability webapps exploits vulnerability 0day e
+0	0daytoday itech dating script 3.26 send gift.php sql injection vulnerability 0day exploit
+0	oraclembx kicks off tomorrow in london join forward thinkers and be inspired.
+0	0daytoday auction script 6.49 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	news the linux foundation announces session lineup for vault linux storage amp filesystems conference
+0	vuln adobe reader and acrobat cve-2016-1008 remote code execution vulnerability vulnerable gentoo linux adobe
+0	cyber infosec itech b2b script 4.28 sql injection
+0	threatmeter 0daytoday itech real estate script 3.12 sql injection vulnerability webapps exploits vulnerabi
+0	0daytoday wordpress private messages 1.0.1 plugin sql injection vulnerability 0day exploit
+0	the latest linux webserver security thanks to artem i baranov bouroo easytechsec wordpress nginx
+0	gentoo linux security advisory 201701-76 advisory
+0	auction script 6.49 sql injection
+0	0daytoday itech real estate script 3.12 sql injection vulnerability webapps exploits vulnerability 0day
+0	0daytoday itech b2b script 4.28 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	vulnerability security vuln ecava integraxor cve-2016-8341 multiple sql injection vulnerabilities
+0	rt matthewpriceuk room filling key note anticipation oracle oraclembx
+0	oraclembx is off to a running start jabel oracle reports live from the innovation showcase.
+0	zachnelson s cloud lesson 5 change is the only constant make sure you can change the system and enable customization oraclembx
+0	rt louparker treat me as a human being not a human resource then i ll stay engaged practical advice from david macleod obe oraclem
+0	0daytoday joomla jtag calendar 6.2.4 component sql injection vulnerability webapps exploits vulnerability
+0	rt hosting advice how the linuxfoundation drives commercial adoption of open-source technology through training hosting amp advocacy
+0	we have some amazing thought leaders lined up for day 1 of oraclembx noreenahertz davidtmacleod
+0	0daytoday caregiver script 2.57 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	big shout out to all of our oraclembx sponsors looking forward to a great day 2.
+0	vuln ecava integraxor cve-2016-8341 multiple sql injection vulnerabilities bugtraq
+0	0daytoday logostore sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	mybb mybb merge system up to 1.8.7 user data sql injection
+0	rt deborahmeaden well i was responding to the engagement and energy of you all great day amongst smart people oraclembx
+0	0daytoday logostore sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	na cve-2016-9416 sql injection vulnerability in the users data sql injection vulnerability in the users dat
+0	cloud lesson 3 deliver omnichannel experiences we re killing it in retail because of this capability zachnelson oraclembx
+0	opencontrail an open source sdn platform is an essential project within the openstack community
+0	deborahmeaden s advice for biz agility don t lose perception stay engaged stay interested you can t automate good judgement oraclembx
+0	vulnerability security itech multi vendor script 6.49 sql injection
+0	webapps logostore sql injection
+0	rt deloitteoracle attending oraclembx stop by the deloitte stand in the innovation showcase amp learn how cloud can help your organ
+0	oracle supports watermarkconf if you own your own story that is how you live life bigger than yourself you ar
+0	cybersecurity russia-linked turla group uses new javascript malware infosec
+0	threatmeter zoneminder 1.29 1.30 csrf xss sql injection session fixation
+0	exponent cms 2.4.0 exponent sql injection vulnerability exponent cms 2.4.0 exponent sql injection vulnerability
+0	0daytoday itech movie portal script 7.37 sql injection vulnerability webapps exploits vulnerability 0day
+0	cybersecurity russian cyber espionage group turla leverages on a new javascript malware infosec
+0	cve-2017-5218 a sql injection issue was discovered in sagecrm 7.x before 7.3 sp3 the ap documentui.asp web resour
+0	exponent cms 2.4.0 exponent sql injection vulnerability
+0	opensuse security update mozillathunderbird opensuse-2017-188
+0	don t assemble information take advantage of it steve daheb oraclembx
+0	0daytoday property listing script propid parameter blind sql injection vulnerability 0day exploit
+0	ibm security access manager for web sql injection cve-2016-3046
+0	orgs like linuxfoundation can help you build a robust internal support infrastructure lfwebinar
+0	gianfrancoincar mrtlgu russian cyber espionage group turla leverages on a new javascript malware securityaffairs
+0	na cve-2016-8928 ibm kenexa lms on cloud is vulnerable to sql ibm kenexa lms on cloud is vulnerable to sql
+0	kasperskylabit kaspersky russian cyber espionage group turla leverages on a new javascript malware
+0	vulnerability security zoneminder 1.29 1.30 csrf xss sql injection session fixation
+0	webapps itech travel portal script 9.35 sql injection
+0	pinterest saw a 2x sales lift from earned media with oracle oraclembx
+0	the mission of linuxfoundation is to create the largest shared tech investment in history w linux amp in 53 additional projects lfwebinar
+0	looking forward to our startup panel with reggiebradford becky sage drdavidglowacki and viettoannguyen oraclembx
+0	threatmeter 0daytoday itech inventory management software 3.77 sql injection vulnerability 0day exploit
+0	threatmeter ibm kenexa lcms premier on cloud sql injection cve-2016-5939
+0	oraclembx has been all about innovation today we ve seen some inspiring sessions so far are you ready for what s
+0	rt dinosn extract credit card ntlm http sql ldap kerberos http basic snmp pop smtp ftp imap from pcap or live
+0	great to have henrydowding 16-year-old ceo of thehangteam with us at oraclembx representing the future generat
+0	threatmeter opensuse security update seamonkey opensuse-2017-189
+0	rt conemis thank you oracle for a great event oraclembx london conemis
+0	threatmeter logostore sql injection
+0	threatmeter property listing script blind sql injection
+0	tippett studio significantly lowered tco with a public cloud strategy oraclembx
+0	0daytoday itech news portal script 6.28 sc parameter sql injection vulnerability 0day exploit
+0	rt vmackem nice to see the bloodhound ssc car getting a clean and polish before the 2nd day of oraclembx
+0	bdhost cms sql injection
+0	sql slammer comeback checkpoint
+0	for kent cc the ability to rapidly scale service based on changing needs is essential oracleservicecloud
+0	thanks to our fantastic host anita anand for kicking things off oraclembx day 2 starts now.
+0	russia-linked turla group uses new javascript malware
+0	threatmeter 0daytoday itech auction script 6.49 pid parameter sql injection vulnerability 0day exploit
+0	caregiver script 2.57 sql injection cxsecurity
+0	vuln sagecrm sql injection and arbitrary file upload vulnerabilities sagecrm sql injection and arbitrary file upl
+0	watch why attend a linux foundation event hear what the community has to say eventslf
+0	cve-2017-5218 a sql injection issue was discovered in sagecrm 7.x before 7.3 sp3 the ap documentui.asp web resource includes utilityfuncs
+0	cybersecurity sql slammer worm crawls back infosec
+0	your weekly news briefing via linuxdotcom
+0	rt eduardkovacs sql slammer tiny worm that managed to wreak havoc in january 2003 appears to have recommenced activity
+0	0daytoday itech multi vendor script 6.49 sql injection vulnerability webapps exploits vulnerability 0day
+0	0daytoday slimaruser management 1.0 id parameter sql injection vulnerability 0day exploit
+0	threatmeter webapps slimaruser management 1.0 id parameter sql injection
+0	threatmeter 0daytoday slimaruser management 1.0 id parameter sql injection vulnerability 0day exploit
+0	vulnerability security slimaruser management 1.0 sql injection
+0	itech multi vendor script 6.49 sql injection
+0	webapps slimaruser management 1.0 id parameter sql injection exploitdb
+0	property listing script property view.php propid sql injection
+0	sql slammer worm crawls back
+0	rt apesol need help designing an oss support strategy reach out to linuxfoundation consulting or roguewaveinc a free support ticket lfw
+0	na cve-2016-9642 javascriptcore in webkit allows attackers to javascriptcore in webkit allows attackers to
+0	threatmeter oracle linux 6 7 thunderbird elsa-2017-0238
+0	cybersecurity someone tried to resurrect 14-year-old sql slammer worm infosec
+0	threatmeter 0daytoday itech multi vendor script 6.49 sql injection vulnerability webapps exploits vulnerab
+0	rt emm david kopiluwak a new javascript payload from turla via securelist
+0	someone tried to resurrect 14-year-old sql slammer worm
+0	sql slammer comeback
+0	threatmeter webkit javascriptcore out-of-bounds denial of service
+0	threatmeter sql slammer comeback
+0	webapps zoneminder 1.29 1.30 cross-site scripting sql injection session fixation cross-site request
+0	mcmucca also make sure that you have javascript enabled in your browser ad-blocker extensions can sometimes block that.
+0	rt opendaylightsdn training alert expand your knowledge of sdn amp opendaylight with linuxfoundation training reserve your spot https
+0	russian cyber espionage group turla leverages on a new javascript malware securityaffairs turla malware espiona
+0	itech multi vendor script 6.49 sql injection
+0	dramanetwork sql injection vulnerability
+0	vulnerability security webapps alstrasoft e-friends 5.12 sql injection
+0	threatmeter arfitech sql injection vulnerability
+0	cyber infosec dramanetwork sql injection vulnerability
+0	dramanetwork sql injection vulnerability cxsecurity
+0	webapps alstrasoft video share enterprise 4.72 sql injection
+0	dramanetwork sql injection vulnerability
+0	cyber infosec upgeneration sql injection vulnerability
+0	slimaruser management 1.0 sql injection
+0	the latest linux webserver security thanks to bambino0710 krapans ruggerotonelli nginx infosec
+0	learn about ecomp the new linuxfoundation project to create a fully open network automation platform
+0	threatmeter webapps alstrasoft template seller pro 3.25e tempid parameter sql injection
+0	threatmeter slimaruser management 1.0 sql injection
+0	webapps iscripts autohoster 3.0 siteid parameter sql injection exploitdb
+0	upgeneration sql injection vulnerability
+0	russian cyber espionage group turla leverages on a new javascript malware securityaffairs turla malware espiona
+0	threatmeter 0daytoday visual link sharing websites builder script 2.1.0 sql injection vulnerability 0day e
+0	checkpointsw the slammer worm is back after 13 years to target ancient sql servers securityaffairs slammer
+0	threatmeter webapps viral pictures and video script 2.0.0 id parameter sql injection
+0	news cloudnativefdn purchases rethinkdb source code and contributes it to the linux foundation
+0	vuln exponent cms cve-2017-5879 sql injection vulnerability bugtraq
+0	block adverts delete flash kill java asd
+0	webapps clone script directory script 1.1.0 cid parameter sql injection exploitdb
+0	webapps web inspiration gallery script 1.0.0 id parameter sql injection exploitdb
+0	learn more about the openstack project in part 5 of this course preview series
+0	0daytoday viral fun facts sharing script 1.1.0 id parameter sql injection vulnerability 0day exploit
+0	the slammer worm is back after 13 years to target ancient sql servers security affairs infosec
+0	cybersecurity slammer worm slithers back online to attack ancient sql servers infosec
+0	0daytoday clone script directory script 1.1.0 cid parameter sql injection vulnerability 0day exploit
+0	0daytoday my photo gallery 1.0 sql injection unauthorized login vulnerabilities 0day exploit
+0	webapps ultimate viral media script 1.0 id parameter sql injection exploitdb
+0	new java track to be sponsored by pivotal cloudfoundry summit silicon valley 2017
+0	exponent cms 2.4.0 exprouter sql injection vulnerability exponent cms 2.4.0 exprouter sql injection vulnerabilit
+0	linus torvalds will speak at embedded linux conference and openiot summit again this year
+0	webapps visual link sharing websites builder script 2.1.0 sql injection exploitdb
+0	the slammer worm is back after 13 years to target ancient sql servers securityaffairs slammer worm hacking
+0	webapps upworthy clone script 1.1.0 id parameter sql injection
+0	vulnerability security webapps newsbee cms sql injection
+0	threatmeter block adverts delete flash kill java asd
+0	cybersecurity the slammer worm is back after 13 years to target ancient sql servers infosec
+0	scientific linux security update spice-server on sl6.x x86 64
+0	security canada sql slammer worm makes a comeback 14 years later
+0	threatmeter 0daytoday easy web search 3 id parameter sql injection vulnerability webapps exploits vulnerab
+0	good tip f hispano no better way to commemorate the day in our opinion learnlinux
+0	vulnerability security webapps viral fun facts sharing script 1.1.0 id parameter sql injection
+0	ibrahimatlinux shares solutions for common open source compliance woes download the ebook for more
+0	threatmeter exponent cms up to 2.3.x id title content id sql injection
+0	rt exploreoracle riding in the oracle retail tesla now that s going to lunch in style lifeatoracle mathieumilot
+0	exponent cms up to 2.3.x id title content id sql injection
+0	threatmeter webapps mysql file uploader 1.0 id parameter sql injection
+0	threatmeter na cve-2016-7400 multiple sql injection vulnerabilities in
+0	webapps easy support tools 1.0 stt parameter sql injection
+0	the latest linux webserver security thanks to 0xjudd security faqs flavourfy wordpress infosec
+0	easy web search 3 sql injection packetstorm
+0	0daytoday muviko video cms sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	thisiswhyimbroke clone script 4.0 sql injection packetstorm
+0	viral pictures and video script 2.0.0 sql injection
+0	vulnerability security visual link sharing websites builder script 2.1.0 sql injection
+0	rt ruggerotonelli syntribos python api security testing tool from openstack security group
+0	multi outlets pos 3.1 sql injection packetstorm
+0	scientific linux security update spice on sl7.x x86 64
+0	threatmeter amazon linux ami glibc alas-2017-792
+0	zdi-17-092 trend micro control manager ccgiservlet dlpincidentschedulesummaryresult sql injection remote code exe
+0	threatmeter web inspiration gallery script 1.0.0 sql injection
+0	bt options sql injection vulnerabilites
+0	vulnerability security upworthy clone script 1.1.0 sql injection
+0	web inspiration gallery script 1.0.0 sql injection
+0	newsbee cms sql injection
+0	rt sekirkity first blog post released at for code execution on sql servers via fileless clr stored procedures
+0	zdi-17-087 trend micro control manager ccgiservlet emailmessagedetected parameters sql injection remote code execution vulnerability
+0	threatmeter zdi-17-100 trend micro control manager ccgiservlet notificationmethodresult sql injection remote cod
+0	northerntomcat please see for help at
+0	vulnerability security fully featured news cms 1.0 sql injection
+0	zdi-17-088 trend micro control manager ccgiservlet id hidden red alert task id sql injection remote code execution vulnerability
+0	oracle customer relationship management technical foundation 12.1.1 obtain information vulnerability
+0	vuln trend micro control manager multiple sql injection vulnerabilities
+0	threatmeter amazon linux ami subversion mod dav svn alas-2017-794
+0	threatmeter questions and answers script 2.0.0 sql injection
+0	web inspiration gallery script 1.0.0 sql injection packetstorm
+0	threatmeter muviko video cms sql injection
+0	threatmeter suse sles11 security update mozillafirefox suse-su-2017 0426-1
+0	oraclevolunteers had a great time with cschoolsca sharing their work and passions with the future leaders of tomo
+0	cyber infosec sendroid 5.2 sql injection
+0	vulnerability security fome sms portal 2.0 sql injection
+0	24 7 amp 365 days a year the cloud is accessible to overhead door s hr and employees that s the power of oracle
+0	vulnerability security webapps fome sms portal 2.0 sql injection
+0	cyber infosec easy support tools 1.0 sql injection
+0	webapps mobiketa 3.5 sql injection exploitdb
+0	cyber infosec mobiketa complete mobile marketing 3.5 sql injection
+0	complete client management and billing 1.0.1 sql injection packetstorm
+0	edgar martinez cloud user assistance developer at oracle is passionate about teaching kids to program in guadalaj
+0	easy web search 3 sql injection
+0	turkish haber sql injection
+0	cyber infosec soa school management sql injection
+0	easy support tools 1.0 sql injection
+0	threatmeter ultimate viral media script 1.0 sql injection
+0	threatmeter 0daytoday soa school management sql injection vulnerability webapps exploits vulnerability 0
+0	mobiketa complete mobile marketing 3.5 sql injection exploit
+0	idg contributor network how suse is becoming a key player in the iot market
+0	threatmeter web inspiration gallery script 1.0.0 sql injection
+0	we can t be advocating moving to the cloud and not be doing it ourselves paul stevenson 02 at oraclembx lond
+0	sendroid 5.2 sql injection packetstorm
+0	thisiswhyimbroke clone script 4.0 sql injection
+0	visual link sharing websites builder script 2.1.0 sql injection
+0	threatmeter oraclevm 3.4 unbreakable etc ovmsa-2017-0039
+0	vulnerability security webapps client expert 1.0.1 sql injection
+0	webapps sendroid 5.2 sql injection
+0	web inspiration gallery script 1.0.0 sql injection
+0	threatmeter 0daytoday fome sms portal 2.0 sql injection vulnerability webapps exploits vulnerability 0da
+0	webapps client expert 1.0.1 sql injection
+0	webapps sendroid 5.2 sql injection exploitdb
+0	mobiketa complete mobile marketing 3.5 sql injection
+0	clone script directory script 1.1.0 sql injection
+0	threatmeter mobiketa complete mobile marketing 3.5 sql injection
+0	we can t be advocating moving to the cloud and not be doing it ourselves paul stevenson of 02 at oraclembx l
+0	0daytoday zigaform sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	how has margsmex accelerated speed of service with oraclehosp oraclecustomers
+0	threatmeter 0daytoday tiger post 3.0.1 sql injection vulnerability webapps exploits vulnerability 0day
+0	cyber infosec takas classified cogeigniter php classified ad script 1.1 sql injection
+0	threatmeter moodle 3.1.2 sql injection obtain information vulnerability
+0	ubuntu 16.10 linux-raspi2 vulnerabilities usn-3190-2 nessus
+0	multi outlets pos 3.1 sql injection cxsecurity
+0	0daytoday tiger post 3.0.1 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	takas classified cogeigniter php classified ad script 1.1 sql injection
+0	gram post instagram auto post multi accounts with paypal integration 1.0 sql injection
+0	takas classified cogeigniter php classified ad script 1.1 sql injection packetstorm
+0	to drive efficiency within nhs finance and procurement systems nepssg found oracleerpcloud to be the best solut
+0	webapps zigaform sql injection
+0	rt hakin9 robot arm kit features a raspberry pi hat linuxgizmos infosec hacking raspberrypi
+0	0daytoday gram post 1.0 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	tiger post facebook auto post multi pages groups profiles 3.0.1 sql injection packetstorm
+0	gentoo linux security advisory 201702-03 packetstorm
+0	searchsecurity sql slammer worm makes comeback 14 years later tripwire
+0	creative management system cms lite 1.3.1 sql injection
+0	threatmeter ubuntu 16.10 linux-raspi2 vulnerabilities usn-3190-2
+0	easy support tools 1.0 sql injection cxsecurity
+0	0daytoday takas classified 1.1 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	takas classified cogeigniter php classified ad script 1.1 sql injection
+0	takas classified cogeigniter php classified ad script 1.1 sql injection
+0	ultimate viral media script 1.0 sql injection cxsecurity
+0	threatmeter webapps takas classified 1.1 sql injection
+0	youtube analytics multi channel 3.0 sql injection exploit
+0	gram post instagram auto post multi accounts with paypal integration 1.0 sql injection
+0	sendroid 5.2 sql injection cxsecurity
+0	examplo online exam system sql injection cxsecurity
+0	the latest linux webserver security thanks to y a s s dinosn vps hosting wordpress security
+0	the city of munich now wants to abandon linux and switch back to windows
+0	the latest linux webserver security wordpress security
+0	run this in april update azure set sqlthreat detection generally available
+0	gentoo linux security advisory 201702-04 advisory
+0	youtube analytics multi channel 3.0 sql injection cxsecurity
+0	vulnerability security webapps domains amp hostings manager pro 3.0 entries parameter sql injection
+0	threatmeter webapps viavi real estate sql injection
+0	0daytoday viavi movie review id parameter sql injection vulnerability webapps exploits vulnerability 0day
+0	0daytoday quadz school management system 3.1 uisd parameter sql injection vulnerability 0day exploit
+0	0daytoday domains amp amp hostings manager pro 3.0 entries parameter sql injection vulner 0day exploit
+0	threatmeter 0daytoday viavi product review id parameter sql injection vulnerability webapps exploits vulne
+0	creative management system cms lite 1.3.1 sql injection cxsecurity
+0	desing by webkravat sqli vulnerability
+0	0daytoday quadz school management system 3.1 uisd parameter sql injection vulnerability 0day exploit
+0	vulnerability security webapps viavi movie review id parameter sql injection
+0	0daytoday viavi real estate sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	webapps ti online examination system 2.0 sql injection
+0	desing by webkravat sqli vulnerability
+0	news automotive grade linux continues rapid growth
+0	threatmeter joomla soccer bet 4.1.5 sql injection
+0	threatmeter webapps joomla component je gallery 1.3 photo id parameter sql injection
+0	vulnerability security joomla onisquotes 2.5 sql injection
+0	joomla component onisquotes 2.5 sql injection
+0	joomla component vik booking 1.7 sql injection
+0	joomla component onispetitions 2.5 sql injection
+0	joomla component onismusic 2 sql injection cxsecurity
+0	vulnerability security whizbiz business directory cms 1.9 sql injection
+0	security readings rsa 2017 sophoslabs sees spike in linux-iot malware nake see more
+0	rick jewell svp applications development oracle takes the keynote stage to discuss oracle s digital
+0	rsa 2017 sophoslabs sees spike in linux-iot malware sophoslabs
+0	whizbiz business directory cms 1.9 sql injection packetstorm
+0	quadz school management system 3.1 sql injection packetstorm
+0	threatmeter 0daytoday joomla onisquotes 2.5 component sql injection webapps exploits 0day exploit
+0	joomla joominaflileselling 2.2 sql injection
+0	red hat s jhibbets shares tips for increasing community engagement and lessons learned from twitter chats
+0	threatmeter 0daytoday joomla soccer bet 4.1.5 component sql injection vulnerability webapps exploits vulne
+0	threatmeter joomla sponsor wall 7.0 sql injection
+0	threatmeter whizbiz business directory cms 1.9 sql injection
+0	rt scmoracle yesterday s applications will only solve yesterday s problems cloud is the natural choice for the digital supply chain je
+0	threatmeter webapps joomla component je directory 1.7 ditemid parameter sql injection
+0	webapps joomla component je property finder 1.6.3 sql injection
+0	threatmeter joomla onispetitions 2.5 sql injection
+0	threatmeter webapps joomla component je auction 1.6 eid parameter sql injection
+0	threatmeter joomla onismusic 2 sql injection
+0	joomla component sponsor wall 7.0 sql injection
+0	joomla component sponsor wall 7.0 sql injection cxsecurity
+0	threatmeter joomla component onismusic 2 sql injection
+0	threatmeter joomla component onispetitions 2.5 sql injection
+0	threatmeter domains and hostings pro 3.0 sql injection
+0	threatmeter joomla component soccer bet 4.1.5 sql injection
+0	webapps joomla component je directory 1.7 ditemid parameter sql injection
+0	webapps joomla component je property finder 1.6.3 sql injection exploitdb
+0	glennseninger gvp oracle supplychain sales welcomes oraclemsce attendees as he kicks off tonight s keynote
+0	vulnerability security webapps joomla component je quoteform itemid parameter sql injection
+0	joomla vik booking 1.7 sql injection
+0	cybersecurity oracle has now spent seven years claiming that google plagiarized its code infosec
+0	joomla component sponsor wall 7.0 sql injection
+0	vulnerability security quadz school management system 3.1 sql injection
+0	joomla je property finder 1.6.3 sql injection exploit
+0	kicking off lfosls is linux foundation executive director jim zemlin
+0	threatmeter 0daytoday joomla gameserver 3.4 component sql injection vulnerability webapps exploits vulner
+0	joomla je video rate 1.0 sql injection exploit
+0	threatmeter 0daytoday joomla fastball 3.2.8 component sql injection vulnerability webapps exploits vulnera
+0	joomla je awd song 1.8 sql injection
+0	threatmeter ecava integraxor 5.0.413.0 sql injection cve-2016-8341
+0	news hart invests in open source development with linux foundation gold membership
+0	threatmeter 0daytoday quadz school management system 3.1 sql injection vulnerability webapps exploits vulner
+0	joomla gameserver 3.4 sql injection
+0	threatmeter joomla je tour 2.0 sql injection
+0	joomla je auto 1.5 sql injection exploit
+0	0daytoday joomla je quiz 2.3 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	cyber infosec joomla je ticket system 1.2 sql injection
+0	happy valentinesday from all of us at oracle
+0	threatmeter joomla je directory ads 1.7 sql injection
+0	videoinsight web client 6.3.5.11 sql injection cve-2017-5151
+0	0daytoday joomla je form creator 1.8 sql injection vulnerability webapps exploits vulnerability 0day explo
+0	rt eventslf save 100 on your vault linux storage amp filesystems conference registration through feb 23 register at
+0	joomla je k2 multiple form story 1.3 sql injection exploit
+0	0daytoday joomla je gallery 1.3 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	cyber infosec joomla je k2 multiple form story 1.3 sql injection
+0	0daytoday joomla je ticket system 1.2 sql injection vulnerability webapps exploits vulnerability 0day
+0	joomla je form creator 1.8 sql injection packetstorm
+0	if you don t feel comfortable taking risks to drive the business forward you cant excel lindsey mcquade michiganstateu oraclemsce
+0	rt jmlong oracle good morning oraclemsce attendees looking forward to a great day 2 keynotes about to begin scmoracle
+0	joomla je quiz 2.3 sql injection
+0	joomla je video rate 1.0 sql injection packetstorm
+0	rt scmoracle send your loved ones a special valentine s day photo at the photo booth iheartscm oraclemsce
+0	threatmeter 0daytoday joomla je k2 multiple form story 1.3 sql injection vulnerability webapps exploits vuln
+0	threatmeter joomla hbooking 1.9.9 sql injection
+0	have mentors take their expertise amp bring something that they can learn from you lindsey mcquade student michiganstateu oraclemsce
+0	joomla je directory ads 1.7 sql injection
+0	rt chorley jon supply chains are transforming rapidly driven by digital technology advancements exploit those changes with oracle scm cl
+0	cyber infosec joomla je form creator 1.8 sql injection
+0	0daytoday joomla je video rate 1.0 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	threatmeter joomla je gallery 1.3 sql injection
+0	cyber infosec joomla je messanger sql injection
+0	joomla component gameserver 3.4 sql injection
+0	threatmeter joomla component fastball 3.2.8 sql injection
+0	vulnerability security joomla je awd song 1.8 sql injection
+0	dana mccallum head of production partnerships carbon 3d shares her advice for women lean on one another to create success oraclemsce
+0	joomla hbooking 1.9.9 sql injection
+0	gentoo linux security advisory 201702-08 advisory
+0	rt malkady proud to have hart part of linuxfoundation as a gold member
+0	cve-2017-5151 an issue was discovered in videoinsight web client version 6.3.5.11 and previous versions a sql inj
+0	threatmeter advantech webaccess 8.1 sql injection cve-2017-5154
+0	ecava integraxor 5.0.413.0 sql injection cve-2016-8341
+0	joomla je gallery 1.3 sql injection
+0	joomla je directory ads 1.7 sql injection
+0	oracle linux 5 6 7 java-1.7.0-openjdk elsa-2017-0269
+0	joomla je auction 1.6 sql injection exploit
+0	rt scmoracle cindy reese oracle svp worldwide operations discussing oracle s aggressive supply chain transformation go-live date dece
+0	0daytoday joomla fastball 3.2.8 component sql injection vulnerability webapps exploits vulnerability 0day
+0	oracle offers you 3 different ways to deploy our technology we are the only supplier that gives you a single view donatelli oraclemsce
+0	cyber infosec joomla je grid folio sql injection
+0	0daytoday joomla hbooking 1.9.9 sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	threatmeter 0daytoday joomla je tour 2.0 sql injection vulnerability webapps exploits vulnerability 0day
+0	cyber infosec itech b2b 4.2.9 cross site scripting sql injection
+0	bugtraq cisco security response cisco smart install protocol misuse
+0	threatmeter javascript-based aslr bypass attack simplifies browser exploits
+0	webapps joomla component joomblog 1.3.1 sql injection exploitdb
+0	netsec news ram-mapping javascript defeats aslr leaves systems vulnerable to attacks
+0	threatmeter itech b2b 4.2.9 cross site scripting sql injection
+0	learn about realtime linux and the preempt rt patch via jan altenberg in this lfelc video
+0	threatmeter aslr-security-busting javascript hack demo d by university boffins
+0	rt sdtimes developerweek keynote shows oracle s cloudy future
+0	bugtraq cve-2017-5585 sql injection in opentext documentum content server 7.3 postgresql builds only bugtraq
+0	new aslr-busting javascript is about to make drive-by exploits much nastier
+0	vulnerability security webapps joomla component jsp store locator 2.2 id parameter sql injection
+0	cve-2016-3694 multiple sql injection vulnerabilities in modified ecommerce shopsoftware 2.0.0.0 revision 9678 whe
+0	cybersecurity bugtraq cisco security response cisco smart install protocol misuse infosec
+0	borchers js foundation has 23 open source projects only scratching the surface of the javascript ecosystem lfosls
+0	rt airbusintheus oracleteamusa unveils the ac 50 that will race in the americascup in bermuda
+0	rt libbymclark take the new free inclusive speaker orientation course from linuxfoundation and ncwit at learn
+0	joomla music collection 3.0.3 sql injection
+0	vulnerability security webapps joomla component joomblog 1.3.1 sql injection
+0	rt rbcontentpool sailing as tough as the nfl oracleteamusa skipper jspithill draws parallels ahead of americascup gt for press
+0	quadz school management system 3.1 sql injection cxsecurity
+0	joomla music collection 3.0.3 sql injection
+0	threatmeter webapps joomla component joomblog 1.3.1 sql injection
+0	bugtraq syss-2017-001 simplessus files sql injection ----begin pgp signed message---- hash sha256 adviso
+0	0daytoday joomla jsp store locator 2.2 component id parameter sql injection vulnerability 0day exploit
+0	lyons android is linux on the desktop it turned out even bigger than we thought in 2010 lfosls
+0	threatmeter rce in oracle netbeans opensource plugins primefaces 5.x expression language injection
+0	joomla music collection 3.0.3 sql injection cxsecurity
+0	vote for the linux foundation s vp of nfv heatherrkirksey in redhatnews s 2017 women in oss award
+0	rce in oracle netbeans opensource plugins primefaces 5.x expression language injection
+0	gillen operating system standard used to be windows or linux going forward it will be linux and windows will sometimes run on top lfosls
+0	rt oracleza a decade of achievements and glory it is now time to celebrate 10yearsofponelopele southafrica oracleacademy
+0	research security hacker breached 60 unis govt agencies via sql injection
+0	rt ruggerotonelli clickhouse new opensource columnar database nosql
+0	rasputin hacker uses sqli to hack 60 universities and government agencies
+0	threatmeter webapps joomla component spider calendar lite 3.2.16 sql injection
+0	vulnerability security webapps joomla component spider catalog lite 1.8.10 sql injection
+0	activeshow mod module sql injection cxsecurity
+0	the latest linux webserver security thanks to linuxaria virtinapro ramamoort security infosec
+0	joomla je messanger sql injection cxsecurity
+0	joomla je quoteform sql injection cxsecurity
+0	threatmeter 0daytoday joomla spider catalog lite 1.8.10 component sql injection vulnerability 0day exploit
+0	webapps joomla component spider catalog lite 1.8.10 sql injection
+0	joomla je classify ads 1.2 sql injection cxsecurity
+0	vulnerability security webapps joomla component spider faq lite 1.3.1 sql injection
+0	threatmeter a simple javascript exploit bypasses aslr protection on 22 cpu architectures
+0	take the new free inclusive speaker orientation course from linuxfoundation and ncwit at
+0	with the help of iot oracle cloud is bringing your supply chain to life via theregister
+0	na cve-2016-10134 sql injection vulnerability in zabbix before
+0	vulnerability security trendmicro interscan 6.5-sp2 build linux 1548 privilege escalation
+0	threatmeter zend framework up to 1.12.18 zend db select regex sql injection
+0	system76 refreshes ubuntu linux laptops with intel kaby lake nvidia gtx 10 series and 4k
+0	webapps joomla component jembedall 1.4 sql injection exploitdb
+0	threatmeter zend framework up to 1.12.19 zend db select sql injection
+0	congrats to oraclemktgcloud for leading the way amp being named a leader in gartner inc s latest magic quadrant for digital marketing hubs
+0	a new sql malware targets online shops running on magento
+0	vulnerability security joomla wmt content timeline 1.0 sql injection
+0	joomla component com docman gid parameter sql injection vulnerability
+0	0daytoday trendmicro interscan 6.5-sp2 build linux 1548 privilege escalation vulnerability 0day exploit
+0	threatmeter trendmicro interscan 6.5-sp2 build linux 1548 privilege escalation
+0	0daytoday joomla team display 1.2.1 component filter category parameter sql injection vulnerabi 0day exploit
+0	vulnerability security joomla jembedall 1.4 sql injection
+0	opentext documentum content server 7.3 sql injection
+0	the latest linux webserver security thanks to attritionorg wordpress infosec
+0	threatmeter dotcms 3.6.1 blind boolean sql injection
+0	joomla team display 1.2.1 sql injection packetstorm
+0	cyber infosec trendmicro interscan 6.5-sp2 build linux 1548 arbitrary file write
+0	threatmeter joomla spider catalog lite 1.8.10 sql injection
+0	carlaschroder shows how to install and manage the software collections repository for centos
+0	vulnerability security joomla team display 1.2.1 sql injection
+0	threatmeter joomla jembedall 1.4 sql injection
+0	0daytoday trendmicro interscan 6.5-sp2 build linux 1548 remote root vulnerability 0day exploit
+0	vulnerability security joomla spider facebook 1.6.1 sql injection
+0	threatmeter joomla component com topics id parameter sql injection vulnerability
+0	joomla spider faq lite 1.3.1 sql injection
+0	threatmeter joomla component com docman gid parameter sql injection vulnerability
+0	vulnerability security joomla jsp store locator 2.2 sql injection
+0	threatmeter joomla team display 1.2.1 sql injection
+0	threatmeter trendmicro interscan 6.5-sp2 build linux 1548 remote root
+0	joomla spider calendar lite 3.2.16 sql injection
+0	threatmeter microsoft sql server clr stored procedure payload execution
+0	threatmeter 0daytoday dotcms 3.6.1 blind boolean sql injection vulnerability cve-2017-5344 webapps exploits
+0	joomla component com maxcomment sql injection vulnerability
+0	threatmeter webapps joomla component joomloc-lite 1.3.2 site id parameter sql injection
+0	papers injecting sqlite database based applications exploitdb
+0	0daytoday microsoft sql server clr stored procedure payload execution exploit remote exploits 0day exploit
+0	0daytoday joomla google map store locator 4.4 component sql injection vulnerability 0day exploit
+0	0daytoday joomla joomloc-cat 4.1.3 component ville parameter sql injection vulnerability 0day exploit
+0	vulnerability security webapps joomla component joomloc-cat 4.1.3 ville parameter sql injection
+0	0daytoday joomla os services booking 2.5.1 component sql injection vulnerability 0day exploit
+0	threatmeter 0daytoday joomla most wanted real estate 1.1.0 component sql injection vulnerability 0day expl
+0	threatmeter joomla component com maxcomment sql injection vulnerability
+0	0daytoday joomla os property 3.0.8 component sql injection vulnerability webapps exploits vulnerability
+0	threatmeter 0daytoday microsoft sql server clr stored procedure payload execution exploit remote exploits 0
+0	microsoft sql server clr stored procedure payload execution
+0	threatmeter 0daytoday joomla eshop 2.5.1 component id parameter sql injection vulnerability 0day exploit
+0	webapps joomla component joomloc-lite 1.3.2 site id parameter sql injection
+0	threatmeter webapps joomla component os property 3.0.8 sql injection
+0	threatmeter 0daytoday joomla room management 1.0 component sql injection vulnerability webapps exploits vu
+0	threatmeter 0daytoday joomla os services booking 2.5.1 component sql injection vulnerability 0day exploit
+0	vulnerability security webapps joomla component jomwall 4.0 wuid parameter sql injection
+0	webapps joomla component paypal ipn for docman 3.1 id parameter sql injection exploitdb
+0	vigilnce joomla com rpl sql injection
+0	rt exploreoracle nothing better than a cup of coffee to start the day at oracledobrasil lifeatoracle
+0	threatmeter webapps joomla component paypal ipn for docman 3.1 id parameter sql injection
+0	windows wins the desktop but linux takes the world hitb
+0	joomla component com rsgallery2 gid parameter sql injection vulnerability
+0	threatmeter vigilnce joomla com rpl sql injection
+0	threatmeter webapps joomla component magic deals web 1.2.0 sql injection
+0	webapps joomla component magic deals web 1.2.0 sql injection exploitdb
+0	hp version control repository manager for linux lt 7.6.0 multiple vulnerabilities
+0	vulnerability security webapps joomla component directorix directory manager 1.1.1 sql injection
+0	na cve-2017-6098 a sql injection issue was discovered in the
+0	gentoo linux security advisory 201702-10 advisory
+0	threatmeter unstoppable javascript attack helps ad fraud tech support scams 0-day attacks
+0	threatmeter 0daytoday joomla paypal ipn for docman 3.1 component id parameter sql injection vulnerability 0
+0	scientific linux security update php on sl7.x x86 64 nessus
+0	0daytoday joomla j-cruisereservation standard 3.0 component city parameter sql injection vulner 0day exploit
+0	cyber infosec joomla anief 1.5 sql injection
+0	torvalds if you re making a small sensor at an endpoint reporting to a gateway linux may not be the best solution lfelc openiot
+0	threatmeter webapps joomla component j-cruisereservation standard 3.0 city parameter sql injection
+0	joomla djcatalog2 1.5 sql injection
+0	full house at the oraclesca booth at startupgrind silicon valley
+0	cybersecurity kaspersky no whiff of linux in our os because we need new start to secure iot infosec
+0	0daytoday joomla maqma helpdesk 4.2.7 component id parameter sql injection vulnerability 0day exploit
+0	threatmeter mail masta plugin 1.0 on wordpress inc campaign save.php list id sql injection
+0	sousou creating a functionally safe linux is a bigger problem than smaller rtos lfelc openiot
+0	0daytoday joomla directorix directory manager 1.1.1 component sql injection vulnerability 0day exploit
+0	dejab s scripts sql injection
+0	torvalds you re more secure w more specific amp less capable program linux doesn t want to be more specific amp less capable lfelc openiot
+0	let us show you how to win big in higher education with oracle procurement cloud highered
+0	na cve-2017-6096 a sql injection issue was discovered in the a sql injection issue was discovered in the ma
+0	oracle linux 6 7 openssl elsa-2017-0286 nessus
+0	sousou thanks to efforts of linux foundation amp vendors have merged connectivity projects to ensure devices can communicate lfelc openiot
+0	threatmeter 0daytoday joomla medialibrary basic 3.5 component sql injection vulnerability 0day exploit
+0	threatmeter joomla joomloc-cat 4.1.3 sql injection
+0	webapps joomla component booklibrary 3.6.1 sql injection exploitdb
+0	cisco identity services engine 1.4 0.908 sponsor portal sql injection
+0	vulnerability security joomla view content 1.5 1.6 sql injection
+0	threatmeter joomla docman 1.6 sql injection
+0	joomla bazaar platform 3.0 sql injection
+0	rt suse linux creator linus torvalds shares some of his secrets to success in building successful opensource projects
+0	linux spain has details on the new kernel release 4.10 named the anniversary edition by linus torvalds
+0	vulnerability security joomla docman 1.6 sql injection
+0	threatmeter joomla component com digistore cid parameter sql injection vulnerability
+0	joomla topics 1.6 sql injection
+0	0daytoday joomla booklibrary 3.6.1 component sql injection vulnerability webapps exploits vulnerability
+0	threatmeter joomla dcrc 1.6 sql injection
+0	joomla paypal ipn for docman 3.1 sql injection
+0	threatmeter webapps joomla component medialibrary basic 3.5 sql injection
+0	vulnerability security joomla topics 1.6 sql injection
+0	webapps joomla component booklibrary 3.6.1 sql injection
+0	threatmeter 0daytoday joomla booklibrary 3.6.1 component sql injection vulnerability webapps exploits vuln
+0	gentoo linux security advisory 201702-30 advisory
+0	vulnerability security webapps joomla component medialibrary basic 3.5 sql injection
+0	join university of pittsburg amp oracle to discuss best practices and lessons learned in adopting the cloud for bi
+0	opensuse security update chromium opensuse-2017-273
+0	webapps joomla component vehiclemanager 3.9 sql injection
+0	joomla os property 3.0.8 sql injection
+0	it s engineers week and we re reflecting on linuxcon where kids day helped youngsters learnlinux
+0	joomla userextranet 1.3.1 sql injection
+0	joomla store for k2 3.8.2 sql injection packetstorm
+0	rt sriramhere learnt a lot at openiot summit thanks to linuxfoundation for inviting me.
+0	cve-2017-5585 opentext documentum content server formerly emc documentum content server 7.3 when postgresql dat
+0	joomla appointmentbookingpro 4.0.1 sql injection
+0	the latest linux webserver security thanks to kmmwmwukk1vmuzi secureeb security wordpress
+0	threatmeter joomla userextranet 1.3.1 sql injection
+0	joomla userextranet 1.3.1 sql injection packetstorm
+0	gentoo linux security advisory 201702-30 packetstorm
+0	vulnerability security webapps joomla component userextranet 1.3.1 sql injection
+0	0daytoday joomla store for k2 3.8.2 component sql injection vulnerability webapps exploits vulnerability 0
+0	vulnerability security joomla realestatemanager 3.9 sql injection
+0	joomla medialibrary basic 3.5 sql injection packetstorm
+0	joomla rsgallery2 1.6 sql injection
+0	0daytoday joomla multitier 3.1 component sql injection vulnerability webapps exploits vulnerability 0day
+0	joomla j-businessdirectory 4.6.8 sql injection packetstorm
+0	threatmeter joomla eventix events calendar 1.0 sql injection
+0	joomla rsgallery2 1.6 sql injection packetstorm
+0	mbls flex cms 0.7.2 sql injection cross site scripting
+0	vulnerability security travel portal script 9.37 cross site scripting sql injection
+0	joomla j-cruisereservation standard 3.0 sql injection
+0	webapps joomla component community polls 4.5.0 sql injection
+0	threatmeter 0daytoday joomla community surveys 4.3 component sql injection vulnerability 0day exploit
+0	joomla appointmentbookingpro 4.0.1 sql injection
+0	vulnerability security joomla jajobboard 1.5 sql injection
+0	wordpress mail masta 1.0 sql injection packetstorm
+0	android javanano compiler arbitrary class loading instantiation packetstorm
+0	vulnerability security webapps joomla component ajax search for k2 2.2 sql injection
+0	threatmeter mbls flex cms 0.7.2 sql injection cross site scripting
+0	joomla medialibrary basic 3.5 sql injection
+0	mbls flex cms 0.7.2 sql injection cross site scripting
+0	0daytoday joomla ajax search for k2 2.2 component sql injection vulnerability 0day exploit
+0	joomla realestatemanager 3.9 sql injection
+0	threatmeter webapps joomla component joodatabase 3.1.0 sql injection
+0	scientific linux security update kernel on sl7.x x86 64
+0	vulnerability security webapps joomla component community surveys 4.3 sql injection
+0	0daytoday travel portal script 9.37 cross site scripting sql injection vulnerabilities 0day exploit
+0	threatmeter mbls flex cms 0.7.2 sql injection cross site scripting
+0	mbls flex cms 0.7.2 sql injection cross site scripting
+0	scientific linux security update kernel on sl6.x i386 x86 64
+0	vulnerability security easycom sql iplug denial of service
+0	travel portal script 9.37 cross site scripting sql injection
+0	travel portal script 9.37 cross site scripting sql injection
+0	webapps joomla component community quiz 4.3.5 sql injection
+0	joomla community polls 4.5.0 sql injection
+0	joomla jo facebook gallery 4.5 sql injection
+0	joomla com jajobboard v1.5 sql injection vulnerability
+0	threatmeter joomla jo facebook gallery 4.5 sql injection
+0	threatmeter joomla gps tools 4.0.1 sql injection
+0	threatmeter joomla com comprofiler component sql injection vulnerability
+0	joomla com comprofiler component sql injection vulnerability
+0	joomla ajax search for k2 2.2 sql injection
+0	joomla community quiz 4.3.5 sql injection
+0	joomla com wisroyq component pid parameter sql injection vulnerability cxsecurity
+0	joomla ajax search for k2 2.2 sql injection packetstorm
+0	joomla j-businessdirectory 4.6.8 sql injection cxsecurity
+0	webapps joomla component intranet attendance track 2.6.5 sql injection exploitdb
+0	joomla com civicrm component id parameter sql injection vulnerability
+0	vulnerability security joomla gps tools 4.0.1 sql injection
+0	joomla intranet attendance track 2.6.5 sql injection packetstorm
+0	vulnerability security joomla community quiz 4.3.5 sql injection
+0	google s stewardship of gnu linux android chromebooks and more in doubt after company resorts to patent first
+0	cyber infosec joomla com fsf component catid parameter sql injection vulnerability
+0	the latest linux webserver security thanks to wpverse wordpress fix
+0	joomla community quiz 4.3.5 sql injection
+0	joomla gps tools 4.0.1 sql injection
+0	cyber infosec joomla com remository component id parameter sql injection vulnerability
+0	joomla com fsf component catid parameter sql injection vulnerability
+0	joomla com remository component id parameter sql injection vulnerability
+0	threatmeter 0daytoday joomla my msg 3.2.1 component sql injection vulnerability webapps exploits vulnerabi
+0	threatmeter 0daytoday joomla appointments for jomsocial 3.8.1 component sql injection vulnerability 0day e
+0	joomla com rsgallery2 v1.6 sql injection vulnerability vulnlab
+0	joomla com rsgallery2 v1.6 sql injection vulnerability
+0	threatmeter joomla appointments for jomsocial 3.8.1 sql injection
+0	webapps joomla component gnosis 1.1.2 id parameter sql injection
+0	vulnerability security webapps joomla component onevote 1.0 sql injection
+0	webapps joomla component gnosis 1.1.2 id parameter sql injection exploitdb
+0	joomla my msg 3.2.1 sql injection
+0	threatmeter w3c high resolution time api javascript privilege escalation
+0	threatmeter 0daytoday joomla spinner 360 1.3.0 component sql injection vulnerability webapps exploits vuln
+0	the latest linux webserver security thanks to sandrokeil priyanshu itech wordpress infosec
+0	threatmeter 0daytoday joomla onevote 1.0 component sql injection vulnerability webapps exploits vulnerabi
+0	joomla jomsocial sql injection
+0	the latest linux webserver security thanks to nextweblinkcom edgarulloa srita karen wordpress infosec
+0	vulnerability security joomla appointments for jomsocial 3.8.1 sql injection
+0	0daytoday joomla gnosis 1.1.2 component id parameter sql injection vulnerability 0day exploit
+0	webapps joomla component appointments for jomsocial 3.8.1 sql injection
+0	threatmeter 0daytoday joomla jomsocial component sql injection vulnerability webapps exploits vulnerabili
+0	0daytoday joomla my msg 3.2.1 component sql injection vulnerability webapps exploits vulnerability 0day e
+0	oracle linux 5 6 unbreakable enterprise kernel elsa-2017-3522
+0	threatmeter webapps joomla component onevote 1.0 sql injection

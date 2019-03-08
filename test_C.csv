@@ -1,0 +1,648 @@
+relevant	tweet	tags
+1	na cve-2017-2983 adobe shockwave versions 12.2.7.197 and earlier adobe shockwave versions 12.2.7.197 and ea	O ID ORG PRO O VER O O ORG PRO O VER O O
+1	microsoft windows hyper-v cve-2017-0109 remote code execution vulnerability risk high date discovered march 14	ORG PRO O ID VUL VUL VUL VUL O O O O O O
+1	microsoft windows uniscribe multiple bugs let remote users obtain potentially sensitive information and execute ar	ORG PRO O VUL VUL O O O VUL VUL VUL VUL O O O
+1	cve-2017-2997 adobe flash player versions 24.0.0.221 and earlier have an exploitable buffer overflow underflow v	ID ORG PRO PRO O VER O O O O O VUL VUL VUL O
+1	microsoft windows 10 vhd gain privileges vulnerability microsoft windows 10 is prone to a gain privilege vulnerabi	ORG PRO VER O VUL VUL VUL ORG PRO VER O O O O VUL VUL VUL
+1	threatmeter adobe fixed critical vulnerabilities in flash and shockwave	O ORG O O O O PRO O PRO
+1	sap businessobjects financial consolidation 10.0.0.1933 frameset.htm cross site scripting	ORG O O O VER O VUL VUL VUL
+1	intel mcafee agent up to 4.8.0 patch 2 epo server spoofing	ORG ORG O VER VER VER O O O PRO VUL
+1	threatmeter ms17-016 security update for windows iis 4013074	O ID O O O PRO O ID
+1	cve-2016-8008 privilege escalation vulnerability in windows 7 and windows 10 in mcafee security scan plus ssp 3	ID VUL VUL VUL O PRO VER O PRO VER O ORG O O O O O
+1	ms17-016 important security update for windows iis 4013074 version 1.0 severity rating infosec	ID O O O O PRO O ID O VER O O O
+1	ms17-021 important security update for windows directshow 4010318 version 1.0 severity rating infosec	ID O O O O PRO O ID O VER O O O
+1	0daytoday adobe flash movieclip attach init object use-after-free exploit dos exploits 0day exploit	O ORG PRO O O O O VUL VUL VUL VUL O O
+1	threatmeter 0daytoday adobe flash movieclip attach init object use-after-free exploit dos exploits 0day	O O ORG PRO O O O O VUL VUL VUL VUL O
+1	several high risk 0-day vulnerabilities affecting sap hana found	O O O O O O ORG PRO O
+1	vuln sap enterprise portal styleservice cross site scripting vulnerability	O ORG PRO O O VUL VUL VUL VUL
+1	threatmeter vuln sap travel management cross site scripting vulnerability	O O ORG O O VUL VUL VUL VUL
+1	adobe fixes six code execution bugs in flashplayer patchtuesday	ORG O O VUL VUL VUL O PRO O
+1	vuln google chrome prior to 57.0.2987.98 multiple security vulnerabilities	O ORG PRO VER VER VER O O O
+1	threatmeter ms17-006 cumulative security update for internet explorer 4013073	O ID O O O O PRO PRO ID
+1	microsoft office cve-2017-0030 memory corruption vulnerability risk high date discovered march 14 2017 descr	ORG PRO ID VUL VUL VUL O O O O O O O O
+1	several high risk 0-day vulnerabilities affecting sap hana found helpnetsecurity	O O O O O O ORG PRO O O
+1	adobe flash player up to 24.0.0.221 primetime tvsdk buffer overflow	ORG PRO PRO VER VER VER O O VUL VUL
+1	vuln sap netweaver visual composer denial of service vulnerability bugtraq	O ORG PRO O O VUL VUL VUL VUL O
+1	threatmeter vuln sap netweaver visual composer denial of service vulnerability	O O ORG PRO O O VUL VUL VUL VUL
+1	cybersecurity vuln sap travel management cross site scripting vulnerability infosec	O O ORG O O VUL VUL VUL VUL O
+1	microsoft windows 10 server 2016 device guard bypass privilege escalation	ORG PRO VER PRO VER O O O VUL VUL
+1	cve-2017-3000 adobe flash player versions 24.0.0.221 and earlier have a vulnerability in the random number generat	ID ORG PRO PRO O VER O O O O O O O O O O
+1	cybersecurity several high risk 0-day vulnerabilities affecting sap hana found infosec	O O O O O O O ORG PRO O O
+1	threatmeter vuln sap security diagnostic tool unspecified cross site scripting vulnerability	O O ORG O O PRO VUL VUL VUL VUL VUL
+1	vuln sap security diagnostic tool unspecified cross site scripting vulnerability bugtraq	O ORG O O PRO VUL VUL VUL VUL VUL O
+1	ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0	ID O O O O O PRO PRO ID O VER
+1	ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0	ID O O O O O PRO PRO ID O VER
+1	vulnerability security vuln sap security diagnostic tool unspecified cross site scripting vulnerability	O O O ORG O O PRO VUL VUL VUL VUL VUL
+1	threatmeter ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0	O ID O O O O O PRO PRO ID O VER
+1	security news security updates fix critical vulnerabilities in flash player and shockwave player	O O O O O O O O PRO PRO O PRO O
+1	ms17-017 important security update for windows kernel 4013081 version 1.0 severity rating infosec	ID O O O O PRO PRO ID O VER O O O
+1	microsoft windows graphics component cve-2017-0014 remote code execution vulnerability risk high date discovere	ORG PRO O O ID VUL VUL VUL VUL O O O O
+1	threatmeter 0daytoday adobe flash metadata parsing out-of-bounds read exploit dos exploits 0day exploit	O O ORG PRO O O VUL VUL O VUL VUL O O
+1	adobe flash player up to 24.0.0.221 actionscript 2 camera object use-after-free buffer overflow	ORG PRO PRO VER VER VER O O O O VUL VUL VUL
+1	microsoft windows vista overflow gain privileges vulnerability microsoft windows vista overflow gain privileges	ORG PRO VER VUL VUL VUL VUL ORG PRO VER VUL VUL VUL
+1	microsoft internet explorer and edge cve-2017-0012 spoofing vulnerability risk medium date discovered march 14	ORG PRO PRO O PRO ID VUL O O O O O O O
+1	microsoft internet explorer and edge cve-2017-0033 spoofing vulnerability risk medium date discovered march 14	ORG PRO PRO O PRO ID VUL O O O O O O O
+1	vulnerability security adobe flash metadata out-of-bounds read	O O ORG PRO O VUL VUL
+1	microsoft windows 7 obtain information vulnerability microsoft windows 7 obtain information vulnerability 8 mar	ORG PRO VER VUL VUL VUL ORG PRO VER VUL VUL VUL O O
+1	microsoft internet explorer bugs let remote users obtain potentially sensitive information execute arbitrary code	ORG PRO PRO O O O O VUL VUL VUL VUL VUL VUL VUL
+1	cybersecurity chrome 57 patches 35 vulnerabilities infosec	O PRO VER O O O O
+1	microsoft windows server 2012 r2 driver overflow gain privileges vulnerability microsoft windows server 2012 r2	ORG PRO PRO VER VER O VUL VUL VUL VUL ORG PRO PRO VER VER
+1	microsoft windows server 2008 elevation gain privileges vulnerability	ORG PRO PRO VER VUL VUL VUL VUL
+1	threat network sap patches critical hana vulnerability that allowed full access	O O ORG O O PRO O O O O O
+1	vulnerability security bull ibm aix clusterwatch watchware file write command injection	O O O ORG PRO O O VUL VUL VUL VUL
+1	vulnerability security adobe flash avc header slicing heap overflow	O O ORG PRO O O O VUL VUL
+1	bull ibm aix clusterwatch watchware file write command injection	O ORG PRO O O VUL VUL VUL VUL
+1	webapps bull ibm aix clusterwatch watchware multiple vulnerabilities exploitdb	O O ORG PRO O O VUL VUL O
+1	na ms17-020 security update for windows dvd maker 3208223	O ID O O O PRO O O ID
+1	vuln sap security diagnostic tool unspecified cross site scripting vulnerability sap security diagnostic tool un	O ORG O O PRO VUL VUL VUL VUL VUL ORG O O PRO O
+1	google releases security update for chrome	ORG O O O O PRO
+1	vulnerability security dos adobe flash atf planar decompression heap overflow	O O O ORG PRO O O O VUL VUL
+1	vulnerability security dos adobe flash avc header slicing heap overflow	O O O ORG PRO O O O VUL VUL
+1	google publishes second unpatched windows 10 flaw in a month	ORG O O O PRO VER O O O O
+1	threatmeter latest google chrome update patches 9 high severity bugs	O O ORG PRO O O O O O O
+1	local microsoft windows com session moniker privilege escalation ms17-012 exploitdb	O ORG PRO O O O VUL VUL ID O
+1	microsoft windows color management information disclosure cve-2017-0061	ORG PRO O O VUL VUL ID
+1	threatmeter google goes public with high severity bug in microsoft edge and internet explorer	O ORG O O O O O O O ORG PRO O PRO PRO
+1	ms17-021 security update for windows directshow 4010318	ID O O O PRO O ID
+1	0daytoday bull ibm aix clusterwatch watchware multiple vulnerabilities webapps exploits vulnerabilities	O O ORG PRO O O VUL VUL O O O
+1	vuln sap travel management cross site scripting vulnerability sap travel management cross site scripting vulnera	O ORG O O VUL VUL VUL VUL ORG O O VUL VUL VUL O
+1	cve-2017-2983 adobe shockwave versions 12.2.7.197 and earlier have an insecure library loading dll hijacking vul	ID ORG PRO O VER O O O O O O O VUL VUL O
+1	dos adobe flash metadata parsing out-of-bounds read exploitdb	O ORG PRO O O VUL VUL O
+1	threatmeter 0daytoday bull ibm aix clusterwatch watchware multiple vulnerabilities webapps exploits vuln	O O O ORG PRO O O VUL VUL O O O
+1	adobe fixed critical vulnerabilities in flash and shockwave	ORG O O O O PRO O PRO
+1	0daytoday microsoft windows com session moniker privilege escalation ms17-012 exploit 0day exploit	O ORG PRO O O O VUL VUL ID O O O
+1	adobe patches vulnerabilities in flash shockwave	ORG O O O PRO PRO
+1	adobe fixed critical vulnerabilities in flash and shockwave adobe has fixed several critical issues infosec	ORG O O O O PRO O PRO ORG O O O O O O
+1	apsb17-08 security update available for adobe shockwave player	ID O O O O ORG PRO O
+1	security firm issues patch for another windows 0-day	O O O O O O PRO O
+1	chrome 56 crypto upgrade makes thousands of computers using bluecoat to fail google s latest chrome infosec	PRO VER O O O O O O O O O O ORG O O PRO O
+1	cybersecurity sap pushes to patch risky hana security flaws before hackers strike infosec	O ORG O O O O PRO O O O O O O
+1	cybersecurity microsoft releases windows 7 kb4012212 and monthly rollup kb4012215 infosec	O ORG O PRO VER O O O O O O
+1	chrome font wasn t found malware targets windows users	PRO O O O O O O PRO O
+1	sap patches critical hana vulnerability that allowed full access	ORG O O PRO O O O O O
+1	sap rushes to patch cyber security flaws in hana	ORG O O O O O O O PRO
+1	patch tuesday delayed update arrives as microsoft signals end of windows vista welcome back delayed infosec	O O O O O O ORG O O O PRO VER O O O O
+1	rt odisseus attacking windows based systems using the still unpatched smb vulnerability with a php file h t a de pasquale	O O O PRO O O O O O O O O O O PRO O O O O O O
+1	microsoft windows com session moniker privilege escalation	ORG PRO O O O VUL VUL
+1	vuln sap travel management cross site scripting vulnerability sap travel management cross site infosec	O ORG O O VUL VUL VUL VUL ORG O O O O O
+1	na ms17-008 security update for windows hyper-v 4013082 severity rating criticalrevision note v1.0 march	O ID O O O PRO O ID O O O O VER O
+1	windows vista support officially ending	PRO VER O O O
+1	cybersecurity security firm issues patch for another windows 0-day infosec	O O O O O O O PRO O O
+1	microsoft locks ryzen kaby lake users out of updates on windows 7 8.1	ORG O O O O O O O O O PRO VER VER
+1	windows insider build 15055 released for pc and mobile today microsoft released insider preview build infosec	PRO O O O O O O O PRO O ORG O O O O O
+1	threatmeter adobe flash avc header slicing heap overflow	O ORG PRO O O O VUL VUL
+1	threatmeter microsoft windows com session moniker privilege escalation	O ORG PRO O O O VUL VUL
+1	sap pushes 25 patches and two patch patches	ORG O O O O O O O
+1	cve-2015-8986 sandbox detection evasion vulnerability in hardware appliances in mcafee now intel security advanc	ID O O O O O O O O ORG O ORG O O
+1	google releases security update for chrome original release date march 09 2017 google has released infosec	ORG O O O O PRO O O O O O O ORG O O O
+1	sap pushes to patch risky hana security flaws before hackers strike	ORG O O O O PRO O O O O O
+1	vulnerability security shellcode windows x86 reverse tcp staged alphanumeric shellcode 332 bytes	O O O PRO VER O O O O O O O
+1	threatmeter shellcode windows x86 hide console window shellcode 182 bytes	O O PRO VER O O O O O O
+1	na ms17-021 security update for windows directshow 4010318 severity rating importantrevision note v1.0 ma	O ID O O O PRO O ID O O O O O O
+1	microsoft excel 2007 sp3 buffer overflow cve-2017-0052	ORG PRO VER VER VUL VUL ID
+1	microsoft internet explorer 9 10 11 information disclosure cve-2017-0008	ORG PRO PRO VER O VER VUL VUL ID
+1	threatmeter microsoft word excel 2007 sp3 buffer overflow cve-2017-0006	O ORG PRO PRO VER VER VUL VUL ID
+1	threatmeter microsoft internet explorer 9 10 11 information disclosure cve-2017-0008	O ORG PRO PRO VER O VER VUL VUL ID
+1	vuln microsoft windows vu 867968 memory corruption vulnerability	O ORG PRO O O VUL VUL VUL
+1	na cve-2017-2983 adobe shockwave versions 12.2.7.197 and earlier	O ID ORG PRO O VER O O
+1	threatmeter ms17-008 security update for windows hyper-v 4013082	O ID O O O PRO O ID
+1	ms17-014 security update for microsoft office 4013241 macos	ID O O O ORG PRO ID O
+1	ms17-023 security update for adobe flash player 4014329	ID O O O ORG PRO PRO ID
+1	threatmeter ms17-017 security update for windows kernel 4013081	O ID O O O PRO PRO ID
+1	security canada deprecated sha-1 certificates trip up sap ariba	O O VUL VUL VUL O O ORG O
+1	adobe fixes six code execution bugs in flash threatpost	ORG O O VUL VUL VUL O PRO O
+1	cybersecurity sap patches five vulnerabilities in sap hana infosec	O ORG O O O O ORG PRO O
+1	security alert a17-03-04 multiple vulnerabilities in adobe flash player	O O ID VUL VUL O ORG PRO PRO
+1	ms17-016 important security update for windows iis 4013074 version 1.0	ID O O O O PRO O ID O VER
+1	security canada operation rosehub patches java vulnerabilities in open source projects	O O O O O PRO O O O O O
+1	ms17-009 critical security update for microsoft windows pdf library 4010319 version 1.0	ID O O O O ORG PRO O O ID O VER
+1	security news windows snooping patches kb 2952664 kb 2976978 are back again	O O PRO O O O O O O O O O
+1	na cve-2016-8007 authentication bypass vulnerability in mcafee authentication bypass vulnerability in mcafe	O ID VUL VUL VUL O ORG VUL VUL VUL O O
+1	microsoft windows uniscribe cve-2017-0087 remote code execution vulnerability risk high date discovered march	ORG PRO O ID VUL VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0083 remote code execution vulnerability risk high date discovered march	ORG PRO O ID VUL VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability risk high date discovered march	ORG PRO O ID VUL VUL VUL VUL O O O O O
+1	threatmeter microsoft windows vista sp2 7 sp1 server 2008 sp2 registry privilege escalation	O ORG PRO VER VER VER O PRO VER VER O VUL VUL
+1	microsoft windows smb server cve-2017-0143 remote code execution vulnerability risk high date discovered march	ORG PRO O PRO ID VUL VUL VUL VUL O O O O O
+1	threatmeter microsoft windows uniscribe multiple bugs let remote users obtain potentially sensitive information a	O ORG PRO O VUL VUL O O O VUL VUL VUL VUL O
+1	cve-2016-8027 sql injection vulnerability in core services in intel security mcafee epolicy orchestrator epo 5.3	ID VUL VUL VUL O O O O ORG O ORG PRO PRO O VER
+1	cve-2016-8027 sql injection vulnerability in core services in intel security mcafee epolicy orchestrator epo 5.3	ID VUL VUL VUL O O O O ORG O ORG PRO PRO O VER
+1	vulnerability security vuln oracle java se cve-2016-5548 remote security vulnerability	O O O ORG PRO PRO ID O O O
+1	red hat security advisory 2017-0340-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0336-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0342-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0454-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0457-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0535-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0531-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0526-01 advisory	ORG ORG O ID ID O
+1	red hat security advisory 2017-0498-01 packetstorm	ORG ORG O ID ID O
+1	medium rhsa-2017 0462 java-1.8.0-ibm security update	O ID ID PRO O O
+1	vulnerability security vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability	O O O ORG PRO PRO O PRO ID O O O
+1	suse sled12 sles12 security update libquicktime suse-su-2017 0610-1	PRO PRO PRO O O O ID ID
+1	vulnerability security vuln sap netweaver information disclosure vulnerability	O O O ORG PRO VUL VUL VUL
+1	vuln oracle java se cve-2017-3289 remote security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle java se cve-2017-3289 remote security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle java se cve-2017-3272 remote security vulnerability	O ORG PRO PRO ID O O O
+1	vuln oracle java se cve-2017-3289 remote security vulnerability	O ORG PRO PRO ID O O O
+1	threatmeter vuln oracle java se cve-2017-3289 remote security vulnerability	O O ORG PRO PRO ID O O O
+1	vulnerability security vuln adobe flash player cve-2017-3000 information disclosure vulnerability	O O O ORG PRO PRO ID VUL VUL VUL
+1	vulnerability security vuln adobe flash player cve-2017-3000 information disclosure vulnerability	O O O ORG PRO PRO ID VUL VUL VUL
+1	vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability	O ORG PRO PRO O PRO ID O O O
+1	vuln oracle java se and jrockit cve-2017-3252 remote security vulnerability	O ORG PRO PRO O PRO ID O O O
+1	cybersecurity vuln oracle java se cve-2017-3289 remote security vulnerability infosec	O O ORG PRO PRO ID O O O O
+1	ms17-014 important security update for microsoft office 4013241 version 1.0	ID O O O O ORG PRO ID O VER
+1	ms17-017 important security update for windows kernel 4013081 version 1.0	ID O O O O PRO PRO ID O VER
+1	ms17-017 important security update for windows kernel 4013081 version 1.0	ID O O O O PRO PRO ID O VER
+1	ms17-012 critical security update for microsoft windows 4013078 version 1.0	ID O O O O ORG PRO ID O VER
+1	vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability bugtraq	O ORG PRO PRO O PRO ID O O O O
+1	threatmeter vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability	O O ORG PRO PRO O PRO ID O O O
+1	ms17-023 critical security update for adobe flash player 4014329 version 1.0	ID O O O O ORG PRO PRO ID O VER
+1	vulnerability security vuln microsoft windows hyper-v cve-2017-0097 remote denial of service vulnerability	O O O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vulnerability security vuln microsoft windows hyper-v cve-2017-0098 remote denial of service vulnerability	O O O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vuln oracle java se cve-2017-3289 remote security vulnerability oracle java se cve-2017-3289 remote infosec	O ORG PRO PRO ID O O O ORG PRO PRO ID O O
+1	vuln oracle java se cve-2016-5549 remote security vulnerability oracle java se cve-2016-5549 remote infosec	O ORG PRO PRO ID O O O ORG PRO PRO ID O O
+1	vuln libevent multiple security vulnerabilities vulnerable redhat enterprise linux 7 redhat enterprise linux 6	O O O O O O ORG PRO PRO VER ORG PRO PRO VER
+1	medium rhsa-2017 0462 java-1.8.0-ibm security update problem description an update for java-1.8.0-ibm is now	O ID ID PRO O O O O O O O PRO O O
+1	vuln oracle java se and jrockit cve-2017-3253 remote security vulnerability vulnerable ubuntu ubuntu linux 12	O ORG PRO PRO O PRO ID O O O O PRO PRO PRO VER
+1	uncovering cross-process injection with windows defender atp	O VUL VUL O PRO O O
+1	news in brief aws fail hits services youtube launches streaming service windows gets walled garden infosec	O O O O O O O O O O O PRO O O O O
+1	threatmeter windows server message block request handling flaws let remote users obtain potentially sensitive inf	O PRO PRO O O O O O O VUL VUL VUL VUL VUL VUL
+1	some critical vulns six that can lead to rce being patched in adobe flashplayer this morning story to come.	O O O O O O O O VUL O O O ORG PRO O O O O O
+1	threatmeter wikileaks us spying files how windows users can protect themselves from the cia	O O O O O O PRO O O O O O O O
+1	windows 10 option to block installation of win32 apps	PRO VER O O O O O O O
+1	cyberpunk blackhat windows pe binary static analysis tool binskim	O O PRO O O O O PRO O
+1	microsoft issues 30 day warning for windows vista eol	ORG O O O O O PRO VER O
+1	googlechrome update fixes high severity flaws pays out 38k	PRO O O O O O O O O
+1	threatmeter spora ransomware disguises under fake chrome font pack update	O VUL VUL O O O PRO O O O
+1	microsoft internet explorer 10 11 buffer overflow cve-2017-0037	ORG PRO PRO VER VER VUL VUL ID
+1	microsoft windows 10 1607 overflow gain privileges vulnerability	ORG PRO VER O VUL VUL VUL VUL
+1	vuln sap hana unspecified denial of service vulnerability sap hana unspecified denial of service vulnerability	O ORG PRO VUL VUL VUL VUL VUL ORG PRO VUL VUL VUL VUL VUL
+1	vuln sap hana unspecified denial of service vulnerability	O ORG PRO VUL VUL VUL VUL VUL
+1	vuln sap hana unspecified denial of service vulnerability	O ORG PRO VUL VUL VUL VUL VUL
+1	threatmeter vuln sap hana unspecified denial of service vulnerability	O O ORG PRO VUL VUL VUL VUL VUL
+1	microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL VUL VUL O O O O O
+1	microsoft windows hyper-v cve-2017-0099 remote denial of service vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0127 information disclosure vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0124 information disclosure vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0111 information disclosure vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL O O O O O
+1	microsoft windows uniscribe cve-2017-0123 information disclosure vulnerability risk medium date discovered mar	ORG PRO O ID VUL VUL VUL O O O O O
+1	microsoft internet explorer cve-2017-0008 information disclosure vulnerability risk medium date discovered mar	ORG PRO PRO ID VUL VUL VUL O O O O O
+1	vuln microsoft windows hyper-v cve-2017-0021 memory corruption vulnerability	O ORG PRO O ID VUL VUL VUL
+1	vuln microsoft windows hyper-v cve-2017-0097 remote denial of service vulnerability	O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability	O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vuln microsoft windows hyper-v cve-2017-0098 remote denial of service vulnerability	O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vuln microsoft windows hyper-v cve-2017-0097 remote denial of service vulnerability	O ORG PRO O ID VUL VUL VUL VUL VUL
+1	vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability bugtraq	O ORG PRO O ID VUL VUL VUL VUL VUL O
+1	vuln microsoft windows hyper-v cve-2017-0098 remote denial of service vulnerability microsoft windows infosec	O ORG PRO O ID VUL VUL VUL VUL VUL ORG PRO O
+1	vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability microsoft windows infosec	O ORG PRO O ID VUL VUL VUL VUL VUL ORG PRO O
+1	rhel 5 6 7 thunderbird rhsa-2017 0498	PRO VER VER VER O ID ID
+1	threatmeter microsoft windows vista sp2 7 sp1 server 2008 sp2 privilege escalation	O ORG PRO VER VER VER O PRO VER VER VUL VUL
+1	rhel 5 6 7 thunderbird rhsa-2017 0498 nessus	PRO VER VER VER O ID ID PRO
+1	microsoft windows uniscribe information disclosure cve-2017-0125	ORG PRO O VUL VUL ID
+1	microsoft windows uniscribe information disclosure cve-2017-0111	ORG PRO O VUL VUL ID
+1	microsoft windows uniscribe buffer overflow cve-2017-0087	ORG PRO O VUL VUL ID
+1	microsoft windows uniscribe information disclosure cve-2017-0115	ORG PRO O VUL VUL ID
+1	microsoft windows uniscribe information disclosure cve-2017-0112	ORG PRO O VUL VUL ID
+1	rhel 6 7 java-1.8.0-ibm rhsa-2017 0462	PRO VER VER PRO ID ID
+1	threatmeter microsoft windows uniscribe information disclosure cve-2017-0122	O ORG PRO O VUL VUL ID
+1	threatmeter microsoft windows uniscribe information disclosure cve-2017-0114	O ORG PRO O VUL VUL ID
+1	threatmeter rhel 5 6 java-1.6.0-ibm rhsa-2017 0338	O PRO VER VER PRO ID ID
+1	microsoft windows up to server 2016 uniscribe information disclosure	ORG PRO O O PRO VER O VUL VUL
+1	vuln microsoft windows uniscribe cve-2017-0086 remote code execution vulnerability	O ORG PRO O ID VUL VUL VUL VUL
+1	vuln microsoft windows uniscribe cve-2017-0086 remote code execution vulnerability	O ORG PRO O ID VUL VUL VUL VUL
+1	threatmeter microsoft windows up to server 2016 uniscribe information disclosure	O ORG PRO O O PRO VER O VUL VUL
+1	threatmeter microsoft windows up to server 2016 uniscribe buffer overflow	O ORG PRO O O PRO VER O VUL VUL
+1	threatmeter vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability	O O ORG PRO O ID VUL VUL VUL VUL
+1	vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability bugtraq	O ORG PRO O ID VUL VUL VUL VUL O
+1	microsoft windows uniscribe cve-2017-0114 information disclosure vulnerability type vulnerability microsoft wind	ORG PRO O ID VUL VUL VUL O O ORG O
+1	vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability microsoft windows infosec	O ORG PRO O ID VUL VUL VUL VUL ORG PRO O
+1	microsoft windows 8.1 rt 8.1 10 server 2012 server 2012 r2 win32k privilege escalation	ORG PRO VER O VER O PRO VER PRO VER VER O VUL VUL
+1	microsoft windows 8.1 rt 8.1 10 server 2012 server 2012 r2 win32k privilege escalation	ORG PRO VER O VER O PRO VER PRO VER VER O VUL VUL
+1	sap businessobjects financial consolidation 10.0.0.1933 cross site scripting exploit	ORG O O O VER VUL VUL VUL O
+1	threatmeter 0daytoday ibm websphere remote code execution java deserialization exploit remote exploits 0day	O O ORG O VUL VUL VUL PRO O O VUL VUL O
+1	microsoft windows up to server 2016 privilege escalation cve-2017-0102	ORG PRO O O PRO VER VUL VUL ID
+1	threatmeter microsoft windows up to server 2016 privilege escalation cve-2017-0102	O ORG PRO O O PRO VER VUL VUL ID
+1	threatmeter microsoft windows up to server 2016 win32k privilege escalation	O ORG PRO O O PRO VER O VUL VUL
+1	vuln microsoft office cve-2017-0029 denial of service vulnerability	O ORG PRO ID VUL VUL VUL VUL
+1	oracle jre 1.8.0 remote code execution vulnerability oracle jre is prone to a remote code-execution vulnerability	ORG PRO VER VUL VUL VUL VUL ORG PRO O O O O O O O
+1	apsb17-01 adobe acrobat reader type confusion remote code execution	ID ORG PRO PRO VUL VUL VUL VUL VUL
+1	microsoft windows server 2016 bypass a restriction or similar obtain information vulnerability microsoft windows	ORG PRO PRO VER VUL VUL VUL VUL VUL VUL VUL VUL ORG PRO
+1	cve-2017-2992 apsb17-04 adobe flash player heap overflow remote code execution iii mcafee	ID ID ORG PRO PRO VUL VUL VUL VUL VUL O ORG
+1	vuln adobe flash player cve-2017-3000 information disclosure vulnerability	O ORG PRO PRO ID VUL VUL VUL
+1	vuln adobe flash player cve-2017-3000 information disclosure vulnerability	O ORG PRO PRO ID VUL VUL VUL
+1	vuln microsoft windows cve-2017-0016 memory corruption vulnerability	O ORG PRO ID VUL VUL VUL
+1	threatmeter microsoft windows server 2016 bypass a restriction or similar obtain information vulnerability	O ORG PRO PRO VER VUL VUL VUL VUL VUL VUL VUL VUL
+1	vuln red hat jboss enterprise application platform cve-2016-8657 local privilege escalation vulnerability vulner	O ORG ORG PRO PRO O PRO ID VUL VUL VUL VUL O
+1	vuln red hat jboss enterprise application platform cve-2016-8657 local privilege escalation vulnerability bugtraq	O ORG ORG PRO PRO O PRO ID VUL VUL VUL VUL O
+1	vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities	O ORG PRO PRO ID VUL VUL VUL VUL VUL VUL VUL O
+1	vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities	O ORG PRO PRO O PRO ID VUL VUL VUL VUL VUL
+1	oracle java javafx denial of service	ORG PRO O VUL VUL VUL
+1	adobe acrobat reader dc 15.006.30201 os windows denial of service execute code overflow memory corruption vulnerability	ORG PRO PRO O VER O PRO VUL VUL VUL VUL VUL VUL VUL VUL VUL
+1	vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities adobe infosec	O ORG PRO PRO ID VUL VUL VUL VUL VUL VUL VUL O ORG O
+1	vuln adobe flash player apsb17-07 multiple memory corruption vulnerabilities bugtraq	O ORG PRO PRO ID VUL VUL VUL VUL O
+1	rhel 5 kernel rhsa-2017 0347	PRO VER PRO ID ID
+1	vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities bugtraq	O ORG PRO PRO ID VUL VUL VUL VUL VUL VUL VUL O O
+1	threatmeter vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities	O O ORG PRO PRO ID VUL VUL VUL VUL VUL VUL VUL O
+1	threatmeter vuln adobe flash player cve-2017-3000 information disclosure vulnerability	O O ORG PRO PRO ID VUL VUL VUL
+1	threatmeter adobe flash player 11.2.202.635 linux execute code vulnerability	O ORG PRO PRO VER PRO VUL VUL VUL
+1	vuln microsoft internet explorer and edge cve-2017-0037 remote memory corruption vulnerability infosec	O ORG PRO PRO O PRO ID VUL VUL VUL VUL O
+1	vuln microsoft internet explorer and edge cve-2017-0037 remote memory corruption vulnerability bugtraq	O ORG PRO PRO O PRO ID VUL VUL VUL VUL O
+1	vuln adobe flash player cve-2017-2997 buffer overflow vulnerability	O ORG PRO PRO ID VUL VUL O
+1	vuln adobe flash player cve-2017-2997 buffer overflow vulnerability	O ORG PRO PRO ID VUL VUL O
+1	adobe flash player lt 24.0.0.221 multiple vulnerabilities apsb17-07	ORG PRO PRO O VER VUL VUL ID
+1	adobe flash player for mac lt 24.0.0.221 multiple vulnerabilities apsb17-07 nessus	ORG PRO PRO O PRO O VER VUL VUL ID PRO
+1	rhel 7 red hat jboss web server 3.1.0 rhsa-2017 0456 nessus	PRO VER ORG ORG PRO O PRO VER ID ID PRO
+1	vuln sap netweaver information disclosure vulnerability bugtraq	O ORG PRO VUL VUL VUL O
+1	rhel 6 red hat jboss web server 3.1.0 rhsa-2017 0455	PRO VER ORG ORG PRO O PRO VER ID ID
+1	cybersecurity vuln adobe flash player cve-2017-3000 information disclosure vulnerability infosec	O O ORG PRO PRO ID VUL VUL VUL O
+1	vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability	O ORG PRO O O ID VUL VUL VUL VUL
+1	vuln red hat cloudforms management engine cve-2017-2632 privilege escalation vulnerability	O ORG ORG PRO O O ID VUL VUL VUL
+1	rhel 7 policycoreutils rhsa-2017 0536 nessus	PRO VER O ID ID PRO
+1	threatmeter rhel 5 java-1.7.0-ibm rhsa-2017 0337	O PRO VER PRO ID ID
+1	rhel 5 kvm rhsa-2017 0454 nessus	PRO VER O ID ID PRO
+1	threatmeter rhel 5 kernel rhsa-2017 0347	O PRO VER PRO ID ID
+1	microsoft windows graphics component cve-2017-0060 local information disclosure vulnerability type vulnerability	ORG PRO O O ID VUL VUL VUL VUL O O
+1	vuln microsoft windows graphics component cve-2017-0108 remote code execution vulnerability bugtraq	O ORG PRO O O ID VUL VUL VUL VUL O
+1	vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability bugtraq	O ORG PRO O O ID VUL VUL VUL VUL O
+1	vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability bugtraq	O ORG PRO O O ID VUL VUL VUL VUL O
+1	cybersecurity vuln adobe flash player cve-2017-2997 buffer overflow vulnerability infosec	O O ORG PRO PRO ID VUL VUL O O
+1	cybersecurity vuln microsoft internet explorer and edge cve-2017-0037 remote memory corruption infosec	O O ORG PRO PRO O PRO ID O VUL VUL O
+1	threatmeter microsoft windows 10 server 2016 win32k privilege escalation	O ORG PRO VER PRO VER O VUL VUL
+1	cybersecurity vuln microsoft windows cve-2017-0038 incomplete fix information disclosure vulnerability infosec	O O ORG PRO ID O O VUL VUL VUL O
+1	cve-2017-3002 adobe flash player versions 24.0.0.221 and earlier have an exploitable use after free vulnerability	ID ORG PRO PRO O VER O O O O O VUL VUL VUL VUL
+1	cybersecurity adobe fixes critical code execution bugs in flash infosec	O ORG O O VUL VUL VUL O PRO O
+1	na cve-2017-2997 adobe flash player versions 24.0.0.221 and	O ID ORG PRO PRO O VER O
+1	sap businessobjects financial consolidation 10.0.0.1933 cross site scripting	ORG O O O VER VUL VUL VUL
+1	na cve-2017-2998 adobe flash player versions 24.0.0.221 and adobe flash player versions 24.0.0.221 and earl	O ID ORG PRO PRO O VER O ORG PRO PRO O VER O O
+1	na cve-2017-3003 adobe flash player versions 24.0.0.221 and adobe flash player versions 24.0.0.221 and earl	O ID ORG PRO PRO O VER O ORG PRO PRO O VER O O
+1	cybersecurity bugtraq re cve-2017-3241 erpscan-17-006 oracle openjdk java serialization dos infosec	O O O ID ID ORG PRO PRO O O O
+1	sap businessobjects financial consolidation 10.0.0.1933 cross site scripting packetstorm	ORG O O O VER VUL VUL VUL O
+1	threatmeter cve-2017-3001 adobe flash player versions 24.0.0.221 and earlier have an exploitable use after free v	O ID ORG PRO PRO O VER O O O O O VUL VUL VUL O
+1	sap businessobjects financial consolidation input validation flaw lets remote users conduct cross-site scripting a	ORG O O O VUL VUL VUL O O O O VUL VUL O
+1	cve-2017-2999 adobe flash player versions 24.0.0.221 and earlier have an exploitable memory corruption vulnerabili	ID ORG PRO PRO O VER O O O O O VUL VUL O
+1	cve-2017-2999 adobe flash player versions 24.0.0.221 and earlier have an exploitable memory corruption vulnerabili	ID ORG PRO PRO O VER O O O O O VUL VUL O
+1	na rhsa-2017 0340 red hat enterprise linux 5 one-month retirement notice problem description this is the one	O ID ID ORG ORG PRO PRO VER O O O O O O O O O
+1	credit card stealer disguises as google chrome browser	O O O O O ORG PRO O
+1	cybersecurity google shames microsoft for not fixing windows 10 browser bug infosec	O ORG O ORG O O O PRO VER O O O
+1	threat network google chrome 57 browser update patches high severity flaws	O O ORG PRO VER O O O O O O
+1	operation rosehub patches java vulnerabilities in open source projects google employees recently infosec	O O O PRO O O O O O ORG O O O
+1	operation rosehub patches java vulnerabilities in open source projects	O O O PRO O O O O O
+1	threatmeter ms16-133 microsoft office memory denial of service 3199168	O ID ORG PRO O VUL VUL VUL ID
+0	all night binge watching no problem get up to 45 longer battery life than google chrome with microsoftedge
+0	leftystewart gotcha thanks for getting back to us we re always here if you have any questions about windows 10.
+0	how to add featured images or post thumbnails in wordpress
+0	the latest linux webserver security thanks to centminmod wordpress security
+0	cybersecurity social media passwords shouldn t be a condition of entry to the us infosec
+0	kama click counter plugin up to 3.4.8 on wordpress wp-admin admin.php order by order sql injection
+0	curbles excellent make sure to check out all the new features coming in the creators update.
+0	palo alto q3 outlook disappoints amid execution issues sales for the second quarter were light relative infosec
+0	security slip-ups in 1password and other password managers extremely worrying theregister
+0	rt ow well i ve fully switched to windows for personal work and frankly windows 10 is getting better faster than mac is.
+0	researchers say there are multiple ways redirect to smb xss to exploit the unpatched smb 0day in windows
+0	does cyber security have an operational excellence problem ayoran thinks so cybersecurity via forbestech
+0	threatmeter wordpress kama click counter 3.4.9 sql injection
+0	jxmebeauty and if you re using the free wordpress software you can get help from the community here
+0	cybersecurity password re-use is rampant among millennials 18-30 infosec
+0	hype fox hi there have you tried the steps in this article to repair chrome if it freezes keep us posted.
+0	home amp office buffy the vampire slayer adult coloring book
+0	home amp office buffy the vampire slayer adult coloring book into every generation an artist is born infosec
+0	popular android password managers expose credentials
+0	nogribin pretty cool right have any other apps or features in windows 10 caught your eye lately
+0	teamow excellent thanks for getting back to us we re always here if you have any questions about windows 10.
+0	qpurplejedi excellent which devices are you currently looking at
+0	rt danwoodsearly amit yoran ayoran ceo of tenablesecurity explains why cybersecurity needs more operational excellence
+0	aeroengineer1 great we appreciate it your feedback helps us make windows even better.
+0	microsoft slaps apple gatekeeper-like controls on windows 10 install only apps from store theregister
+0	imation to fork out 11m in patent suit ironkey flash drive patent was at stake a jury has found that infosec
+0	serious security vulnerabilities found in some of android s most popular password manager apps
+0	cyber infosec wordpress themes theagency file upload vulnerability
+0	internet-connected teddy bear leaks millions of voice messages and password every parent should think infosec
+0	sparkjava 2.5 directory traversal vulnerability
+0	newstatpress plugin 1.2.4 on wordpress persistent cross site scripting
+0	0daytoday wordpress global content blocks 2.1.5 plugin cross-site request forgery vulnerability 0day exploi
+0	giveawaydowly we re glad you re a fan of windows hello have any other features caught your eye
+0	popular android password managers expose credentials
+0	popup by supsystic wordpress plugin vulnerable to cross-site request forgery fulldisclosure
+0	9 popular password manager apps found leaking your secrets
+0	webapps wordpress plugin global content blocks 2.1.5 cross-site request forgery
+0	security slip-ups in 1password and other password managers extremely worrying
+0	simple ads manager wordpress plugin unauthenticated php object injection vulnerability fulldisclosure
+0	wordpress photo plugin opens a million sites to sqli database feasting theregister
+0	congratulations ibm for inventing out-of-office email you win stupid patent of the month
+0	wordpress photo plugin opens a million sites to sqli database feasting
+0	0daytoday wordpress user login log 2.2.1 plugin cross-site scripting vulnerability 0day exploit
+0	0daytoday wordpress newstatpress 1.2.4 plugin cross-site scripting vulnerability 0day exploit
+0	webapps wordpress plugin file manager 3.0.1 cross-site request forgery exploitdb
+0	safe browsing on mac will warn users of apps that modify chrome settings google said today that starting infosec
+0	kamipankaj right on what else are you using to stay productive on windows
+0	9 popular password manager apps found leaking your secrets
+0	home amp office harry potter fine art prints the boy who lived we don t remember having to stop infosec
+0	cross-site request forgery in global content blocks wordpress plugin fulldisclosure
+0	cross-site request forgery in wordpress download manager plugin fulldisclosure
+0	bugtraq cross-site request forgery in file manager wordpress plugin ------------------------------------------
+0	roventillc we love your support trevor are you currently using windows 10
+0	safe browsing on mac will warn users of apps that modify chrome settings
+0	over 400 million devices are running windows 10 in 192 countries that s nearly every country on the planet
+0	threatmeter webapps wordpress plugin contact form manager cross-site request forgery cross-site scripting
+0	cross-site scripting in magic fields 1 wordpress plugin fulldisclosure
+0	maisiescobie what is your site s address please have you tried resetting your password here
+0	threatmeter webapps wordpress plugin user login log 2.2.1 cross-site scripting
+0	bugtraq admin custom login wordpress plugin custom login page affected by persistent cross-site scripting ----
+0	analytics stats counter statistics plugin 1.2.2.5 on wordpress php code execution privilege escalation
+0	koupx we think you ll love windows 10 check out all of its new features here what are your thoughts
+0	user login log plugin 2.2.1 on wordpress stored cross site scripting
+0	0daytoday wordpress user login log 2.2.1 plugin cross-site scripting vulnerability 0day exploit
+0	synchronet bbs 3.16c for windows multiple vulnerabilities
+0	threatmeter vaultpress plugin 1.8.4 on wordpress php code execution privilege escalation
+0	cross-site request forgery amp cross-site scripting in contact form manager wordpress plugin fulldisclosure
+0	bugtraq cross-site request forgery in wordpress download manager plugin
+0	cybersecurity bugtraq cross-site request forgery in wordpress download manager plugin infosec
+0	trust form plugin 2.0 on wordpress cross site scripting
+0	bugtraq cross-site request forgery in wordpress download manager plugin --------------------------------------
+0	bugtraq admin custom login wordpress plugin custom login page affected by persistent cross-site scripting
+0	sucurilabs sqli flaw in the nextgen gallery plugin exposes at risk of hack more than 1 million wordpress installs
+0	wp-filebase download manager plugin 3.4.4 on wordpress cross site scripting
+0	popup by supsystic plugin 1.7.6 on wordpress cross site request forgery
+0	westondofficial how s your experience with windows 10 going so far weston we d love to hear your thoughts.
+0	google analytics dashboard plugin 2.1.1 on wordpress cross site scripting
+0	threatmeter popup by supsystic plugin 1.7.6 on wordpress cross site request forgery
+0	webapps wordpress plugin popup by supsystic 1.7.6 cross-site request forgery exploitdb
+0	bugtraq admin custom login wordpress plugin affected by persistent cross-site scripting via logo url field
+0	cross-site scripting in google analytics dashboard wordpress plugin fulldisclosure
+0	shanniereb hi there what s happening to make you say that we want you to have a great experience with windows 10.
+0	basic encryption in small ish words ed felten ph.d has written a superb encryption primer infosec
+0	how to style each wordpress post differently
+0	madushan1000 thanks for noticing what else are you enjoying on windows 10
+0	bugtraq cross-site scripting in magic fields 1 wordpress plugin
+0	varunforreal great thanks for doing that your feedback helps us make windows even better.
+0	bugtraq cross-site request forgery in file manager wordpress plugin
+0	xandriamonique that s great to hear how s everything running for you now we re here if you have any questions about windows 10.
+0	0daytoday wordpress newstatpress 1.2.4 plugin cross-site scripting vulnerability 0day exploit
+0	0daytoday wordpress file manager 3.0.1 plugin cross-site request forgery vulnerability 0day exploit
+0	40asap we have quite the selection of budget-friendly pcs are there any particular features that you ll be needing
+0	132 google play apps tried to infect android users with windows malware
+0	vulnerability security webapps wordpress plugin user login log 2.2.1 cross-site scripting
+0	security slip-ups in 1password and other password managers extremely worrying the register infosec
+0	threatmeter global content blocks plugin 2.1.5 on wordpress cross site request forgery
+0	wordpress plugin with 1 million installs has critical flaw
+0	bugtraq admin custom login wordpress plugin affected by persistent cross-site scripting via logo url field bugtraq
+0	aix-on-power-as-a-service is a thing yup a cloud just went there why should modern oses and silicon infosec
+0	bugtraq cross-site request forgery in file manager wordpress plugin
+0	vulnerability security webapps wordpress plugin contact form manager cross-site request forgery cross
+0	aix-on-power-as-a-service is a thing yup a cloud just went there
+0	threatmeter 0daytoday wordpress popup by supsystic 1.7.6 plugin cross-site request forgery vulnerability 0d
+0	riotgirl217 we re so happy you were able to pick up the dell inspiron 13 samantha how are you liking it with windows 10
+0	rajganesh0072 thanks for sharing your thoughts with us and for helping us make windows the best version yet.
+0	wordpress multiple plugins remote file upload
+0	9e3k we ll be there for you let us know if you ever have any questions about windows we re here to help.
+0	iams roy hi there you can stay up to date with our latest announcements on the windows blog here
+0	sean ong we love your enthusiasm sean how long have you been a windows insider
+0	windows10 tip learn how to set up cortana to automatically remind you of your commitments
+0	salamismail thanks for your patience salam allow us to help which version of windows are you currently working on
+0	samsonasu what s happening to make you say that brian we want you to have a great experience with windows
+0	pikaisherereal thanks for your endless support are you currently using windows 10 at the moment
+0	dragster2585 music to our ears fred which features are you enjoying the most in windows 10
+0	threatmeter vault 7 cia can bypass whatsapp signal telegram encryption
+0	wordpress wordpressdotcom wordpress 4.7.3 is out to fix 6 security issues but csrf flaw remains unpatched
+0	wikileaks and how the cia sees your whatsapp messages explained
+0	cybersecurity demanding passwords at the border would undermine human rights and personal security infosec
+0	wordpress 4.5.3 press this function csrf denial of service
+0	see our security issue of cisco focus magazine and read our latest q amp a with chief security amp trust officer j n s
+0	wordpress 4.7.3 patches half-dozen vulnerabilities wordpress released version 4.7.3 which patches six infosec
+0	wordpress fixes xss csrf flaws in latest core update
+0	quietgirl1992 great answer what have you been using windows 10 for most so far
+0	wordpress releases security update
+0	wordpress 4.7.3 patches half-dozen vulnerabilities
+0	lawmakers target disappearing records two bills before the house oversight committee deal with the infosec
+0	vuln wordpress prior to 4.7.1 cross site request forgery vulnerability
+0	threatmeter wikileaks reveals cia s tactics for breaching iphones ipads windows smart tvs
+0	devonjwhiteman we re glad you like it have any other apps or features in windows 10 caught your eye lately
+0	vault 7 cia can bypass whatsapp signal telegram encryption
+0	security news wordpress fixes xss csrf flaws in latest core update
+0	edwanmusic we couldn t agree more which programs are you running most often in windows
+0	kobak7 excellent we love your support make sure to check out all the new features coming in the creators update.
+0	new cro and cmo bring executive experience strategic vision bold execution and go-to-market innovation
+0	the latest linux webserver security thanks to edgarulloa wordpress security
+0	vuln flash seats for ios cve-2017-3190 ssl certificate validation security bypass vulnerability
+0	rt careersatdell happy internationalwomensday we asked our team members what this day meant to them in just 1 word amp this is wha
+0	vuln flash seats for ios cve-2017-3190 ssl certificate validation security bypass vulnerability
+0	cve-2017-1150 ibm db2 for linux unix and windows includes db2 connect server 10.1 10.5 and 11.1 could allow a
+0	anuraggoswami81 we appreciate the love what s your favorite feature on windows 10 right now
+0	the cia didn t break signal or whatsapp despite what you ve heard
+0	firefox 52 kills plugins except flash and runs up a red flag for http new browser also crumbs infosec
+0	how businesses are smartly transforming with google cloud android and chrome
+0	google wants to turn every store into a chrome-plated android shop
+0	the latest linux webserver security thanks to yo9fah gn3mes1s t toyota wordpress security
+0	vault 7 cia hacking weapons include ios android and windows zero days wikileaks released a massive dump infosec
+0	rt abirabbas the future socialselling queens internationalwomensday in the office with the future girl bosses
+0	barclalet thanks for the info we suggest reaching out to the chrome google forums for more specific help
+0	ned griffin thanks for the kind feedback ned how is windows 10 helping you stay productive in your daily work
+0	security hacking firefox 52 warns when you try to enter passwords on non-encrypted websites
+0	sateffen hi there we recommend posting this in the chrome developer community for further insights
+0	cybersecurity vault 7 cia hacking weapons include ios android and windows zero days infosec
+0	simonz2227 thanks for helping us make windows the best version yet we appreciate having fans like you.
+0	wikileaks cia vault 7 dump apple samsung google whatsapp telegram signal react
+0	threatmeter ibm websphere commerce enterprise 7.0 8.0 password information disclosure
+0	why the cia s ios android and windows hack stockpile puts zero-day hoards in the spotlight
+0	firefox 52 kills plugins except flash and runs up a red flag for http
+0	ahnaolu that s odd have you also tried uninstalling amp reinstalling chrome let us know.
+0	firefox 52 is the last version of firefox for windows xp and vista
+0	bechtel opens industrial cyber security lab scada ics
+0	cybersecurity cia s covert cyber spy office rocked by leak on its hacking tools infosec
+0	how to redirect your user s attention with comment redirect in wordpress
+0	fighting cyber security f.u.d and hype
+0	takhsiru wow what a throwback to windows 98 are you currently running windows 10 on your device
+0	early vulnerability disclosure thwarts wordpress hackers
+0	jamesanthonyt thanks for the update can you try creating a new chrome profile amp check if the issue persists
+0	hosznyakrachael glad our windows spotlight images could make your day have you seen any other images that catch your eye
+0	vuln mozilla firefox mfsa 2017-05 multiple security vulnerabilities bugtraq
+0	rickissonothere that s awesome what s your favorite feature on windows 10 so far
+0	rt y3dips echo zine issue31 public release enjoy m
+0	one million yahoo and gmail account passwords for sale on the dark web adsbygoogle window infosec
+0	wordpress themes qualifire file upload vulnerabilty csrf
+0	unlock wordpress admin login disable protection
+0	na cve-2017-1150 ibm db2 for linux unix and windows includes
+0	0daytoday wordpress mac photo gallery 3.0 plugin arbitrary file download vulnerability 0day exploit
+0	this week on windows hot new windows10 devices from mwc2017 fantastic beasts hits the windowsstore and more.
+0	wordpress apptha slider gallery 1.0 sql injection exploit
+0	threatmeter 0daytoday wordpress pica photo gallery 1.0 plugin sql injection vulnerability 0day exploit
+0	0daytoday wordpress pica photo gallery 1.0 plugin sql injection vulnerability 0day exploit
+0	mariod78 whoops what kind of projects were you working on using windows
+0	threatmeter wordpress mac photo gallery 3.0 arbitrary file download
+0	matthiaslischka we appreciate it your feedback helps us make windows even better.
+0	wordpress pica photo gallery 1.0 sql injection
+0	cve-2017-1150 ibm db2 for linux unix and windows includes db2 connect server 10.1 10.5 and 11.1 could allow a
+0	flash roms with a raspberry pi linuxjournal to hardware-flash a bios chip you need two main pieces of hardw
+0	threatmeter vuln ibm tivoli system automation for multiplatforms local privilege escalation vulnerability
+0	ltlpwl we love your support paul how long have you been a windows user
+0	ask slashdot should you use password managers
+0	lucasschafer1 we love your support lucas which features are you enjoying the most in windows 10
+0	the she word jen holland and her career expedition in honor of women s history month we re celebrating infosec
+0	rhel 7 firefox rhsa-2017 0461
+0	wordpress themes qualifire file upload vulnerabilty csrf
+0	wordpress apptha slider gallery 1.0 arbitrary file download
+0	threatmeter unlock wordpress admin login disable protection
+0	cyber infosec unlock wordpress admin login disable protection
+0	threatmeter na cve-2017-1150 ibm db2 for linux unix and windows includes
+0	kelloggbrengel we love your enthusiasm make sure to keep an eye on the windows blog for all the latest news.
+0	unlock wordpress admin login disable protection
+0	wordpress pica photo gallery 1.0 sql injection exploit
+0	news zero-days sexy sure but crap passwords and phishing are probably more pressing
+0	0daytoday wordpress pica photo gallery 1.0 plugin sql injection vulnerability 0day exploit
+0	sarahaminnc great our team will automatically receive a report if chrome crashes again reach out if you have any questions.
+0	na cve-2017-6576 a sql injection issue is exploitable with a sql injection issue is exploitable with word
+0	camdoug1999 great thanks for getting back to us we re always here if you have any questions about windows 10.
+0	wordpress mac photo gallery 3.0 arbitrary file download packetstorm
+0	rhel 5 6 firefox rhsa-2017 0459
+0	upgrade to v4.7.3 wordpress users advised
+0	aakash006sharma thanks for the love aakash how long have you been a fan of windows
+0	mosesqrodriguez thanks for the kind words be sure to check out all the new features coming soon.
+0	iball baton 150m password disclosure
+0	dahua hikvision iot devices under siege dahua the world s second-largest maker of internet of things infosec
+0	chasemiranda199 yay what do you think of windows 10 so far chase we can t wait to hear your thoughts.
+0	threatmeter 0daytoday e107 2.1.4 keyword blind sql injection exploit webapps exploits 0day exploit
+0	how to make money from open source software red hat isn t the only model for open-source success.
+0	roguetoad27 hi there can you please tell us more about what you re experiencing we want you to have a great experience with windows 10.
+0	slashdot asks are password rules bullshit
+0	dahua hikvision iot devices under siege krebsonsecurity
+0	vuln wordpress dtracker plugin multiple sql injection vulnerabilities
+0	dahua hikvision iot devices under siege briankrebs security feedly iot
+0	vuln multiple kde products products information disclosure vulnerability
+0	baudvine how cool are you running windows 10 on your new pc
+0	cybersecurity the cia appears to have copied instructions from reddit on how to hack windows infosec
+0	hanvasart we love your enthusiasm is your new device running windows 10
+0	threatmeter dahua hikvision iot devices under siege
+0	djvortechs we re glad you took the plunge do you have any favorite windows 10 features yet
+0	vuln wordpress mail masta plugin multiple sql injection vulnerabilities wordpress mail masta plugin multiple sql
+0	cve-2017-6577 a sql injection issue is exploitable with wordpress admin access in the mail masta aka mail-masta
+0	viprarajmehta excellent we hope there were a few features that caught your interest.
+0	bdbch awesome we re glad you re enjoying it you can learn more about beam streaming in windows 10 here.
+0	fabianstolba hi fabian what s happening to make you say that we want you to have a great experience with windows 10.
+0	cyber infosec iball baton 150m password disclosure
+0	threatmeter wordpress 4.5.3 press this cross site request forgery
+0	munich s it lead no compelling reason to switch back to windows from linux
+0	windowsill 221b we re collecting feedback ehre please take a moment to post your thoughts.
+0	criticalroot please email help wordpress.com from the email address connected to your account we cannot help with this via twitter.
+0	vuln ibm tivoli system automation for multiplatforms local privilege escalation vulnerability
+0	wordpress up to 4.7.2 youtube url embedding wp-includes embed.php cross site scripting
+0	threatmeter wordpress up to 4.7.2 taxonomy term name wp-admin js tags-box.js cross site scripting
+0	threatmeter wordpress up to 4.7.2 youtube url embedding wp-includes embed.php cross site scripting
+0	threatmeter na cve-2017-6819 in wordpress before 4.7.3 there is cross-site
+0	volkwagen finally pleads guilty on dieselgate charges
+0	linkedin breach weak passwords are the norm
+0	normansblog hi norman we recommend posting this in the chrome developer community for further insights
+0	0daytoday wordpress flash rotator gallery plugin sql injection vulnerability webapps exploits vulnerability
+0	my friend stole my password news of yet another breach at target or yahoo seems pretty commonplace infosec
+0	wolfsaturn what makes you say that tony we want you to have a great experience with windows 10.
+0	atingleee that s awesome charles do you plan on running windows on your new pc
+0	threatmeter 0daytoday wordpress chat-room plugin v0.1.2 directory traversal arbitrary file write vulnerabilit
+0	cve-2015-4409 buffer overflow on hikvision nvr ds-76xxni-e1 2 and ds-77xxxni-e4 devices before 3.4.0 allows remote
+0	rt tenablecareers our new dublin office is ready amp we have many tech amp sales roles available gt careerzoo htt
+0	haethresaphire gotcha just to make sure let s see if you are fully up-to-date.
+0	over 65.3m linkedin users have weak passwords the rest can be easily cracked
+0	udit h hey there we re glad you like it are you enjoying any other features in windows 10 lately
+0	catingub you can switch up your windows spotlight image by clicking like what you see in the top right corner how d that go
+0	vulnerability security vuln wordpress prior to 4.7.3 cross site request forgery vulnerability
+0	themoddersden that s fantastic we can t wait to see what you create with windows 10.
+0	threatmeter cve-2017-6815 in wordpress before 4.7.3 wp-includes pluggable.php control characters can trick red
+0	threatmeter cve-2017-6816 in wordpress before 4.7.3 wp-admin plugins.php unintended files can be deleted by ad
+0	world s first lip password utilizes a user s lip motions to create password scientists have invented a infosec
+0	linkedin breach weak passwords are the norm about 35 of the leaked linkedin passwords were already infosec
+0	binarybombshell we ll host your site for you too if you have your own wordpress installation .org instead of .com you ll need a host.
+0	threatmeter 0daytoday wordpress flash rotator gallery plugin sql injection vulnerability webapps exploits vu
+0	cybersecurity social media blamed for rise in stolen passwords infosec
+0	vigilnce wordpress core sept vuln rabilit s
+0	rt neiljrubenking new this year panda protection advanced gives unlimited installations of panda s windows amp android security suites ht
+0	news gop senator alleges password-hijack attempts after blasting wikileaks founder
+0	damienernst1 we re glad you like the windows 10 spotlight images do you have a favorite one yet
+0	cve-2017-6814 in wordpress before 4.7.3 there is authenticated cross-site scripting xss via media file metadata
+0	vigilnce wordpress responsive poll cross site request forgery
+0	world of walter hi walter we recommend posting this in the chrome developer community for further help
+0	threatmeter hikvision nvr ds-76xxni-e1 up to 3.3.x isapi buffer overflow
+0	when compliance should be a dirty word
+0	klausdwight welcome to windows what are your first impressions so far
+0	mohamaddroobi we re happy cortana has been helpful in your daily tasks are you enjoying any other features on windows 10
+0	poll how many different instant messaging chat services i.e whatsapp slack hangouts etc do you use
+0	cyber infosec wordpress print money v4.91 plugin persistent cross site scripting
+0	erikuma nice job which features are you enjoying most in windows 10 right now
+0	dotvector understood what version of chrome are you using to check go to your address bar and type in chrome version let us know.
+0	chrome 57 limits background tabs usage to 1 per cpu core
+0	cve-2015-4409 buffer overflow on hikvision nvr ds-76xxni-e1 2 and ds-77xxxni-e4 devices before 3.4.0 allows remote
+0	fahranah1 looks like you re staying very organized have any new apps or features in windows 10 caught your eye lately
+0	i love kupkakes you re welcome we love seeing what our users are creating on their windows 10 devices
+0	laptop ssd capacity to remain flat as nand flash dearth causes prices to rise
+0	sap is now hosting vms in its cloud just don t call it hana
+0	wordpress rest api bug could be used in stored xss attacks
+0	sap is now hosting vms in its cloud just don t call it hana the paas plot is thickening with big data infosec
+0	home amp office ethanol stemless wine glass thinking and drinking with the molecular structure of infosec
+0	misspoonchbaby hi there what s going on with google chrome could you tell us more about it we ll do our best to help.
+0	kentmicht hi there we re here to help what happens when you launch chrome tell us more about the issue.
+0	cybersecurity vuln wordpress wp ajax update plugin function information disclosure vulnerability infosec
+0	kiothewolf that s fantastic which features are you enjoying the most in windows 10
+0	rt office365 head over to facebook live and catch the celebration of the microsoftteams launch join us now
+0	erikuma that s great to hear how long have you been a windows user
+0	k4y1s hey there what makes you say that we want you to have a great experience with windows 10.
+0	threatmeter microsoft may begin windows 10 creators update sign-off process this week
+0	inventitech hi moritz what happens when you try browsing those websites in chrome are you seeing an error message let us know.
+0	rt gmillard in tenablesecurity new dublin office for a couple of days amazing to see us move from a small managed office to a
+0	wordpressstan thanks for sharing
+0	jhamby we love your support jake which features are you enjoying the most in windows 10 at the moment
+0	tbabyswaglord we like the sound of that troy are you enjoying any apps or features in windows 10 at the moment
+0	wordpress rest api bug could be used in stored xss attacks threatpost
+0	damienernst1 sweet of you to say do you like any other features on windows 10
+0	vadegames hey there how s everything running for you after the install we re here if you have any questions about windows 10.
+0	dr j r c hi justin take a look at these helpful tips on using accent characters in windows 10
+0	threatmeter cve-2015-4408 buffer overflow on hikvision nvr ds-76xxni-e1 2 and ds-77xxxni-e4 devices before 3.4.0
+0	scam report 3000 chief security officers reveal costs of breaches
+0	windows vista has just 30 days to live
+0	today s www is built on pillars of sand buggy exploitable javascript libs are everywhere your infosec
+0	threatmeter windows vista has just 30 days to live
+0	cyber forum on prevailing human point threats to gov t agencies forcepoint chief executive officer infosec
+0	us charges two fsb officers two criminal hackers in yahoo breach fsb s office responsible for liason infosec
+0	threatmeter major security flaw found in whatsapp and telegram
+0	rt pcmag whatsapp telegram patch file-upload bug
+0	cybersecurity us citizens now being forced to provide their social media passwords upon return to us infosec
+0	vulnerability security local asus pce-ac56 wlan card utilities pcausa rawether windows 10 x64 local pr
+0	check point discloses vulnerability that allowed hackers to take over hundreds of millions of whatsapp amp
+0	whatsapp telegram flaw gives hackers full account access
+0	u.s government indicts two russian fsb officers over yahoo hack u.s government indicts four over 2014 infosec
+0	chrome 57 limits background tabs usage to 1 per cpu core
+0	threatmeter dodgy pics sneak into whatsapp web
+0	vulnerability security vuln sap travel management cross site scripting vulnerability
+0	toshiba tumbles after bourse puts company under supervision
+0	cybersecurity wordpress content injection flaw makes xss bug more severe infosec
+0	how one photo could have hacked your whatsapp and telegram accounts
+0	cybersecurity us citizens now being forced to provide their social media passwords upon return to us infosec
+0	wordpress themes nunace shell upload vulnerability csrf
+0	wordpress content injection flaw makes xss bug more severe
+0	na cve-2017-5537 the password reset form in weblate before the password reset form in weblate before 2.10.1
+0	ibm websphere remote code execution java deserialization packetstorm
+0	whatsapp hack shows that even encryption apps are vulnerable in a browser
+0	whatsapp telegram flaw gives hackers full account access darkreading
+0	toys amp games jumbo disapproval meowchi beige exclusive disapproving stare disapproval meowchi infosec
+0	threatmeter whatsapp hack shows that even encryption apps are vulnerable in a browser
+0	threatmeter ibm websphere remote code execution java deserialization
+0	threatmeter wordpress themes nunace shell upload vulnerability csrf
+0	whatsapp telegram flaw allows takeover for millions of accounts attackers can access victims personal infosec
+0	whatsapp hack shows that even encryption apps are vulnerable in a browser
+0	bring your creative vision to life using windows ink and onenote with windows10 innovation is always in style
+0	threatmeter whatsapp security flaw enabled hackers to hijack accounts with malicious images
+0	threatmeter vuln wordpress mobile app builder by wappress plugin arbitrary file upload vulnerability
+0	security hacking wordpress content injection flaw makes xss bug more severe
+0	u.s government indicts four over 2014 yahoo hack including two russian fsb officers
+0	vuln wordpress wp2android plugin cve-2017-1002003 arbitrary file upload vulnerability wordpress infosec
+0	manuelbieh hi manuel we recommend posting this in the chrome developer community for more help
+0	vuln wordpress mobile app builder by wappress plugin arbitrary file upload vulnerability
+0	pcausa rawether for windows local privilege escalation exploit
+0	hderazi96 we love your enthusiasm make sure to keep an eye on the windows blog for all the latest news.
+0	cyber infosec wordpress themes nunace shell upload vulnerability csrf
+0	pcausa rawether for windows local privilege escalation
+0	lazymusician10 thanks for being a fan all these years have you seen all the new features coming to windows 10
+0	threatmeter 0daytoday asus pce-ac56 wlan card utilities pcausa rawether windows 10 x64 local privilege es
+0	sweetsmartjade we re glad you like it are you enjoying any other new features in windows 10 at the moment
+0	whatsapp security gets a boost with newly introduced patch
+0	cybersecurity bugtraq cve-2017-6911 usb pratirodh insecure password storage information disclosure infosec
+0	cyber infosec wordpress plugin membership simplified v1.58 arbitrary file download
+0	vulnerability security dos microsoft edge 38.14393.0.0 javascript engine use-after-free
+0	threatmeter whatsapp telegram security flaw could have let hackers control accounts fixes issued
+0	alph8z oh no try resetting your chrome settings let us know how that works.

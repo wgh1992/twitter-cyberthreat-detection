@@ -1,0 +1,1769 @@
+relevant	tweet	tags
+1	threatmeter linux kernel up to 4.8.6 security keys big key.c denial of service	O PRO PRO VER VER VER O O O O VUL VUL VUL
+1	threatmeter ubuntu s apport bug reporting tool leads to vulnerabilities	O PRO O O O O PRO O O O
+1	aix 7.2 tl 1 bind iv91257 nessus	PRO VER O O O O PRO
+1	scriptless zero-day exploit bypasses linux security features	VUL VUL VUL O PRO O O
+1	cve-2016-9313 security keys big key.c in the linux kernel before 4.8.7 mishandles unsuccessful crypto registration	ID O O O O O O PRO PRO O VER VUL VUL VUL VUL
+1	rt ruggerotonelli security cve-2016-8655 linux af packet.c race condition local root lt yep another server r	O O ID ID PRO O O VUL VUL VUL VUL O O O PRO O
+1	security expert disclosed a full zero-day drive-by exploit for linux leveraging snes securityaffairs	O O O O VUL VUL VUL VUL O PRO O O O
+1	threatmeter security expert disclosed a full zero-day drive-by exploit for linux leveraging snes	O O O O O VUL VUL VUL VUL O PRO O O
+1	rt tripwireinc unprotected mongodb databases wiped and held for ransom by attacker via dmbisson security infos	O O O PRO PRO O O O O O O O O O O O
+1	mcafee virusscan enterprise for linux security flaws gives attackers root access	ORG PRO PRO O PRO O O VUL VUL VUL VUL
+1	fedora 25 2 docker 2017-dbc2b618eb nessus	PRO VER O PRO O PRO
+1	threatmeter mcafee virusscan enterprise for linux security flaws gives attackers root access	O ORG PRO PRO O PRO O O VUL VUL VUL VUL
+1	mozilla patches firefox 0-day sql slammer goolian malware bypassing saml podcast security	ORG O PRO O VUL VUL VUL VUL VUL VUL O O
+1	vuln linux kernel local security bypass vulnerability	O PRO PRO VUL VUL VUL VUL
+1	suse sles12 security update freeradius-server suse-su-2017 0102-1 nessus	PRO PRO O O O ID ID PRO
+1	suse sles11 security update libvncserver suse-su-2017 0104-1 nessus	PRO PRO O O O ID ID PRO
+1	rt reverse4you org shadowbrokers windows hacking tool leak	O O O O PRO O PRO O
+1	vuln linux kernel local security bypass vulnerability bugtraq	O PRO PRO VUL VUL VUL VUL O
+1	suse sled12 sles12 security update pcre suse-su-2016 3161-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	suse sled12 sles12 security update zlib suse-su-2017 0004-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	suse sled12 sles12 security update gstreamer-plugins-base suse-su-2017 0189-1 nessus	PRO PRO PRO O O O ID ID PRO
+1	threatmeter high cve-2016-7545 selinux policycoreutils allows local users to	O O ID PRO O VUL VUL VUL VUL
+1	threatmeter ubuntu s crash report tool allows remote code execution	O PRO O O O PRO O VUL VUL VUL
+1	the latest linux webserver security thanks to newbie bloggers mmrupp wordpress security	O O PRO O O O O O O O PRO O
+1	suse sled12 sles12 security update recommended update for mariadb suse-su-2016 2933-1 nessus	PRO PRO PRO O O O O O PRO ID ID PRO
+1	freebsd remote-code-execution vulnerability in mysql and its variants cve 2016-6662 dc596a17-7a9e-11 nessus	PRO VUL VUL O PRO O O O ID ID O PRO
+1	ibm tivoli storage flashcopy manager for sql server 3.1.1.7 obtain information vulnerability	ORG PRO PRO O PRO O PRO PRO VER VUL VUL VUL
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nvidia-graphics-drivers-304 and nvidia-graphics-drive nessus	PRO VER O VER O VER O VER PRO O O PRO
+1	threatmeter ibm tivoli storage flashcopy manager for sql server 3.1.1.7 obtain information vulnerability	O ORG PRO PRO O PRO O PRO PRO VER VUL VUL VUL
+1	google shuts off chrome sync api for third-party browsers on android citing a security vulnerability	ORG O O PRO O O O O O O PRO O O O O
+1	na usn-3136-1 lxc vulnerability a security issue affects these releases of ubuntu and its derivatives ubunt	O ID O O O O O O O O O PRO O O O O
+1	na usn-3133-1 oxide vulnerabilities a security issue affects these releases of ubuntu and its derivatives u	O ID O O O O O O O O O PRO O O O O
+1	threatmeter cve-2016-9083 drivers vfio pci vfio pci.c in the linux kernel through 4.8.11 allows local users to by	O ID O O O O O O O PRO PRO VER VER VUL VUL VUL VUL O
+1	scientific linux security update tomcat on sl7.x noarch	O PRO O O PRO O VER O
+1	threatmeter scientific linux security update tomcat on sl7.x noarch	O O PRO O O PRO O VER O
+1	microsoft internet explorer 9 cdoc executescripturi use-after-free packetstorm	ORG PRO PRO VER O O VUL O
+1	threatmeter linux kernel 2.6.32-642 3.16.0-4 inode integer overflow	O PRO PRO VER VER O VUL VUL
+1	linux x86 x64 mkdir ajit 755 shellcode packetstorm	PRO VER VER O O O O O
+1	microsoft internet explorer 9 mshtml cdispnode insertsiblingnode use-after-free packetstorm	ORG PRO PRO VER O O O VUL O
+1	threatmeter linux security made simple	O PRO O O O
+1	debian dla-779-1 tomcat7 security update	PRO ID PRO O O
+1	opensuse security update qemu opensuse-2017-116 nessus	PRO O O O ID PRO
+1	threatmeter debian dsa-3752-1 pcsc-lite security update	O PRO ID O O O
+1	critical rhsa-2017 0184 mysql security update	O ID ID PRO O O
+1	threatmeter debian dla-779-1 tomcat7 security update	O PRO ID PRO O O
+1	threatmeter debian dsa-3738-1 tomcat7 security update	O PRO ID PRO O O
+1	threatmeter debian dsa-3739-1 tomcat8 security update	O PRO ID PRO O O
+1	debian dla-779-1 tomcat7 security update nessus	PRO ID PRO O O PRO
+1	opensuse security update php5 opensuse-2016-1505 nessus	PRO O O PRO ID PRO
+1	debian dsa-3767-1 mysql-5.5 security update nessus	PRO ID PRO O O PRO
+1	bugtraq security dsa 3767-1 mysql-5.5 security update	O ID ID ID PRO O O
+1	bugtraq security dsa 3767-1 mysql-5.5 security update	O ID ID ID PRO O O
+1	opensuse security update the linux kernel opensuse-2016-1436	PRO O O O PRO PRO ID
+1	vuln oracle mysql cve-2016-5626 remote security vulnerability	O ORG PRO ID O O O
+1	bugtraq security dsa 3767-1 mysql-5.5 security update bugtraq	O ID ID ID PRO O O O
+1	threatmeter bugtraq security dsa 3767-1 mysql-5.5 security update	O O ID ID ID PRO O O
+1	threatmeter opensuse security update the linux kernel opensuse-2016-1410	O PRO O O O PRO PRO ID
+1	threatmeter opensuse security update the linux kernel opensuse-2016-1428	O PRO O O O PRO PRO ID
+1	threatmeter opensuse security update the linux kernel opensuse-2016-1426	O PRO O O O PRO PRO ID
+1	threatmeter opensuse security update the linux kernel opensuse-2017-1	O PRO O O O PRO PRO ID
+1	suse sles11 security update kvm suse-su-2016 2902-1 nessus	PRO PRO O O O ID ID PRO
+1	suse sles11 security update xen suse-su-2016 3044-1 nessus	PRO PRO O O PRO ID ID PRO
+1	suse sles12 security update kernel suse-su-2016 3249-1 nessus	PRO PRO O O PRO ID ID PRO
+1	opensuse security update java-1 7 0-openjdk opensuse-2016-1357 nessus	PRO O O PRO PRO PRO ID PRO
+1	ms16-154 security update for adobe flash player 3209498 nessus	ID O O O ORG PRO PRO VER PRO
+1	threatmeter suse sled12 sles12 security update util-linux suse-su-2016 2954-1	O PRO PRO PRO O O O ID ID
+1	off-the-shelf hacker linux pipes redirection and awk rootsector security infosec	O O PRO O O O O O O O
+1	scientific linux security update util-linux on sl7.x x86 64 nessus	O PRO O O O O VER VER O PRO
+1	cve-2016-7281 ms16-144 microsoft internet explorer browser security bypass 3204059 mcafee	ID ID ORG PRO PRO O O O O ORG
+1	critical usn-3161-4 linux kernel qualcomm snapdragon vulnerabilities a security issue affects these releases	O ID PRO PRO O O O O O O O O O
+1	threatmeter scientific linux security update thunderbird on sl5.x sl6.x sl7.x i386 x86 64	O O PRO O O O O VER VER VER O VER O
+1	vuln oracle mysql cve-2016-5626 remote security vulnerability vulnerable oracle mysql 5.7.14 oracle mysql 5.7	O ORG PRO ID O O O O ORG PRO VER ORG PRO VER
+1	na usn-3138-1 python-cryptography vulnerability a security issue affects these releases of ubuntu and its deri	O ID PRO O O O O O O O O PRO O O O
+1	na usn-3142-1 imagemagick vulnerabilities a security issue affects these releases of ubuntu and its derivative	O ID O O O O O O O O O PRO O O O
+1	na usn-3141-1 thunderbird vulnerabilities a security issue affects these releases of ubuntu and its derivative	O ID O O O O O O O O O PRO O O O
+1	medium usn-3139-1 vim vulnerability a security issue affects these releases of ubuntu and its derivatives u	O ID O O O O O O O O O PRO O O O O
+1	na usn-3150-1 linux kernel vulnerability a security issue affects these releases of ubuntu and its derivatives	O ID PRO PRO O O O O O O O O PRO O O O
+1	na usn-3174-1 mysql vulnerabilities a security issue affects these releases of ubuntu and its derivatives u	O ID PRO O O O O O O O O PRO O O O O
+1	critical usn-3162-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its der	O ID PRO PRO O O O O O O O O PRO O O O
+1	high usn-3170-1 linux kernel vulnerabilities a security issue affects these releases of ubuntu and its derivat	O ID PRO PRO O O O O O O O O PRO O O O
+1	high usn-3170-2 linux kernel raspberry pi 2 vulnerabilities a security issue affects these releases of ubunt	O ID PRO PRO PRO PRO VER O O O O O O O O O
+1	critical rhsa-2017 0184 mysql security update problem description an update for mysql is now available for re	O ID ID PRO O O O O O O O PRO O O O O O
+1	na usn-3149-2 linux kernel trusty hwe vulnerability a security issue affects these releases of ubuntu and it	O ID PRO PRO O VUL VUL O O O O O O O PRO O O
+1	vuln oracle mysql cve-2016-6663 unspecified security vulnerability	O ORG PRO ID VUL VUL VUL
+1	vuln oracle mysql cve-2016-6663 unspecified security vulnerability bugtraq	O ORG PRO ID VUL VUL VUL O
+1	ubuntu security notice usn-3144-2 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3142-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3169-2 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3169-3 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3169-4 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3172-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3176-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3144-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3170-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3138-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3139-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3146-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3141-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3148-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3155-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3173-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3150-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3157-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3169-1 advisory	PRO ID ID ID O
+1	ubuntu security notice usn-3137-1 packetstorm	PRO ID ID ID O
+1	ubuntu security notice usn-3154-1 packetstorm	PRO ID ID ID O
+1	ubuntu security notice usn-3164-1 packetstorm	PRO ID ID ID O
+1	ubuntu security notice usn-3172-1 packetstorm	PRO ID ID ID O
+1	debian security advisory 3730-1 advisory	PRO ID ID ID O
+1	debian security advisory 3765-1 advisory	PRO ID ID ID O
+1	debian security advisory 3725-1 advisory	PRO ID ID ID O
+1	debian security advisory 3753-1 advisory	PRO ID ID ID O
+1	debian security advisory 3736-1 packetstorm	PRO ID ID ID O
+1	debian security advisory 3757-1 packetstorm	PRO ID ID ID O
+1	debian security advisory 3758-1 packetstorm	PRO ID ID ID O
+1	debian security advisory 3743-2 packetstorm	PRO ID ID ID O
+1	debian security advisory 3743-1 packetstorm	PRO ID ID ID O
+1	bugtraq cisco security advisory cisco webex browser extension remote code execution vulnerability bugtraq	O ORG ID ID ORG O O O VUL VUL VUL VUL O
+1	na dsa-3730 icedove security update multiple security issues have been found in icedove debian s version of t	O ID O O O O O O O O O O O PRO O O O O
+1	na cve-2016-9313 security keys big key.c in the linux kernel security keys big key.c in the linux kernel be	O ID O O O O O O PRO PRO O O O O O O PRO PRO O
+1	opensuse security update x window system client libraries opensuse-2016-1420 nessus	PRO O O O O O O O ID PRO
+1	vuln linux kernel cve-2016-9755 out of bounds write security vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	debian dla-723-1 libsoap-lite-perl security update	PRO ID O O O
+1	debian dla-758-1 libgd2 security update	PRO ID O O O
+1	debian dla-795-1 tiff security update	PRO ID O O O
+1	debian dla-721-1 libgc security update	PRO ID O O O
+1	debian dla-738-1 spip security update	PRO ID O O O
+1	debian dla-735-1 gst-plugins-base0.10 security update	PRO ID O O O
+1	debian dsa-3753-1 libvncserver security update	PRO ID O O O
+1	debian dsa-3725-1 icu security update	PRO ID O O O
+1	debian dsa-3771-1 firefox-esr security update	PRO ID O O O
+1	debian dsa-3726-1 imagemagick security update	PRO ID O O O
+1	microsoft security bulletin summary for january 2017 packetstorm	ORG O O O O O O O
+1	threatmeter vuln linux kernel cve-2016-9755 out of bounds write security vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	apache struts 2.5.x lt 2.5.8 urlvalidator form field handling remote dos nessus	PRO PRO VER O VER O O O O O O PRO
+1	adobe angers chrome users by bundling browser plugin with security update hitb	ORG O PRO O O O O O O O O O
+1	linux kernel up to 4.8.6 security keys big key.c denial of service	PRO PRO VER VER VER O O O O VUL VUL VUL
+1	threatmeter debian dla-722-1 irssi security update	O PRO ID O O O
+1	threatmeter debian dla-736-1 gst-plugins-bad0.10 security update	O PRO ID O O O
+1	threatmeter debian dla-743-1 firefox-esr security update	O PRO ID O O O
+1	threatmeter debian dla-735-1 gst-plugins-base0.10 security update	O PRO ID O O O
+1	threatmeter debian dla-766-1 libcrypto security update	O PRO ID O O O
+1	threatmeter debian dsa-3725-1 icu security update	O PRO ID O O O
+1	threatmeter opensuse security update perl-dbd-mysql opensuse-2017-130	O PRO O O O ID
+1	debian dla-755-1 dcmtk security update nessus	PRO ID O O O PRO
+1	debian dla-747-1 libupnp security update nessus	PRO ID O O O PRO
+1	debian dla-795-1 tiff security update nessus	PRO ID O O O PRO
+1	opensuse security update libxfixes opensuse-2016-1429 nessus	PRO O O O ID PRO
+1	opensuse security update roundcubemail opensuse-2016-1419 nessus	PRO O O O ID PRO
+1	debian dsa-3772-1 libxpm security update nessus	PRO ID O O O PRO
+1	debian dsa-3726-1 imagemagick security update nessus	PRO ID O O O PRO
+1	opensuse security update libgit2 opensuse-2016-1450 nessus	PRO O O O ID PRO
+1	opensuse security update python-twisted opensuse-2016-1482 nessus	PRO O O O ID PRO
+1	opensuse security update irssi opensuse-2017-67 nessus	PRO O O O ID PRO
+1	opensuse security update icoutils opensuse-2017-104 nessus	PRO O O O ID PRO
+1	opensuse security update xtrabackup opensuse-2017-132 nessus	PRO O O O ID PRO
+1	gentoo linux security advisory 201701-49 advisory	PRO PRO ID ID ID O
+1	gentoo linux security advisory 201611-21 advisory	PRO PRO ID ID ID O
+1	red hat security advisory 2016-2847-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2016-2957-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2017-0001-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2017-0014-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2017-0025-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2016-2850-01 packetstorm	ORG ORG ID ID ID O
+1	red hat security advisory 2017-0177-01 packetstorm	ORG ORG ID ID ID O
+1	fedora 25 qpid-java 2017-7b181f9c98 nessus	PRO VER O O PRO
+1	ngo website script sql injection	O O VUL VUL VUL
+1	linux kernel 2.6.32-642 3.16.0-4 inode integer overflow poc cxsecurity	PRO PRO VER VER O VUL VUL O O
+1	threatmeter cve-2016-8630 the x86 decode insn function in arch x86 kvm emulate.c in the linux kernel before 4.8.7	O ID O VER O O O O O VER O O O O PRO PRO O VER
+1	cve-2016-8630 the x86 decode insn function in arch x86 kvm emulate.c in the linux kernel before 4.8.7 when kvm is	ID O VER O O O O O VER O O O O PRO PRO O VER O O O
+1	vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability bugtraq	O PRO PRO O VER O O VUL VUL VUL VUL O
+1	vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability bugtraq	O PRO PRO O VER O O VUL VUL VUL VUL O
+1	threatmeter na cve-2016-9588 arch x86 kvm vmx.c in the linux kernel through	O O ID O VER O O O O PRO PRO O
+1	linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af packet race condition privilege escalation cxsecurity	PRO PRO VER PRO VER VER VER O O VUL VUL VUL VUL O
+1	threatmeter linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af packet race condition privilege escalation	O PRO PRO VER PRO VER VER VER O O VUL VUL VUL VUL
+1	cve-2015-1328 the overlayfs implementation in the linux aka linux kernel package before 3.19.0-21.21 in ubuntu t	ID O O O O O PRO O PRO PRO O O VER O PRO O
+1	cve-2016-3044 the linux kernel component in ibm powerkvm 2.1 before 2.1.1.3-65.10 and 3.1 before 3.1.0.2 allows gu	ID O PRO PRO O O ORG O VER O VER O VER O VER O O
+1	threatmeter linux kernel up to 4.9 bp of exception handler arch x86 kvm vmx.c denial of service	O PRO PRO VER VER VER O O O O O VER O O VUL VUL VUL
+1	cve-2017-2584 arch x86 kvm emulate.c in the linux kernel through 4.9.3 allows local users to obtain sensitive info	ID O VER O O O O PRO PRO VER VER VUL VUL VUL VUL VUL VUL VUL
+1	centos 6 7 expat cesa-2016 2824	PRO VER VER O ID ID
+1	rhel 6 7 expat rhsa-2016 2824 nessus	PRO VER VER O ID ID PRO
+1	oracle linux 6 7 expat elsa-2016-2824 nessus	ORG PRO VER VER O ID PRO
+1	threatmeter oracle linux 6 7 java-1.8.0-openjdk elsa-2017-0180	O ORG PRO VER VER PRO ID
+1	rhel 6 7 java-1.8.0-oracle rhsa-2017 0175 nessus	PRO VER VER PRO ID ID PRO
+1	rhel 6 7 java-1.8.0-openjdk rhsa-2017 0180 nessus	PRO VER VER PRO ID ID PRO
+1	rhel 5 6 7 thunderbird rhsa-2016 2973 nessus	PRO VER VER VER O ID ID PRO
+1	centos 5 6 7 thunderbird cesa-2016 2825 nessus	PRO VER VER VER O ID ID PRO
+1	threatmeter oracle linux 5 6 7 firefox elsa-2016-2843	O ORG PRO VER VER VER PRO ID
+1	oracle linux 5 6 7 java-1.6.0-openjdk elsa-2017-0061 nessus	ORG PRO VER VER VER PRO ID PRO
+1	oracle linux 6 7 unbreakable enterprise kernel elsa-2016-3651	ORG PRO VER VER O PRO PRO ID
+1	threatmeter oracle linux 6 7 unbreakable enterprise kernel elsa-2017-3509	O ORG PRO VER VER O PRO PRO ID
+1	centos 6 ghostscript cesa-2017 0014	PRO VER O ID ID
+1	oracle linux 6 gstreamer-plugins-bad-free elsa-2016-2974	ORG PRO VER O ID
+1	rhel 6 chromium-browser rhsa-2016 2919	PRO VER PRO ID ID
+1	oracle linux 6 mysql elsa-2017-0184	ORG PRO VER PRO ID
+1	threatmeter centos 6 ghostscript cesa-2017 0014	O PRO VER O ID ID
+1	rhel 6 gstreamer-plugins-good rhsa-2016 2975 nessus	PRO VER O ID ID PRO
+1	rhel 6 flash-plugin rhsa-2016 2947 nessus	PRO VER O ID ID PRO
+1	threatmeter rhel 6 chromium-browser rhsa-2016 2919	O PRO VER PRO ID ID
+1	oracle linux 6 memcached elsa-2016-2820 nessus	ORG PRO VER O ID PRO
+1	threatmeter oracle linux 6 kernel elsa-2017-0036	O ORG PRO VER PRO ID
+1	rhel 6 chromium-browser rhsa-2016 2919 nessus	PRO VER PRO ID ID PRO
+1	threatmeter rhba-2016 2979-1 red hat enterprise linux openstack platform 6 bug fix and enhancement advisory	O ID ID ORG ORG PRO PRO PRO PRO VER O O O O O
+1	vuln debian cve-2016-1253 remote command injection vulnerability	O PRO ID O VUL VUL VUL
+1	oracle mysql 5.5.50 remote code execution vulnerability oracle mysql 5.5.50 remote code execution vulnerability	ORG PRO VER VUL VUL VUL VUL ORG PRO VER VUL VUL VUL VUL
+1	threatmeter vuln debian cve-2016-1253 remote command injection vulnerability	O O PRO ID O VUL VUL VUL
+1	vuln mongodb cve-2016-3104 remote denial of service vulnerability	O PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5577 remote buffer overflow vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln oracle mysql cve-2016-6662 remote code execution vulnerability	O ORG PRO ID VUL VUL VUL VUL
+1	vuln oracle mysql cve-2016-6662 remote code execution vulnerability	O ORG PRO ID VUL VUL VUL VUL
+1	vuln oracle mysql cve-2016-6662 remote code execution vulnerability	O ORG PRO ID VUL VUL VUL VUL
+1	vuln oracle mysql cve-2016-6662 remote code execution vulnerability	O ORG PRO ID VUL VUL VUL VUL
+1	vuln apache struts cve-2016-0785 remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln apache struts cve-2016-1181 remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter vuln mongodb cve-2016-3104 remote denial of service vulnerability	O O PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5577 remote buffer overflow vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	threatmeter vuln oracle mysql cve-2016-6662 remote code execution vulnerability	O O ORG PRO ID VUL VUL VUL VUL
+1	vuln linux kernel multiple remote denial of service vulnerability	O PRO PRO VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple remote denial of service vulnerability	O PRO PRO VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple remote denial of service vulnerability	O PRO PRO VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple remote denial of service vulnerability	O PRO PRO VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple remote denial of service vulnerability	O PRO PRO VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	luis bernardo sql injection vulnerability	O O VUL VUL VUL
+1	medium usn-3159-1 linux kernel vulnerability	O ID PRO PRO O
+1	apache zookeeper 3.4.8 overflow vulnerability	PRO PRO VER VUL VUL
+1	explore it sql injection vulnerability cxsecurity	O O VUL VUL VUL O
+1	mongodb obtain information vulnerability mongodb obtain information vulnerability 28 dec 2016 summary	PRO VUL VUL VUL PRO VUL VUL VUL O O O O
+1	ubuntu 12.04 lts linux vulnerability usn-3144-1	PRO VER O PRO O ID
+1	ubuntu 14.04 lts linux vulnerability usn-3149-1	PRO VER O PRO O ID
+1	ubuntu 12.04 lts linux vulnerability usn-3150-1	PRO VER O PRO O ID
+1	cve-2017-5179 cross-site scripting xss vulnerability in tenable nessus before 6.9.3 allows remote authenticated	ID VUL VUL VUL VUL O ORG PRO O VER O O O
+1	linux gafgyt.b tr exploits netcore vulnerability fortinet	PRO O O O O O O
+1	threatmeter ubuntu 12.04 lts linux vulnerability usn-3144-1	O PRO VER O PRO O ID
+1	vuln nessus cve-2016-9260 html injection vulnerability bugtraq	O PRO ID VUL VUL VUL O
+1	vuln php cve-2016-7131 null pointer dereference remote denial of service vulnerability vulnerable ubuntu ubunt	O PRO ID VUL VUL VUL VUL VUL VUL VUL VUL O PRO O
+1	threatmeter chatnow 1.1 sql injection web vulnerability	O PRO VER VUL VUL VUL VUL
+1	threatmeter linux kernel 4.6.6 obtain information vulnerability	O PRO PRO VER VUL VUL VUL
+1	vuln linux kernel cve-2017-2583 privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL
+1	linux kernel 4.7 obtain information vulnerability linux kernel 4.7 obtain information vulnerability 23 nov 2016	PRO PRO VER VUL VUL VUL PRO PRO VER VUL VUL VUL O O O
+1	vuln linux kernel ack challenge information disclosure vulnerability	O PRO PRO O O VUL VUL VUL
+1	threatmeter ubuntu 16.04 lts 16.10 python-cryptography vulnerability usn-3138-1	O PRO VER O VER PRO O ID
+1	vuln util-linux cve-2016-5011 local denial of service vulnerability	O O ID VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2017-2583 privilege escalation vulnerability	O O PRO PRO ID VUL VUL VUL
+1	remote code execution rce attacks on apache struts	VUL VUL VUL VUL VUL O PRO PRO
+1	vuln linux kernel cve-2016-1583 stack-based buffer overflow vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter linux kernel 4.7 denial of service vulnerability	O PRO PRO VER VUL VUL VUL VUL
+1	threatmeter linux kernel 4.5.7 denial of service vulnerability	O PRO PRO VER VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-6480 local information disclosure vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-6136 local information disclosure vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2015-5307 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2015-8104 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2015-5307 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2015-5307 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-10150 denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL
+1	remote code execution bug found in ubuntu quantal threatpost	VUL VUL VUL O O O PRO O O
+1	ubuntu 14.04 lts 16.04 lts 16.10 apt vulnerability usn-3156-1	PRO VER O VER O VER O O ID
+1	vuln linux kernel ip tunnel.c local integer overflow vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel ip tunnel.c local integer overflow vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel ip tunnel.c local integer overflow vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel vfio driver cve-2016-9084 integer overflow vulnerability	O PRO PRO O O ID VUL VUL VUL
+1	vuln linux kernel mm memory.c local code execution vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel kvm emulate.c local information disclosure vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel kvm emulate.c local information disclosure vulnerability	O PRO PRO O O VUL VUL VUL VUL
+1	vuln util-linux cve-2016-5011 local denial of service vulnerability bugtraq	O O ID VUL VUL VUL VUL VUL O
+1	remote code execution rce attacks on apache struts imperva	VUL VUL VUL VUL VUL O PRO PRO O
+1	vuln linux kernel lapic.c local denial of service vulnerability	O PRO PRO O VUL VUL VUL VUL VUL
+1	vuln linux kernel lapic.c local denial of service vulnerability	O PRO PRO O VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2016-1583 stack-based buffer overflow vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter vuln linux kernel out-of-bounds read information disclosure vulnerability	O O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-9644 local privilege escalation vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2015-8967 local privilege escalation vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2016-5195 local privilege escalation vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	vuln apache struts cve-2016-8738 denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-6136 local information disclosure vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-6130 local information disclosure vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-6480 local information disclosure vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2015-8104 denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-10150 denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-10150 denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL
+1	oracle mysql server 5.5.53 5.6.34 5.7.16 packaging unknown vulnerability	ORG PRO PRO VER VER VER O VUL VUL
+1	oracle mysql server 5.5.53 5.6.34 5.7.16 myisam unknown vulnerability	ORG PRO PRO VER VER VER O VUL VUL
+1	mcafee virus scan enterprise for linux remote code execution	ORG PRO PRO PRO O PRO VUL VUL VUL
+1	threatmeter sqlite 3.12.2 denial of service obtain information vulnerability	O PRO VER VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5548 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-10153 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5548 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5551 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5551 local denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL
+1	oracle mysql server up to 5.7.16 encryption unknown vulnerability	ORG PRO PRO VER VER VER VUL VUL VUL
+1	threatmeter vuln linux kernel crypto mcryptd.c denial of service vulnerability	O O PRO PRO O O VUL VUL VUL VUL
+1	vuln linux kernel crypto mcryptd.c denial of service vulnerability bugtraq	O PRO PRO O O VUL VUL VUL VUL O
+1	vuln linux kernel kvm emulate.c local information disclosure vulnerability bugtraq	O PRO PRO O O VUL VUL VUL VUL O
+1	vuln sap netweaver as java getuseruddielements sql injection vulnerability bugtraq	O ORG PRO O PRO O VUL VUL VUL O
+1	threatmeter vuln sap netweaver as java getuseruddielements sql injection vulnerability	O O ORG PRO O PRO O VUL VUL VUL
+1	mcafee virus scan enterprise opens linux machines to remote attackers	ORG PRO PRO PRO O PRO O O VUL VUL
+1	threatmeter mcafee virus scan enterprise for linux remote code execution	O ORG PRO PRO PRO O PRO VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2016-7042 local denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5546 local denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2017-5548 local denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2017-5548 local denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2017-5551 local denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL
+1	threatmeter linux kernel 3.18.6 bypass a restriction or similar vulnerability	O PRO PRO VER VUL VUL VUL VUL VUL VUL
+1	threatmeter linux kernel 3.18.1 denial of service memory corruption vulnerability	O PRO PRO VER VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-7039 stack overflow denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-9576 use after free memory corruption vulnerability	O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel sound core timer.c local information disclosure vulnerability	O O PRO PRO O O O VUL VUL VUL VUL
+1	vuln linux kernel sound core timer.c local information disclosure vulnerability bugtraq	O PRO PRO O O O VUL VUL VUL VUL O
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 exim4 vulnerability usn-3164-1	PRO VER O VER O VER O VER O O ID
+1	threatmeter mcafee virus scan enterprise opens linux machines to remote attackers	O ORG PRO PRO PRO O PRO O O VUL VUL
+1	threatmeter oracle mysql server up to 5.7.16 x plugin unknown vulnerability	O ORG PRO PRO VER VER VER O O VUL VUL
+1	cve-2016-7279 ms16-144 microsoft internet explorer browser remote code execution 3204059 mcafee	ID ID ORG PRO PRO O VUL VUL VUL O ORG
+1	vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-9576 use after free memory corruption vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL VUL O
+1	threatmeter linux kernel 4.8.2 denial of service overflow memory corruption vulnerability	O PRO PRO VER VUL VUL VUL VUL VUL VUL VUL
+1	linux kernel 3.0.1 denial of service gain privileges memory corruption vulnerability	PRO PRO VER VUL VUL VUL VUL VUL VUL VUL VUL
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 c-ares vulnerability usn-3143-1	O PRO VER O VER O VER O VER O O ID
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 vim vulnerability usn-3139-1	O PRO VER O VER O VER O VER O O ID
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 pcsc-lite vulnerability usn-3176-1 nessus	PRO VER O VER O VER O VER O O ID PRO
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 c-ares vulnerability usn-3143-1 nessus	PRO VER O VER O VER O VER O O ID PRO
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 exim4 vulnerability usn-3164-1 nessus	PRO VER O VER O VER O VER O O ID PRO
+1	mcafee virus scan for linux allows for remote code execution as root	ORG PRO PRO O PRO O O VUL VUL VUL O O
+1	vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability	O PRO PRO O O O ID VUL VUL VUL VUL VUL
+1	vuln linux kernel path openat function use after free memory corruption vulnerability	O PRO PRO O O O VUL VUL VUL VUL VUL VUL
+1	vuln libarchive cve-2016-5418 arbitrary file write vulnerability vulnerable redhat enterprise linux workstatio	O O ID VUL VUL VUL VUL O ORG PRO PRO O
+1	vuln linux kernel cve-2016-9120 local use after free memory corruption vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-9120 local use after free memory corruption vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL VUL VUL
+1	critical glsa-201612-08 linuxcifs utils buffer overflow synopsis a vulnerability in linuxcifs utils cifscre	O ID PRO O VUL VUL O O O O PRO O O
+1	threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability	O O PRO PRO O O O ID VUL VUL VUL VUL VUL
+1	vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability bugtraq	O PRO PRO O O O ID VUL VUL VUL VUL VUL O
+1	threatmeter tenable nessus input validation flaw lets remote users conduct cross-site scripting attacks	O ORG PRO VUL VUL VUL O O O O VUL VUL VUL
+1	threatmeter vuln linux kernel path openat function use after free memory corruption vulnerability	O O PRO PRO O O O VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel path openat function use after free memory corruption vulnerability bugtraq	O PRO PRO O O O VUL VUL VUL VUL VUL VUL O
+1	0daytoday linux kernel 2.6.x pipe.c privilege escalation exploit cve-2009-3547 remote exploits 0day exploit	O PRO PRO VER O VUL VUL VUL ID VUL VUL O O
+1	cve-2016-7240 ms16-129 microsoft edge browser memory corruption remote code execution vii 3199057 mcafee	ID ID ORG PRO O VUL VUL VUL VUL VUL O O ORG
+1	vuln linux kernel cve-2016-6130 local information disclosure vulnerability vulnerable suse linux enterprise wo	O PRO PRO ID VUL VUL VUL VUL O PRO PRO PRO O
+1	zdi-16-617 dell sonicwall universal management suite imagepreviewservlet sql injection remote code execution vuln	ID ORG PRO PRO PRO PRO O VUL VUL VUL VUL VUL O
+1	vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability	O O PRO PRO ID VUL VUL VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel sound core pcm lib.c local use after free memory corruption vulnerability	O PRO PRO O O O O VUL VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel kvm emulate.c local information disclosure vulnerability vulnerable linux kernel 4.4.30 li	O PRO PRO O O VUL VUL VUL VUL O PRO PRO VER O
+1	vuln sap netweaver as java getuseruddielements sql injection vulnerability sap netweaver as java getuseruddie	O ORG PRO O PRO O VUL VUL VUL ORG PRO O PRO O
+1	threatmeter 0daytoday mcafee virus scan enterprise for linux remote code execution exploit 0day exploit	O O ORG PRO PRO PRO O PRO VUL VUL VUL VUL O O
+1	vuln linux kernel cve-2016-10153 local denial of service vulnerability linux kernel cve-2016-10153 local denial	O PRO PRO ID VUL VUL VUL VUL VUL PRO PRO ID O O
+1	vuln linux kernel cve-2016-9754 local integer overflow vulnerability vulnerable linux kernel 4.2.3 linux kerne	O PRO PRO ID VUL VUL VUL VUL O PRO PRO VER PRO O
+1	linux kernel 3 denial of service overflow vulnerability home ask the team mailing lists advertis	PRO PRO VER VUL VUL VUL VUL VUL O O O O O O O
+1	vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerability	O PRO PRO O O O O O VUL VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel pcpu extend area map function use after free denial of service vulnerability	O PRO PRO O O O O O VUL VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerability	O PRO PRO O O O O O VUL VUL VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel sound core pcm lib.c local use after free memory corruption vulnerability	O O PRO PRO O O O O VUL VUL VUL VUL VUL VUL VUL
+1	vuln linux kernel mm memory.c local code execution vulnerability vulnerable linux kernel-rt 2.6.22 linux ker	O PRO PRO O O VUL VUL VUL VUL O PRO PRO VER PRO O
+1	vuln php cve-2016-7414 heap buffer overflow vulnerability vulnerable ubuntu ubuntu linux 16.04 lts ubuntu ubun	O PRO ID VUL VUL VUL VUL O PRO PRO PRO VER O PRO O
+1	vuln linux kernel cve-2017-5549 local denial of service vulnerability linux kernel cve-2017-5549 local denial of	O PRO PRO ID VUL VUL VUL VUL VUL PRO PRO ID O O O
+1	vuln linux kernel cve-2016-9806 local denial of service vulnerability vulnerable oracle enterprise linux 6.2 o	O PRO PRO ID VUL VUL VUL VUL VUL O ORG PRO PRO VER O
+1	sqlite 3.12.2 denial of service obtain information vulnerability sqlite 3.12.2 denial of service obtain informati	PRO VER VUL VUL VUL VUL VUL VUL PRO VER VUL VUL VUL O O
+1	adobe flash player 11.2.202.632 linux denial of service execute code overflow memory corruption vulnerability ad	ORG PRO PRO VER PRO VUL VUL VUL VUL VUL VUL VUL VUL VUL O
+1	adobe flash player 18.0.0.366 linux execute code vulnerability adobe flash player 18.0.0.366 linux execute code	ORG PRO PRO VER PRO VUL VUL VUL ORG PRO PRO VER PRO VUL VUL
+1	threatmeter vuln linux kernel pcpu extend area map function use after free denial of service vulnerability	O O PRO PRO O O O O O VUL VUL VUL VUL VUL VUL VUL
+1	linux kernel 4.4.32 denial of service obtain information vulnerability linux kernel 4.4.32 denial of service obt	PRO PRO VER VUL VUL VUL VUL VUL VUL PRO PRO VER VUL VUL VUL O
+1	linux kernel 4.6.6 denial of service overflow vulnerability linux kernel 4.6.6 denial of service overflow vulner	PRO PRO VER VUL VUL VUL VUL VUL PRO PRO VER VUL VUL VUL VUL O
+1	linux kernel execute code bypass a restriction or similar vulnerability linux kernel execute code bypass a restr	PRO PRO VUL VUL VUL VUL VUL VUL VUL VUL PRO PRO VUL VUL VUL O O
+1	bugtraq novel contributions to the field how i broke mysql s code-base part 2 cve-2016-5541 mysql cluster remote 0day	O O O O O O O O O PRO O O O O ID PRO PRO O O
+1	microsoft internet explorer 11 mshtml cpastecommand convertbitmaptopng buffer overflow packetstorm	ORG PRO PRO VER O O O VUL VUL O
+1	it always being about bitcoins shadow brokers retire infosecmag	O O O O O O O O O
+1	want to learn about the top host based intrusion detection hids tools available today download our whitepaper	O O O O O O O O O O O O O O O O O
+1	nsa exploit peddlers the shadow brokers call it quits news	O O O O O O O O O O
+1	linux.horsepill latestthreats	O O
+1	linux.horsepill risk level very low type trojan.	O O O O O O O
+1	dear hackers ubuntu s app crash reporter will happily execute your evil code on a victim s box	O O PRO O O O O O O O O O O O O O O O
+1	mongodb has published some best practices to help prevent users from being hit by the current attacks	PRO O O O O O O O O O O O O O O O O
+1	no honor among thieves crooks seek ransom for mongodb data someone else stole	O O O O O O O O PRO O O O O
+1	shadow brokers say goodbye leak a batch of windows hacking tools helpnetsecurity	O O O O O O O O PRO O O O
+1	killdiskransomware targets linux demands 250 000 ransom but won t decrypt files	O O PRO O O O O O O O O O
+1	mongodb attacks jump from hundreds to 28 000 in just days threatpost	PRO O O O O O O O O O O O
+1	shadow brokers say goodbye leak a batch of windows hacking tools	O O O O O O O O PRO O O
+1	shadowbrokers exits releasing another arsenal of tools to hack windows securityaffairs	O O O O O O O O O PRO O
+1	shadowbrokers offers for sale the stolen nsa windows hacking tools securityaffairs	O O O O O O O PRO O O O
+1	dark reading mongodb attack shows off cyber extortionists new tricks tripwire	O O PRO O O O O O O O O
+1	r t 27 000 mongodb servers receive ransom demand after having their data wiped here s what you need to know	O O O O PRO PRO O O O O O O O O O O O O O O O
+1	shadowbrokers exits releasing another arsenal of tools to hack windows	O O O O O O O O O PRO
+1	shadowbrokers offers for sale the stolen nsa windows hacking tools	O O O O O O O PRO O O
+1	trojan transforms linux devices into proxies for malicious traffic	O O PRO O O O O O O
+1	have a linux question linuxdotcom is here to help	O O PRO O O O O O O
+1	rt 0xdude open mongodb money 4 bad ppl mongo3l1t3 sigaint.org 1j4ocbecbantwjlsxlfie7iwjmjghdzgb 193.107.145.20 seen 1 5 12 00	O O O PRO O O O O O O O VER O O O O O
+1	33 000 databases fall in mongodb massacre cybercrime	O O O O O PRO O O
+1	exposed mongodb installs being erased held for ransom	O PRO O O O O O O
+1	unprotected mongodb installations child s play for hackers	O PRO O O O O O O
+1	0-day exploits could wreak havoc on linux desktops	O O O O O O PRO O
+1	0-day exploits could wreak havoc on linux desktops	O O O O O O PRO O
+1	0-day exploits could wreak havoc on linux desktops	O O O O O O PRO O
+1	protect your linux device from exploits and malware	O O PRO O O O O O
+1	rt campuscodi so basically more than 50 of all internet-accessible mongodb servers have been compromised.	O O O O O O O O O O PRO PRO O O O
+1	27 000 mongodb servers have their data wiped receive ransom demand for its safe return	O O PRO PRO O O O O O O O O O O O
+1	shadowbrokers offers for sale the stolen nsa windows hacking tools securityaffairs shadowbrokers nsa windows	O O O O O O O PRO O O O O O PRO
+1	0daytoday linux x86 64 execve bin sh shellcode 22 bytes shellcode 0day exploit	O PRO VER O O O O O O O O O O
+1	shadowbrokers exits releasing another arsenal of tools to hack windows securityaffairs shadowbrokers windows	O O O O O O O O O PRO O O PRO
+1	watch out sysadmins someone hijacked more than 2000 unsecured mongodb databases for ransom	O O O O O O O O O PRO PRO O O
+1	this week in open source news linux amp open source vulnerabilities in 2017	O O O O O O PRO PRO O O O O O
+1	threatmeter cve-2016-9178 the get user asm ex macro in arch x86 include asm uaccess.h in the linux kernel befor	O ID O O O O O O O O O O O O O O PRO PRO O
+1	more than 10 000 exposed mongodb databases deleted by ransomware groups networkworld	O O O O O PRO PRO O O O O O
+1	someone hijacking unsecured mongodbdatabases for ransom	O O O PRO O O
+1	threatmeter best hacking tools of 2017 for windows linux and os x	O O O O O O O PRO PRO O O O
+1	a flawed adobe extension automatically installed on 30 million chrome browsers	O O ORG O O O O O O PRO O
+1	best hacking tools of 2017 for windows linux and os x	O O O O O O PRO PRO O O O
+1	threatmeter pwn2own 2017 takes aim at linux servers and web browsers	O O O O O O PRO PRO O O O
+1	linux rakos the new linux malware threatening devices and servers securityaffairs	PRO O O O PRO O O O O O O
+1	sans internet storm center microsoft update servers left all azure rhel instances hackable the register	O O O O ORG O O O O PRO PRO O O O O
+1	unprotected mongodb databases wiped and held for ransom by attacker	O PRO PRO O O O O O O O
+1	thousands of mongodb databases compromised and held to ransom nakedsecurity	O O PRO PRO O O O O O O
+1	thehackersnews nmerrigan 0xdude number of mongodb ransom attacks peaked 27 000 in a day securityaffairs	O O O O O PRO VUL VUL O O O O O O O
+1	microsoft enables linux desktop users to send sms text messages with latest skype alpha hitb	ORG O PRO O O O O O O O O O PRO O O
+1	cve-2016-9576 the blk rq map user iov function in block blk-map.c in the linux kernel before 4.8.14 does not prope	ID O O O O O O O O O O O O PRO PRO O VER O O O
+1	cve-2016-6213 fs namespace.c in the linux kernel before 4.9 does not restrict how many mounts may exist in a mount	ID O O O O PRO PRO O VER O O O O O O O O O O O
+1	linux rakos the new linux malware threatening devices and servers	PRO O O O PRO O O O O O
+1	cve-2016-9555 the sctp sf ootb function in net sctp sm statefuns.c in the linux kernel before 4.8.8 lacks chunk-le	ID O O O O O O O O O O O O PRO PRO O VER O O
+1	rt granetman hacker held open mongodb databases for ransom by securityaffairs securityaffairs mongodb hac	O O O O O PRO PRO O O O O O PRO O
+1	hackers that hit mongodb installs now switch on exposed elasticsearch clusters securityaffairs elasticsearch ran	O O O PRO O O O O O PRO O O PRO O
+1	hackers that hit mongodb installs now switch on exposed elasticsearch clusters securityaffairs elasticsearch ran	O O O PRO O O O O O PRO O O PRO O
+1	linux rakos the new linux malware threatening devices and servers securityaffairs linux iot rakos	PRO O O O PRO O O O O O O PRO O O
+1	rt maldevel update debian flash-player plugin sudo update-flashplugin-nonfree -install	O O O PRO PRO O O O O
+1	threatmeter google fixes 12 high-severity flaws in chrome browser	O ORG O O O O O PRO O
+1	cve-2012-6704 the sock setsockopt function in net core sock.c in the linux kernel before 3.5 mishandles negative v	ID O O O O O O O O O O PRO PRO O VER O O O
+1	rt globalcyberalln cve-2016-8655 a new 5-year-old flaw found in the linux kernel securityaffairs	O O ID O O O O O O O PRO PRO O
+1	rt bleepincomputer mysterious rakos botnet rises in the shadows by targeting linux servers iot devices by campuscodi	O O O VUL VUL O O O O O O PRO PRO O O O O
+1	cve-2016-8645 the tcp stack in the linux kernel before 4.8.10 mishandles skb truncation which allows local users	ID O O O O O PRO PRO O VER O O O O O O O
+1	threatmeter android debian and ubuntu top most vulnerable products chart in 2016	O PRO PRO O PRO O O O O O O O
+1	mongodb ransom attacks soar body count hits 27 000 in hours theregister	PRO VUL VUL O O O O O O O O O
+1	hacker gold rush deletes 27 000 mongodb databases	O O O O O O PRO PRO
+1	0xdude hacker held open mongodb databases for ransom securityaffairs mongodb hacking cybercrime	O O O O PRO PRO O O O PRO O O
+1	arturodicorinto thehackersnews hacker held open mongodb databases for ransom securityaffairs mongodb hacking	O O O O O PRO PRO O O O PRO O
+1	cve-2016-9919 the icmp6 send function in net ipv6 icmp.c in the linux kernel through 4.8.12 omits a certain check	ID O O O O O O O O O O PRO PRO VER VER O O O O
+1	threatmeter cve-2016-9919 the icmp6 send function in net ipv6 icmp.c in the linux kernel through 4.8.12 omits a c	O ID O O O O O O O O O O PRO PRO VER VER O O O
+1	cve-2016-9806 race condition in the netlink dump function in net netlink af netlink.c in the linux kernel before 4	ID VUL VUL O O O O O O O O O O O O PRO PRO O O
+1	number of mongodb ransom attacks peaked 27 000 in a day securityaffairs mongodb cybercrime hacking	O O PRO VUL VUL O O O O O O O PRO O O
+1	gvarisco hacker held open mongodb databases for ransom securityaffairs mongodb hacking	O O O O PRO PRO O O O PRO O
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking cybercrime	O O O PRO PRO O O O PRO O O
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking cybercrime	O O O PRO PRO O O O PRO O O
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking cybercrime	O O O PRO PRO O O O PRO O O
+1	threatmeter debian dla-725-1 tzdata new upstream version	O PRO ID O O O O
+1	threatmeter 0daytoday linux x86-64 bin sh c reboot shellcode 89 bytes shellcode 0day exploit	O O PRO VER O O O VUL VUL O O O O O
+1	hacker held open mongodb databases for ransom	O O O PRO PRO O O
+1	solution by jaya shri combine sql injection	O O O O O VUL VUL
+1	threatmeter another nasty linux kernel bug surfaces	O O O PRO PRO O O
+1	cve-2016-7091 sudo it was discovered that the default sudo configuration on red hat enterprise linux and possibly	ID O O O O O O O O O O ORG ORG PRO PRO O O
+1	na cve-2016-8633 drivers firewire net.c in the linux kernel drivers firewire net.c in the linux kernel befo	O ID O O O O O PRO PRO O O O O O PRO PRO O
+1	cve-2016-9644 the get user asm ex macro in arch x86 include asm uaccess.h in the linux kernel 4.4.22 through 4.4	ID O O O O O O O O O O O O O O PRO PRO VER VER VER
+1	insecure mongodb configuration leads to boom in ransom attacks anomali	O PRO O O O O O VUL VUL O
+1	cve-2016-8655 a new 5-year-old flaw found in the linux kernel	ID O O O O O O O PRO PRO
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking	O O O PRO PRO O O O PRO O
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking	O O O PRO PRO O O O PRO O
+1	hacker held open mongodb databases for ransom securityaffairs mongodb hacking	O O O PRO PRO O O O PRO O
+1	linuxsec linuxfoundation linuxit europe hacking mcafee virusscan enterprise for linux upgrade it asap	O O O O O ORG PRO PRO O PRO O O O
+1	threatmeter na cve-2016-9777 kvm in the linux kernel before 4.8.12 when i o	O O ID O O O PRO PRO O VER O O O
+1	threatmeter cve-2016-6786 kernel events core.c in the performance subsystem in the linux kernel before 4.0 misman	O ID PRO O O O O O O O O PRO PRO O VER O
+1	cve-2016-9120 race condition in the ion ioctl function in drivers staging android ion ion.c in the linux kernel be	ID VUL VUL O O O O O O O O PRO O O O O PRO PRO O
+1	debian dla-725-1 tzdata new upstream version	PRO ID O O O O
+1	mongodb databases under attack worldwide l	PRO PRO O O O O
+1	elasticsearch ransomware attacks now number in the thousands news	PRO VUL VUL O O O O O O
+1	mongodb servers now a ransomware target	PRO PRO O O O O
+1	several thousand linux devices infected with the linux.proxy.10 trojan	O O PRO O O O O VUL VUL
+1	mongodb hackers now sacking elasticsearch theregister	PRO O O O PRO O
+1	several thousand linux devices infected with the linux.proxy.10 trojan securityaffairs linux malware	O O PRO O O O O VUL VUL O PRO O
+1	cve-2016-9191 the cgroup offline implementation in the linux kernel through 4.8.11 mishandles certain drain operat	ID O O O O O O PRO PRO VER VER O O O O
+1	threatmeter mysql cluster 7.3.x lt 7.3.9 general subcomponent dos january 2017 cpu	O PRO PRO VER O VER O O O O O O
+1	threatmeter mysql cluster 7.2.x lt 7.2.20 general subcomponent dos january 2017 cpu	O PRO PRO VER O VER O O O O O O
+1	na cve-2016-6213 fs namespace.c in the linux kernel before 4.9 fs namespace.c in the linux kernel before 4	O ID O O O O PRO PRO O VER O O O O PRO PRO O O
+1	cve-2016-8655 a new 5-year-old flaw found in the linux kernel securityaffairs linux hacking kernel	ID O O O O O O O PRO PRO O PRO O PRO
+1	cve-2016-8655 a new 5-year-old flaw found in the linux kernel securityaffairs linux hacking kernel	ID O O O O O O O PRO PRO O PRO O PRO
+1	threatmeter shellcode linux x86-64 bin sh c reboot shellcode 89 bytes	O O PRO VER O O O VUL VUL O O
+1	mysql cluster 7.3.x lt 7.3.9 general subcomponent dos january 2017 cpu	PRO PRO VER O VER O O O O O O
+1	webapps image and video script sql injection exploitdb	O O O O VUL VUL VUL O
+1	na rhsa-2016 2996 red hat enterprise linux 4 extended life cycle support three-month notice problem descriptio	O ID ID ORG ORG PRO PRO VER O O O O O O O O
+1	cve-2016-9755 the netfilter subsystem in the linux kernel before 4.9 mishandles ipv6 reassembly which allows loca	ID O PRO PRO O O PRO PRO O VER O O O O O O
+1	threatmeter shellcode linux x86 netcat e option disabled reverse shell shellcode 180 bytes	O O PRO VER O O O O VUL VUL VUL O O
+1	threatmeter linux kernel up to 4.6 alsa subsystem sound core pcm lib.c snd pcm period elapsed buffer overflow	O PRO PRO VER VER VER O O O O O O O O O O VUL VUL
+1	threatmeter fedora 24 perl-dbd-mysql 2016-54fd3bf412	O PRO VER O O
+1	threatmeter fedora 23 perl-dbd-mysql 2016-bf6c3ea62c	O PRO VER O O
+1	0daytoday linux x86 egg-hunter shellcode 25 bytes shellcode 0day exploit	O PRO VER VUL VUL O O O O O
+1	critical cve-2015-3188 the ui daemon in apache storm 0.10.0 before	O ID O O O O PRO PRO VER O
+1	mongodb hackers now sacking elasticsearch	PRO O O O PRO
+1	vigilnce linux kernel information disclosure via kvm em x far	O PRO PRO VUL VUL O O O O O
+1	vigilnce linux kernel memory corruption via ip6t so set replace	O PRO PRO VUL VUL O O O O O
+1	vigilnce linux kernel buffer overflow via brcmf cfg80211 start ap	O PRO PRO VUL VUL O O O O O
+1	real design sql injection cxsecurity	O O VUL VUL O
+1	threatmeter vigilnce linux kernel buffer overflow via proc keys show	O O PRO PRO VUL VUL O O O O
+1	threatmeter real design sql injection	O O O VUL VUL
+1	threatmeter linux kernel up to 4.8.13 net core sock.c sock setsockopt sk sndbuf sk rcvbuf buffer overflow	O PRO PRO VER VER VER O O O O O O O O O VUL VUL
+1	beware mongodb hijackers move on to elasticsearch servers w weak or guessable passwords 600 attacked so far	O PRO O O O O PRO PRO O VUL VUL VUL VUL O O O O
+1	rt eduardkovacs following ransom attacks on mongodb and elasticsearch databases couchdb and hadoop are now under attack	O O O VUL VUL O PRO O PRO PRO PRO O PRO O O O O
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 gst-plugins-good0.10 gst-plugins-good1.0 vulnerab	O PRO VER O VER O VER O VER O O O
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 gst-plugins-good0.10 gst-plugins-good1.0 vulnerab	O PRO VER O VER O VER O VER O O O
+1	how to brute force a mysql db	O O VUL VUL O PRO O
+1	created by brandon amp hakobyans sql injection	O O O PRO O VUL VUL
+1	vigilnce joomla huge it googlemaps sql injection	O PRO O O O VUL VUL
+1	threatmeter thousands of mongodb databases hit by ransomware attacks	O O O PRO PRO O O VUL VUL
+1	hacking mcafee virusscan enterprise for linux upgrade it asap securityaffairs hacking mcafee linux	O ORG PRO PRO O PRO O O O O O ORG PRO
+1	hacking mcafee virusscan enterprise for linux upgrade it asap securityaffairs hacking mcafee linux	O ORG PRO PRO O PRO O O O O O ORG PRO
+1	hacking mcafee virusscan enterprise for linux upgrade it asap securityaffairs hacking mcafee linux	O ORG PRO PRO O PRO O O O O O ORG PRO
+1	fedora 23 perl-dbd-mysql 2016-bf6c3ea62c	PRO VER O O
+1	linux x86 64 tcp 5600 bind shellcode packetstorm	PRO VER O O O VUL VUL O
+1	threatmeter shellcode linux x86 egg-hunter shellcode 25 bytes	O O PRO VER VUL VUL O O
+1	icymi elasticsearch servers latest target of ransom attacks	O PRO PRO O O O VUL VUL
+1	threatmeter ubuntu 16.10 apt regression usn-3156-2	O PRO VER O O ID
+1	threatmeter vigilnce snort executing dll code via tcapi.dll	O O PRO VUL VUL VUL O O
+1	suricata idpe 3.2 packetstorm	PRO O VER O
+1	threatmeter vigilnce linux kernel privilege escalation via copy on write dirty cow	O O PRO PRO VUL VUL O O O O VUL VUL
+1	threatmeter sudo on red hat linux readline handler information disclosure	O O O ORG ORG PRO O O VUL VUL
+1	threatmeter ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3133-1	O PRO VER O VER O VER O O ID
+1	threatmeter mysql enterprise monitor 3.2.x lt 3.2.2.1075 multiple vulnerabilities january 2017 cpu	O PRO PRO O VER O VER VUL VUL O O O
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nss vulnerabilities usn-3163-1	O PRO VER O VER O VER O VER O O ID
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 apport vulnerabilities usn-3157-1	O PRO VER O VER O VER O VER O O ID
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 imagemagick vulnerabilities usn-3142-1	O PRO VER O VER O VER O VER O O ID
+1	rhsa-2016 2998-1 low red hat enterprise linux 6.2 advanced mission critical amc one-year notice	ID ID O ORG ORG PRO PRO VER O O O O O O
+1	new rakos botnet found to be targeting linux servers amp iot devices w brute force attacks	O VUL VUL O O O O PRO PRO PRO O O O VUL VUL VUL
+1	mongodb ransom attack just the beginning	PRO VUL VUL O O O
+1	deadly killdisk malware now in linux	O VUL VUL O O PRO
+1	linux kernel sg write and bsg write functions let local users obtain root privileges	PRO PRO O O O O O O O VUL VUL VUL VUL VUL
+1	webworx design group sql injection vulnerabilites	O O O VUL VUL VUL
+1	mysql cluster 7.2.x lt 7.2.27 ndbapi subcomponent buffer overflow january 2017 cpu	PRO PRO VER O VER O O VUL VUL O O O
+1	ubuntu 16.04 lts linux-raspi2 vulnerabilities usn-3169-3	PRO VER O O O ID
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 ghostscript vulnerabilities usn-3148-1	O PRO VER O VER O VER O VER O O ID
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 thunderbird vulnerabilities usn-3141-1	O PRO VER O VER O VER O VER O O ID
+1	0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow ptrace pokedata race condition poc wr 0day exploit	O PRO PRO VER PRO O VER VUL VUL O O VUL VUL O O O O
+1	0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow proc self mem race condition privileg 0day exploit	O PRO PRO VER PRO O VER VUL VUL O O O VUL VUL O O O
+1	0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow proc self mem race condition privileg 0day exploit	O PRO PRO VER PRO O VER VUL VUL O O O VUL VUL O O O
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 libvncserver vulnerabilities usn-3171-1	PRO VER O VER O VER O VER O O ID
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 apport vulnerabilities usn-3157-1	PRO VER O VER O VER O VER O O ID
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 moin vulnerabilities usn-3137-1	PRO VER O VER O VER O VER O O ID
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 bind9 vulnerabilities usn-3172-1	PRO VER O VER O VER O VER O O ID
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 imagemagick vulnerabilities usn-3142-1	PRO VER O VER O VER O VER O O ID
+1	threatmeter mysql cluster 7.2.x lt 7.2.26 multiple dos january 2017 cpu	O PRO PRO VER O VER VUL VUL O O O
+1	hacking ubuntu linux distro exploiting the crashdb code injection issue securityaffairs	O PRO PRO O O O PRO VUL VUL VUL O
+1	threatmeter cve-2015-8967 arch arm64 kernel sys.c in the linux kernel before 4.0 allows local users to bypass the	O ID O O PRO O O O PRO PRO O VER VUL VUL VUL VUL VUL O
+1	sap netweaver as java p4 mspruntimeinterface information disclosure packetstorm	ORG PRO O PRO O O VUL VUL O
+1	cve-2016-5207 in blink in google chrome prior to 55.0.2883.75 for mac windows and linux and 55.0.2883.84 for and	ID O O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3133-1	PRO VER O VER O VER O O ID
+1	mcafee virusscan for linux vulnerabilities gave hackers root access	ORG PRO O PRO O O O VUL VUL
+1	threatmeter vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerabil	O O PRO PRO O O O O O VUL VUL VUL VUL VUL VUL VUL
+1	threatmeter cve-2016-5226 blink in google chrome prior to 55.0.2883.75 for linux windows and mac executed javasc	O ID O O ORG PRO VER VER VER O PRO PRO O PRO O O
+1	threatmeter linux kernel up to 4.4.1 crypto algif skcipher.c lrw crypt denial of service	O PRO PRO VER VER VER O O O O O VUL VUL VUL
+1	google chrome accessibility blink node corruption packetstorm	ORG PRO O O VUL VUL O
+1	hacking ubuntu linux distro exploiting the crashdb code injection issue securityaffairs ubuntu linux hacking	O PRO PRO O O O PRO VUL VUL VUL O PRO PRO O
+1	linux kernel up to 4.8.11 lib mpi mpi-pow.c mpi powm buffer overflow	PRO PRO VER VER VER O O O O O VUL VUL
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nvidia-graphics-drivers-304 and nvidia-graphics-drivers-340 vul	PRO VER O VER O VER O VER PRO O PRO O
+1	threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 firefox vulnerabilities usn-3155-1	O PRO VER O VER O VER O VER PRO O ID
+1	cve-2016-5220 pdfium in google chrome prior to 55.0.2883.75 for mac windows and linux and 55.0.2883.84 for andro	ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER O O
+1	cve-2016-5217 the extensions api in google chrome prior to 55.0.2883.75 for mac windows and linux and 55.0.2883	ID O O O O ORG PRO VER VER VER O PRO PRO O PRO O VER
+1	ubuntu 16.10 apt regression usn-3156-2	PRO VER O O ID
+1	linux kernel 4.9 officially released	PRO PRO VER O O
+1	threatmeter cross-site scripting en nessus	O VUL VUL O PRO
+1	cve-2016-5211 a use after free in pdfium in google chrome prior to 55.0.2883.75 for mac windows and linux and 55	ID O VUL VUL VUL O O O ORG PRO VER VER VER O PRO PRO O PRO O O
+1	ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3153-1 nessus	PRO VER O VER O VER O O ID PRO
+1	mysql cluster 7.4.x lt 7.4.13 multiple vulnerabilities january 2017 cpu	PRO PRO VER O VER VUL VUL O O O
+1	mysql cluster 7.3.x lt 7.3.15 multiple vulnerabilities january 2017 cpu	PRO PRO VER O VER VUL VUL O O O
+1	cve-2016-5223 integer overflow in pdfium in google chrome prior to 55.0.2883.75 for mac windows and linux and 55	ID VUL VUL O O O ORG PRO VER VER VER O PRO PRO O PRO O O
+1	0daytoday linux kernel 4.4.0 af packet race condition privilege escalation exploit 0day exploit	O PRO PRO VER O O VUL VUL VUL VUL VUL O O
+1	0daytoday linux kernel 4.4.0 af packet race condition privilege escalation exploit 0day exploit	O PRO PRO VER O O VUL VUL VUL VUL VUL O O
+1	cve-2016-5191 bookmark handling in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85 f	ID O O O ORG PRO VER VER VER O PRO PRO O PRO VER O
+1	vigilnce linux kernel denial of service via gro	O PRO PRO VUL VUL VUL O O
+1	cve-2016-5198 v8 in google chrome prior to 54.0.2840.90 for linux and 54.0.2840.85 for android and 54.0.2840.87	ID O O ORG PRO VER VER VER O PRO O VER O PRO O VER
+1	threatmeter cve-2016-9650 blink in google chrome prior to 55.0.2883.75 for mac windows and linux and 55.0.2883	O ID O O ORG PRO VER VER VER O PRO PRO O PRO O VER
+1	threatmeter cve-2016-10088 the sg implementation in the linux kernel through 4.9 does not properly restrict write	O ID O O O O O PRO PRO VER VER VUL VUL VUL VUL VUL
+1	threatmeter linux kernel up to 4.8.6 drivers firewire net.c buffer overflow	O PRO PRO VER VER VER O O O VUL VUL
+1	mysql cluster 7.4.x lt 7.4.13 multiple vulnerabilities january 2017 cpu nessus	PRO PRO VER O VER VUL VUL O O O PRO
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 firefox vulnerabilities usn-3155-1	PRO VER O VER O VER O VER PRO O ID
+1	nvidia windows gpu display driver 340.x lt 342.01 375.x lt 376.33 multiple vulnerabilities nessus	ORG PRO O O O VER O VER VER O VER VUL VUL PRO
+1	cve-2016-10088 the sg implementation in the linux kernel through 4.9 does not properly restrict write operations i	ID O O O O O PRO PRO VER VER VUL VUL VUL VUL VUL VUL O
+1	cve-2016-10088 the sg implementation in the linux kernel through 4.9 does not properly restrict write operations i	ID O O O O O PRO PRO VER VER VUL VUL VUL VUL VUL VUL O
+1	threatmeter centos 7 resteasy-base cesa-2016 2604	O PRO VER O ID ID
+1	threatmeter centos 7 memcached cesa-2016 2819	O PRO VER O ID ID
+1	threatmeter centos 5 thunderbird cesa-2016 2973	O PRO VER O ID ID
+1	threatmeter centos 7 qemu-kvm cesa-2017 0083	O PRO VER O ID ID
+1	threatmeter oracle linux 7 gstreamer-plugins-bad-free elsa-2017-0018	O ORG PRO VER O ID
+1	threatmeter oracle linux 7 memcached elsa-2016-2819	O ORG PRO VER O ID
+1	oraclevm 3.3 unbreakable etc ovmsa-2016-0175 nessus	PRO VER O O ID PRO
+1	oraclevm 3.2 unbreakable etc ovmsa-2017-0006 nessus	PRO VER O O ID PRO
+1	linux kernel up to 4.8.12 net packet af packet.c denial of service	PRO PRO VER VER VER O O O O VUL VUL VUL
+1	threatmeter linux kernel dirty cow ptrace pokedata privilege escalation	O PRO PRO VUL VUL O O VUL VUL
+1	threatmeter linux kernel dirty cow ptrace pokedata privilege escalation	O PRO PRO VUL VUL O O VUL VUL
+1	threatmeter glsa-201701-51 dbd mysql multiple vulnerabilities	O ID O PRO VUL VUL
+1	vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities bugtraq	O PRO PRO ID O O VUL VUL VUL VUL VUL O
+1	threatmeter cve-2016-5185 blink in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85	O ID O O ORG PRO VER VER VER O PRO PRO O PRO VER
+1	threatmeter cve-2016-5184 pdfium in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85	O ID O O ORG PRO VER VER VER O PRO PRO O PRO VER
+1	ubuntu 12.04 lts openjdk-6 vulnerabilities usn-3154-1	PRO VER O PRO O ID
+1	database attacks spread to couchdb hadoop and elasticsearch servers	VUL VUL O O PRO PRO O PRO PRO
+1	hp network automation rpcservlet java object deserialization rce nessus	ORG O O O PRO VUL VUL VUL PRO
+1	microsoft azure flaws exposed red hat enterprise linux instances	ORG PRO O O ORG ORG PRO PRO O
+1	ubuntu 12.04 lts linux-lts-trusty vulnerabilities usn-3145-2	PRO VER O PRO O ID
+1	ubuntu 16.04 lts linux-snapdragon vulnerabilities usn-3169-4	PRO VER O PRO O ID
+1	threatmeter glsa-201612-08 linuxcifs utils buffer overflow	O ID PRO O VUL VUL
+1	ubuntu 16.04 lts linux vulnerabilities usn-3146-1	PRO VER O PRO O ID
+1	ubuntu 16.04 lts linux vulnerabilities usn-3169-1	PRO VER O PRO O ID
+1	ubuntu 14.04 lts linux vulnerabilities usn-3168-1	PRO VER O PRO O ID
+1	threatmeter amazon linux ami tomcat6 alas-2016-776	O ORG PRO O PRO ID
+1	threatmeter amazon linux ami tomcat8 alas-2016-778	O ORG PRO O PRO ID
+1	cve-2016-5184 pdfium in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85 for android	ID O O ORG PRO VER VER VER O PRO PRO O PRO VER O PRO
+1	linux kernel packet set ring race condition lets local users obtain root privileges	PRO PRO O O O VUL VUL O VUL VUL VUL VUL VUL
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts python2.7 python3.2 python3.4 python3.5 vulnerabilities nessus	PRO VER O VER O VER O PRO PRO PRO PRO O PRO
+1	nginx debian-based gentoo distros root privilege escalation cve-2016-1247 update fulldisclosure	PRO PRO PRO O VUL VUL VUL ID O O
+1	mcafee virusscan enterprise for linux lt 2.0.3 multiple vulnerabilities sb10181	ORG PRO PRO O PRO O VER VUL VUL O
+1	netiq sentinel java object deserialization rce nessus	O O PRO VUL VUL VUL PRO
+1	local linux kernel 2.6.22 lt 3.9 dirty cow ptrace pokedata race condition privilege escalation	O PRO PRO VER O VER VUL VUL O O VUL VUL VUL VUL
+1	ubuntu 16.04 lts linux-snapdragon vulnerabilities usn-3169-4 nessus	PRO VER O PRO O ID PRO
+1	ubuntu 12.04 lts linux-lts-trusty vulnerabilities usn-3168-2 nessus	PRO VER O PRO O ID PRO
+1	ubuntu 16.04 lts linux vulnerabilities usn-3161-1 nessus	PRO VER O PRO O ID PRO
+1	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 tomcat6 tomcat7 tomcat8 vulnerabilities usn-3177 nessus	PRO VER O VER O VER O VER PRO PRO PRO O ID PRO
+1	vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities	O PRO PRO ID O O VUL VUL VUL VUL VUL
+1	vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities	O PRO PRO ID O O VUL VUL VUL VUL VUL
+1	mcafee virusscan enterprise for linux lt 2.0.3 multiple vulnerabilities sb10181 nessus	ORG PRO PRO O PRO O VER VUL VUL O PRO
+1	linux kernel dirty cow ptrace pokedata privilege escalation	PRO PRO VUL VUL O O VUL VUL
+1	google chrome lt 56.0.2924.76 multiple vulnerabilities macos nessus	ORG PRO O VER VUL VUL O PRO
+1	threatmeter vuln sap afaria multiple sql injection vulnerabilities	O O ORG PRO VUL VUL VUL VUL
+1	threatmeter mongodb ransomware attacks	O PRO VUL VUL
+1	threatmeter cve-2016-8405 linux kernel	O ID PRO PRO
+1	threatmeter ubuntu linux up to 15.04 overlayfs privilege escalation	O PRO PRO VER VER VER O VUL VUL
+1	vuln debian tomcat package multiple local privilege escalation vulnerabilities	O PRO PRO O VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel multiple local memory corruption vulnerabilities	O O PRO PRO VUL VUL VUL VUL VUL
+1	threatmeter vuln linux kernel multiple local memory corruption vulnerabilities	O O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities bugtraq	O PRO PRO VUL VUL VUL VUL VUL O
+1	threatmeter vuln linux kernel cve-2013-6282 local privilege escalation vulnerabilities	O O PRO PRO ID VUL VUL VUL VUL
+1	vuln linux kernel cve-2013-6282 local privilege escalation vulnerabilities bugtraq	O PRO PRO ID VUL VUL VUL VUL O
+1	dbd-mysql up to 3.x 4.040 on perl mysql server prepare 1 use-after-free buffer overflow	PRO VER VER VER VER O PRO PRO PRO O O VUL VUL VUL
+1	centos 7 util-linux cesa-2016 2605	PRO VER O ID ID
+1	centos 7 ipsilon cesa-2016 2809	PRO VER O ID ID
+1	centos 7 memcached cesa-2016 2819	PRO VER O ID ID
+1	centos 7 bind cesa-2016 2615	PRO VER O ID ID
+1	centos 5 thunderbird cesa-2016 2973	PRO VER O ID ID
+1	centos 7 qemu-kvm cesa-2017 0083	PRO VER O ID ID
+1	oracle linux 7 gstreamer1-plugins-good elsa-2017-0020	ORG PRO VER O ID
+1	oracle linux 7 memcached elsa-2016-2819	ORG PRO VER O ID
+1	threatmeter linux kernel up to 4.8.11 kvm out-of-bounds buffer overflow	O PRO PRO VER VER VER O VUL VUL VUL
+1	hp operations orchestration wsexecutionbridgeservice servlet java object deserialization rce nessus	ORG PRO PRO O O PRO VUL VUL VUL PRO
+1	ubuntu 16.10 linux vulnerabilities usn-3147-1	PRO VER PRO O ID
+1	google chrome privilege escalation packetstorm	ORG PRO VUL VUL O
+1	vuln linux kernel local memory corruption and integer overflow vulnerabilities	O PRO PRO VUL VUL VUL O VUL VUL VUL
+1	vuln linux kernel local memory corruption and integer overflow vulnerabilities	O PRO PRO VUL VUL VUL O VUL VUL VUL
+1	vuln linux kernel local memory corruption and integer overflow vulnerabilities	O PRO PRO VUL VUL VUL O VUL VUL VUL
+1	vuln linux kernel cve-2016-4578 multiple local information disclosure vulnerabilities bugtraq	O PRO PRO ID VUL VUL VUL VUL VUL O
+1	adobe flash player for mac lt 23.0.0.207 multiple vulnerabilities apsb16-39 nessus	ORG PRO PRO O PRO O VER VUL VUL ID PRO
+1	threatmeter oracle mysql server 5.5.53 5.6.34 5.7.16 ddl denial of service	O ORG PRO PRO VER VER VER O VUL VUL VUL
+1	oracle mysql cluster 7.2.25 7.3.14 7.4.12 cluster ndbapi denial of service	ORG PRO PRO VER VER VER O O VUL VUL VUL
+1	rhel 5 bind97 rhsa-2017 0064 nessus	PRO VER O ID ID PRO
+1	centos 7 ipsilon cesa-2016 2809 nessus	PRO VER O ID ID PRO
+1	centos 7 bind cesa-2016 2615 nessus	PRO VER O ID ID PRO
+1	centos 7 memcached cesa-2016 2819 nessus	PRO VER O ID ID PRO
+1	centos 7 qemu-kvm cesa-2017 0083 nessus	PRO VER O ID ID PRO
+1	citrix xenserver multiple vulnerabilities ctx218775 nessus	ORG PRO VUL VUL O PRO
+1	glsa-201612-08 linuxcifs utils buffer overflow nessus	ID PRO O VUL VUL PRO
+1	desh universal cms sql injection cxsecurity	ORG ORG PRO VUL VUL O
+1	schoolhos cms 2.29 sql injection exploit	O PRO VER VUL VUL VUL
+1	threatmeter desh universal cms sql injection	O ORG ORG PRO VUL VUL
+1	oraclevm 3.3 3.4 vim ovmsa-2016-0182 nessus	PRO VER VER O ID PRO
+1	ubuntu 16.10 linux vulnerabilities usn-3147-1 nessus	PRO VER PRO O ID PRO
+1	vuln linux kernel cve-2013-6282 local privilege escalation vulnerabilities vulnerable ubuntu ubuntu linux 12.0	O PRO PRO ID VUL VUL VUL VUL O PRO PRO PRO VER
+1	vuln sap afaria multiple sql injection vulnerabilities	O ORG PRO VUL VUL VUL VUL
+1	vuln sap afaria multiple sql injection vulnerabilities	O ORG PRO VUL VUL VUL VUL
+1	mariadb 5.5.x lt 5.5.54 multiple vulnerabilities nessus	PRO VER O VER VUL VUL PRO
+1	threatmeter linux ntpd 4.2.8 derive nonce stack overflow	O PRO PRO VER VUL VUL VUL VUL
+1	ubuntu linux up to 15.04 overlayfs privilege escalation	PRO PRO VER VER VER O VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities	O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities	O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities	O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities	O PRO PRO VUL VUL VUL VUL VUL
+1	vuln linux kernel multiple local memory corruption vulnerabilities	O PRO PRO VUL VUL VUL VUL VUL
+1	vmware vsphere client xxe injection information disclosure vmsa-2016-0022 nessus	PRO PRO O VUL VUL VUL VUL ID PRO
+1	threatmeter tenable nessus up to 6.9.2 cross site scripting cve-2017-5179	O ORG PRO VER VER VER VUL VUL VUL ID
+1	oracle mysql server 5.5.53 5.6.34 5.7.16 dml denial of service	ORG PRO PRO VER VER VER O VUL VUL VUL
+1	oracle mysql server 5.5.53 5.6.34 5.7.16 optimizer denial of service	ORG PRO PRO VER VER VER O VUL VUL VUL
+1	vmware vsphere data protection private ssh key authentication bypass vmsa-2016-0024 nessus	PRO PRO PRO PRO VUL VUL VUL VUL VUL ID PRO
+1	rhel 7 kernel rhsa-2017 0086 nessus	PRO VER PRO ID ID PRO
+1	rhel 7 kernel rhsa-2017 0004 nessus	PRO VER PRO ID ID PRO
+1	rhel 7 docker rhsa-2017 0116 nessus	PRO VER PRO ID ID PRO
+1	mongodb ransomware attacks	PRO VUL VUL
+1	desh universal cms sql injection	ORG ORG PRO VUL VUL
+1	glsa-201701-17 adobe flash player multiple vulnerabilities nessus	ID ORG PRO PRO VUL VUL PRO
+1	cve-2016-1251 dbd-mysql	ID PRO
+1	oraclevm 3.2 xen ovmsa-2016-0166 nessus	PRO VER PRO ID PRO
+1	oraclevm 3.3 3.4 mysql ovmsa-2017-0035 nessus	PRO VER VER PRO ID PRO
+1	cve-2016-9919 linux kernel	ID PRO PRO
+1	cve-2016-8405 linux kernel	ID PRO PRO
+1	cve-2016-6756 linux kernel	ID PRO PRO
+1	cve-2016-6757 linux kernel	ID PRO PRO
+0	threatmeter sans internet storm center hhs offers tips on mitigating ddos risks inforisktoday
+0	vmpanel 2.7.4 sql injection web vulnerability cxsecurity
+0	chatnow 1.1 sql injection web vulnerability
+0	threatmeter 0daytoday mc smart shop script sql injection vulnerability webapps exploits vulnerability 0d u2026
+0	threatmeter scientific linux security update squid on sl7.x x86 64
+0	new wave of hailstorm spam evades filters to spread dridex banking malware amp locky ransomware u2026
+0	webapps travel portal script 9.33 sql injection exploitdb
+0	threatmeter na cve-2017-5519 sql injection vulnerability in posts.class.php
+0	exponent cms 2.3.9 sql injection vulnerability
+0	glsa-201701-34 runc privilege escalation nessus
+0	threatmeter kantar majority acquires stake in millward brown denmark
+0	vulnerability security remote blackstratus logstorm 4.5.1.35 4.5.1.96 remote root exploit
+0	fedora 25 kernel 2017-e6012e74b6 nessus
+0	vuln genixcms cve-2017-5575 sql injection vulnerability bugtraq
+0	rt xkalisec exploit android using kali linux
+0	webapps school management software 2.75 sql injection
+0	cve-2016-7241 ms16-129 microsoft edge browser memory corruption remote code execution iv 3199057 mcafee
+0	dandhewitt what browser and browser version are you using make sure you have javascript enabled in your browser and try disabling
+0	cyber infosec my link trader 1.1 sql injection
+0	talos discloses multiple vulnerabilities in aerospike nosql database
+0	cyberpunk blackhat open source privacy enhancing ios web browser onion browser
+0	threatmeter eir reports breach to certain broadband modems
+0	openelec 7.0 linux distribution now available for pc and raspberry pi
+0	beantownkmd what is your site s address please does clearing your browser cache and cookies make any difference
+0	hp security bulletin hpsbhf03674 1 packetstorm
+0	0daytoday questions and answers script 1.1.3 sql injection vulnerability webapps exploits vulnerability u2026
+0	online tshirt design script sql injection packetstorm
+0	cisco firepower management center 4.10.3 execute code sql injection vulnerability
+0	justienen what is your site and are you using a browser or a mobile app to publish your post
+0	bradengw cutepdf works well too indeed glad it s solved happy browsing -wb
+0	threatmeter sans internet storm center notorious iot botnets weaponize new flaw found in millions of home router u2026
+0	vulnerability security mc documentation creator sql injection
+0	glsa-201701-35 mozilla seamonkey multiple vulnerabilities nessus
+0	fedora 23 moodle 2016-4f7d4df7b3 nessus
+0	auction website script sql injection
+0	gentoo linux security advisory 201612-42 advisory
+0	security hacking spam hailstorms deliver variety of threats
+0	gin a ding ding u00a0did you get the same result in another browser if not it could be a browser extension for example.
+0	us-cert u2013 warning shadow brokers hackers are offering an smb zero-day exploit securityaffairs shadowbrokers ha u2026
+0	alicemayxo u00a0howdy which browser are you in is there an error message
+0	mac os x multiple vulnerabilities security updates 2016-003 2016-007 nessus
+0	ddos attacks against digital broadcasters to worsen in 2017
+0	post office broadband hit by cyber-attack
+0	threatmeter brave browser address bar spoofing
+0	php 5.6.x lt 5.6.29 multiple vulnerabilities nessus
+0	ntop-ng 2.5.160805 username enumeration packetstorm
+0	webworx design group blind sqli vulnerabilites
+0	were i the shadowbrokers i d encrypt using a good password but contents would be rick astley videos renamed.
+0	research security accurate cross-browser fingerprinting is possible researchers show
+0	phpmailer remote code execution packetstorm
+0	threatmeter na cve-2016-2355 sql injection vulnerability in the rest api in
+0	ubuntu security usn-3161-3 linux kernel raspberry pi 2 vulnerabilities n
+0	mobile security framework mobsf 0.9.3 beta packetstorm
+0	threatmeter joomla aweb cart watching system for virtuemart 2.6.0 sql injection
+0	kizzybits try clearing your browsing data including the downloads once done restart the chrome does that help
+0	threatmeter fileserve clone script sql injection
+0	netsec news shadow brokers re-emerge with nsa u2019s secret exploits for sale
+0	install drivers overhaul installing drivers nlinux nopen source drivers nnowadays most open source drivers make us u2026
+0	kernel live patch security notice lsn-0013-1 packetstorm
+0	vuln ibm kenexa lms on cloud cve-2016-8928 unspecified sql-injection vulnerability
+0	threatmeter luca todesco releases browser-based exploit for pangu 9.3.3 jailbreak without certificate
+0	vulnerability security webapps dell sonicwall global management system gms 8.1 blind sql injection
+0	bugtraq cve-2016-8741 apache qpid broker for java information leakage bugtraq
+0	dirlist 0.3.0 file upload command execution packetstorm
+0	scientific linux security update vim on sl6.x sl7.x i386 x86 64 nessus
+0	business networking script 8.11 show group members.php gid sql injection
+0	wordpress cmw-speakers plugin sql injection vulnerability
+0	vulnerability security ngo website script sql injection
+0	threatmeter webapps viral image sharing script sql injection
+0	so influenced enabled and try disabling any browser extensions you have installed.
+0	east of western mobile scripts sqli
+0	threatmeter mozilla races to patch bug used to attack tor browser users
+0	threatmeter business networking script 8.11 cross site scripting sql injection
+0	apache qpid broker for java certain authenticationproviders let remote users determine valid usernames on the targ u2026
+0	enigma fileless uac bypass packetstorm
+0	kaspersky anti-virus window broadcast message denial of service
+0	freebsd phpmyadmin -- multiple vulnerabilities 6fe72178-b2e3-11e6-8b2a-6805ca0b3d42 nessus
+0	fedora 23 ntp 2016-e8a8561ee7 nessus
+0	fedora 25 groovy 2017-cc0e0daf0f nessus
+0	hailstorm spam begins to pelt infosecmag
+0	webapps b2b alibaba clone script sql injection
+0	dating script 3.25 see more details.php id sql injection
+0	threatmeter travel portal script 9.33 hotel.php hid sql injection
+0	malware infects computers by hiding in browser ad gifs
+0	broelli is there a specific issue that our dellcares team can assist with
+0	tor project releases sandboxed tor browser 0.0.2
+0	vmware security advisory 2016-0023 packetstorm
+0	kb affiliate referral php script 1.0 sql injection
+0	sans internet storm center android security bulletin december 2016 what you need to know techrepublic
+0	biesta billing 4.0 beta cross site request forgery traversal packetstorm
+0	joomla aweb cart watching system for virtuemart 2.6.0 sql injection
+0	vuln brocade network advisor cve-2016-8206 directory traversal vulnerability
+0	quiteofftopic thanks for the info do you see the same issue when watching the videos in another browser keep us posted.
+0	e107 2.1.2 cross site request forgery cross site scripting packetstorm
+0	na dsa-3731 chromium-browser security update several vulnerabilities have been discovered in the chromium web u2026
+0	rt odisseus hacking with sqlinj the sw used by hyatt and hilton to manage reservations and process payments nice poc oracle https u2026
+0	krismunro your media library to show the actual images the browser editor does.
+0	shadowbrokers selling windows exploits attack tools threatpost
+0	cleetusbocefus arturodicorinto the shadow brokers are offering the nsa arsenal for direct sale securityaffairs
+0	bit defender authentication token bypass packetstorm
+0	krausedw amazonecho johullrich we are having issues with amazon u2019s approval process seems broke check if you see two versions for isc
+0	30 of eir broadband customers exposed to cyber attack
+0	fedora 23 32 bind 2016-605fd98c32 nessus
+0	fedora 24 chicken 2016-0ef628998f nessus
+0	browser security fail darkreading
+0	school management software 2.75 sql injection
+0	rt maldevel backup gitlab sudo gitlab-rake gitlab backup create default backups location var opt gitlab backups debian
+0	penq the security testing browser bundle rootsector infosec cybersecurity
+0	mozilla races to patch bug used to attack tor browser users
+0	macos 10.12.x lt 10.12.2 multiple vulnerabilities nessus
+0	webapps social news and bookmarking script sql injection
+0	live webcast find threats lurking on your systems with hids and alienvault usm thursday dec 1st register now u2026
+0	0daytoday mc yellow pages script sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	actively exploited firefox tor browser 0-day patched update now
+0	mattermost 3.5.0 3.5.1 cross site scripting packetstorm
+0	fedora 25 jenkins jenkins-remoting 2016-368780879d nessus
+0	rt chandrarangan how realistic is the may 2018 deadline duncanwbrown says it s wrong question stop wishful thinking hpediscover gdpr
+0	threatmeter genixcms 0.0.8 tags-ajax.control.php term sql injection
+0	security canada project zero finds cisco webex vulnerability in browser extensions
+0	threatmeter nsa-leaking shadow brokers lob molotov cocktail before exiting world stage
+0	ubuntu 16.10 linux-raspi2 vulnerabilities usn-3152-2
+0	vulnerability security vuln joomla aweb cart watching system extension cve-2016-10114 multiple sql injection u2026
+0	tor project released an alpha version of the sandboxed tor browser securityaffairs tor hacking
+0	school management software 2.75 sql injection cxsecurity
+0	threatmeter 0daytoday mc buy and sell cars script 1.1 sql injection vulnerability webapps exploits vulnera u2026
+0	popcorn time 5.6 dll hijacking packetstorm
+0	threatmeter vuln ibm websphere message broker cve-2016-6080 information disclosure vulnerability
+0	news iot product development is broken u2013 6 ways developers and manufacturers can fix it
+0	fedora 23 moin 2016-a77985b7c7 nessus
+0	vmware vrealize operations manager ver 6.x lt 6.40 suite api collectorhttprelaycontroller relayrequest ob nessus
+0	ubuntu security usn-3140-1 firefox vulnerabilities n
+0	gentoo linux security advisory 201612-24 packetstorm
+0	emc avamar ads ave server detection nessus
+0	linux foundation certified we want to celebr8 you tell us how cert has helped you for a chance to win a training u2026
+0	trump s fcc chairman pick ajit pai vows to close broadband digital divide
+0	shoretel mobility client ios 9.1.2.101 ssl man-in-the-middle packetstorm
+0	hp security bulletin hpsbux03665 3 packetstorm
+0	threatmeter b2b alibaba clone script category.php industryid sql injection
+0	hzlweb sqli vulnerability
+0	threatmeter wordpress single personal message 1.0.3 sql injection
+0	medical clinic website script admin giant username password sql injection
+0	threatmeter medical clinic website script add team member.php id sql injection
+0	sans internet storm center cyber-blitz bombs 1m german broadband routers and your isp could be next the register
+0	after failed auction shadow brokers opens nsa hackingtools for direct sales
+0	nuxro nahhh they re just trying to get you to use their browser we could popup msgs like that too but we re not annoying like that ud83d ude09
+0	shadow brokers now selling windows av exploits in new zeronet marketplace
+0	vuln joomla aweb cart watching system extension cve-2016-10114 multiple sql injection vulnerabilities
+0	responsive file manager 9.11.0 cross site scripting packetstorm
+0	vulnerability security webapps finance website script sql injection
+0	brodanoel sorry for the delayed response our support team can troubleshoot and look into it -at
+0	spammers work up a hailstorm
+0	online food delivery 2.04 sql injection
+0	patellytubby next step is to clear your browser cache and cookies be very sure you have your post backed up before
+0	vuln ibm websphere message broker cve-2016-6080 information disclosure vulnerability
+0	firefox zero-day can be used to unmask tor browser users
+0	vuln ibm bigfix remote control cve-2016-2950 unspecified sql injection vulnerability bugtraq
+0	cyber infosec devilart s.c sql injection vulnerability
+0	researchers find a way bypass the ios activation lock
+0	vuln phpmyadmin pmasa-2016-69 multiple sql injection vulnerabilities bugtraq
+0	cross-browser compatibility it s still a thing and now super easy to test across every os amp browser combo u2026
+0	gentoo linux security advisory 201701-18 advisory
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	the latest linux webserver security thanks to artem i baranov ruggerotonelli linuxaria infosec hacking
+0	new wave of hailstorm spam pelts inboxes
+0	threatmeter dell sonicwall global management system gms 8.1 blind sql injection
+0	threatmeter firefox scrambles to patch zero day actively exploiting tor browser
+0	if you think compliance is expensive you should see non-compliance gdpr security hpediscover duncanwbrown
+0	vulnerability security mc buy and sell cars 1.1 sql injection
+0	news one million broadband offline in germany external influence blamed
+0	vmsa-2016-0023 vmware esxi updates address a cross-site scripting issue nessus
+0	mc real estate pro insecure direct object reference packetstorm
+0	devuan s systemd-free linux hits beta 2
+0	putty 0.67 cleartext password storage packetstorm
+0	shadow brokers calls it quits after failing to get buyers for nsa exploits darkreading
+0	rt realbrianwarner so who else is going to linuxfoundation s open source leadership summit in february i ll be there monday thursday.
+0	talking devops hardcore air hockey and more with donovanbrown rubdevopsonit
+0	ibm websphere application server 7.0 lt 7.0.0.43 8.0 lt 8.0.0.13 8.5 lt 8.5.5.10 information disclosure nessus
+0	slackware security advisory mozilla-firefox updates packetstorm
+0	vuln ibm websphere message broker cve-2016-6080 information disclosure vulnerability bugtraq
+0	asterisk project security advisory ast-2016-008 packetstorm
+0	glsa-201611-22 php multiple vulnerabilities httpoxy nessus
+0	fedora 25 python-wikitcms 2016-fce8b939c9 nessus
+0	starting page 1.3 sql injection
+0	arg-w4 adsl router denial of service cross site request forgery packetstorm
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	vulnerability security vuln ibm kenexa lms on cloud cve-2016-8928 unspecified sql-injection vulnerability
+0	fedora 23 bind99 2016-8e39076950 nessus
+0	threatmeter movie portal script 7.35 artist.php a sql injection
+0	threatmeter vuln dotcms stname parameter sql injection vulnerability
+0	please vote for the sans stormcast
+0	hp operations orchestration 10.x lt 10.70 wsexecutionbridgeservice servlet java object deserialization rce nessus
+0	zdi-17-043 advantech webaccess updatetemplate sql injection information disclosure vulnerability this vulnerabili u2026
+0	cyber infosec wordpress cmw-speakers plugin sql injection vulnerability
+0	doky is now a linux foundation member more about their foundation
+0	rt binitamshah penq the security testing browser bundle
+0	threatmeter finance website script user.profile.php uid sql injection
+0	rt dimitribest man-in-the-browser mitb overlaying with phishing and redirectors malware for android
+0	rt dragosr more dcom shellbrowserwindows and shellwindows.
+0	cve-2016-4329 a local denial of service vulnerability exists in window broadcast message handling functionality of u2026
+0	threatmeter medical clinic website script sql injection
+0	cyber infosec starting page 1.3 sql injection
+0	threatmeter ngo website script sql injection
+0	icgames games site script 1.2 sql injection packetstorm
+0	ms edge cmarkup ensuredeletecfstate use-after-free packetstorm
+0	certpa certeu us-cert u2013 warning shadow brokers hackers are offering an smb zero-day exploit securityaffairs
+0	verityvirtue thanks for following up just to confirm does this happen only on chrome browser keep us posted.
+0	schtobia u00a0in the meantime can you clear your browser cache and cookies then retry.
+0	threatmeter na cve-2016-10124 an issue was discovered in linux containers
+0	rvasec 2017 call for papers packetstorm
+0	0daytoday mc buy and sell cars script 1.1 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	the latest linux webserver security wordpress infosec
+0	faulty phone battery may have caused fire that brought down egyptair flight ms80
+0	fedora 24 mujs zathura-pdf-mupdf 2016-49a72fb9bd nessus
+0	don u2019t surf with sharks protect yourself online with the faster safer browser designed for windows 10 u2026
+0	tor project releases sandboxed tor browser 0.0.2
+0	joomla lt 3.6.5 multiple vulnerabilities nessus
+0	drive-by web nasty unmasks tor browser users mozilla dashes to patch zero-day vuln
+0	in part 3 of this series ibrahimatlinux explains some common ways companies fail to comply u2026
+0	my link trader 1.1 sql injection
+0	threatmeter genixcms up to 0.0.8 posts.class.php id sql injection
+0	kb login authentication script 1.1 sql injection packetstorm
+0	vulnerability security webapps open source real-estate script sql injection
+0	vuln dotcms stname parameter sql injection vulnerability dotcms 3.3.1 ndotcms dotcms 2.3.2 n u2026
+0	gentoo linux security advisory 201612-33 advisory
+0	websector.ge cms sql injection amp admin page bypass cxsecurity
+0	0daytoday image and video script sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	vulnerability security complain management system sql injection
+0	ibm spectrum protect mount detection nessus
+0	jbrookzfilms hmm an extension might be causing the issue try disabling any extensions that you have any better
+0	wordpress support plus responsive ticket system 7.1.3 sql injection
+0	cyber infosec online tshirt design script sql injection
+0	threatmeter 0daytoday smart guard network manager 6.3.2 sql injection vulnerability webapps exploits vulne u2026
+0	windows media center 6.1.7600 xxe injection packetstorm
+0	joomla extension dt register sql injection
+0	threatmeter starting page 1.3 sql injection
+0	it s cybermonday 179 for training cert bundle or 299 for linux certs prep details p.s u2026
+0	budget 2017 it telecom players expect more for cyber security broadband
+0	zdi-16-617 dell sonicwall universal management suite imagepreviewservlet sql injection remote code execut zdi
+0	travel portal script 9.33 pages.php id sql injection
+0	apple itunes notify script insertion packetstorm
+0	jayeshadhyaru have you tried clearing your browser cache and cookies and using a different connection i can upload images to your site.
+0	vuln nessus cve-2016-9260 html injection vulnerability
+0	fileserve clone script sql injection
+0	diskboss enterprise 7.4.28 buffer overflow packetstorm
+0	how my fridge broke the internet
+0	xenforo 1.5.x remote code execution packetstorm
+0	sans internet storm center why firewalls are not recommended for securing scada systems techrepublic
+0	vuln ibm websphere message broker cve-2016-6080 information disclosure vulnerability
+0	starting page 1.3 link req 2.php category name url description email sql injection
+0	the latest linux webserver security thanks to dalerapp ai2ik federico dv wordpress security
+0	rt bleepincomputer m4n1f3sto dev adding encryption to lockers encrypts but decryption broken pretends to be from jhon woddy microsoft u2026
+0	medical clinic website script sql injection
+0	eiad456 focus is private the whole time while the regular firefox app has regular and private browsing included -at
+0	oracle solaris critical patch update jan2017 sru11 3 16 3 0 nessus
+0	vuln genixcms cve-2017-5347 sql injection vulnerability bugtraq
+0	ohmynour u00a0are you using the windows app or a browser
+0	blue team training toolkit bt3 2.1 packetstorm
+0	charltonbrooker a british leader would never do anything so unsavoury n nbacon sandwich anyone
+0	threatmeter 0daytoday starting page 1.3 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	news in brief new browser launched social network closes down cyberattack on health provider nakedsecurity
+0	threatmeter e-soft24 jokes portal script seo 1.3 sql injection
+0	bonus session sansseceast mbromileydfir talks about zero in on the artifacts that matter jan 11 8 15 pm
+0	mozilla patches firefox zero day used to unmask tor browser users
+0	joomla aweb cart watching system for virtuemart 2.6.0 sql injection
+0	no honor among thieves crooks seeking ransom for mongodb data someone else stole networkworld
+0	travel portal script 9.33 sql injection exploit
+0	vmware nsx edge information disclosure vmsa-2016-0007 nessus
+0	mini cms 1.1 sql injection packetstorm
+0	tor project released an alpha version of the sandboxed tor browser
+0	threatmeter webapps business networking script 8.11 sql injection cross-site scripting
+0	cve-2016-8206 a directory traversal vulnerability in servlet softwareimageupload in the brocade network advisor ve u2026
+0	the latest linux webserver security thanks to ruggerotonelli uupkeep nginx wordpress
+0	wordpress insert html snippet 1.2 cross site request forgery packetstorm
+0	cve-2017-5570 an issue was discovered in eclinicalworks patient portal 7.0 build 13 this is a blind sql injection u2026
+0	zdi-17-050 brocade network advisor dashboardfilereceiveservlet directory traversal remote code execution vulnerability u2026
+0	peachyvmin hmm could you check if an extension third party software is installed which will clear the browsing data let us know.
+0	this video from linuxcon demos how easy it is to install and run docker swarm
+0	tor browser zero-day strikes again
+0	threatmeter 0daytoday complain management system sql injection vulnerability webapps exploits vulnerabili u2026
+0	threatmeter na cve-2016-8201 a csrf vulnerability in brocade virtual traffic
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	vuln mozilla firefox cve-2016-9079 use after free remote code execution vulnerability browser t u2026
+0	the latest linux webserver security thanks to dpwallace gn3mes1s eduardoperrino security infosec
+0	tenda d-link tp-link dhcp cross site scripting packetstorm
+0	idg contributor network ubuntu core has the keys to iot security
+0	threatmeter vmpanel 2.7.4 sql injection web vulnerability
+0	theforester000 i agree luckily we do have a setting for that open about config search for browser.backspace action and set to 2 ud83d ude09 -ny
+0	cisco asa web interface remote xml command injection cisco-sa-20161116-asa nessus
+0	the latest linux webserver security thanks to gn3mes1s coveros deobfuscated wordpress security
+0	webapps viral image amp video sharing gagzone script sql injection exploitdb
+0	gentoo linux security advisory 201701-55 advisory
+0	article directory script seo 3.2 insecure direct object reference packetstorm
+0	na cve-2016-5423 postgresql before 9.1.23 9.2.x before 9.2.18 postgresql before 9.1.23 9.2.x before 9.2 u2026
+0	from the perfect cybercrime to anonymous browsing inside the cyber criminal mind
+0	threatmeter viral image sharing script search.php term sql injection
+0	vuln foxit reader for linux unspecified stack buffer overflow vulnerability
+0	gnu transport layer security library 3.4.17 packetstorm
+0	threatmeter firefox scrambles to patch zero day actively exploiting tor browser
+0	ajeannine d see the post on the front page on both my browser and my phone try clearing your browser cache and cookies and try
+0	ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 firefox vulnerabilities usn-3140-1
+0	security-oriented kodachi 3.6 linux os improves vpn and tor connectivity more
+0	vulnerability security e-soft24 jokes portal script seo 1.3 sql injection
+0	android max86902 driver race condition packetstorm
+0	vuln genixcms posts.class.php multiple sql injection vulnerabilities
+0	security news tor project released an alpha version of the sandboxed tor browser
+0	security news band of big brothers meet trump u2019s spy team
+0	anonymous u2019 barrett brown is free u2014and ready to pick new fights hitb
+0	gentoo linux security advisory 201701-19 advisory
+0	itechscripts video sharing script 4.93 cross site scripting sql injection
+0	possible tor browser de-cloak zero day dropped patch in works theregister
+0	rt cloudbaseit announcing openvswitch 2.6 for hyperv and windowsserver mspartner linuxfoundation ovs http u2026
+0	don t just share links share inspiration microsoft edge is the only browser with inking amp sharing built in u2026
+0	us-cert warning shadow brokers hackers are offering an smb zero-day exploit
+0	ms16-146 security update for microsoft graphics component 3204066 nessus
+0	glsa-201612-44 roundcube arbitrary code execution nessus
+0	webapps mc smart shop script sql injection exploitdb
+0	arturodicorinto security expert disclosed a full zero-day drive-by exploit for linux leveraging snes
+0	mc documentation creator sql injection
+0	vuln joomla aweb cart watching system extension cve-2016-10114 multiple sql injection vulnerabilities bugtraq
+0	macos apple safari lt 10.0.2 multiple vulnerabilities nessus
+0	linux security made simple
+0	blackhat infosecnews shadow brokers offers database of windows exploits for sale
+0	the latest linux webserver security thanks to sandeeplinux natashell666 wordpress security
+0	seebrock3r thanks for the info have you tried the fixes listed in this guide step 2 onwards keep us posted.
+0	using autofill in your browser you may be vulnerable to phishing attacks
+0	slackware security advisory mozilla-thunderbird updates packetstorm
+0	brother and sister charged with hacking prominent italians
+0	threatmeter browser based malware evolution and prevention
+0	vuln genixcms posts.class.php multiple sql injection vulnerabilities bugtraq
+0	thehackersnews evanderburg israeli tv broadcast hacked attackers played muslim call to prayer securityaffairs
+0	vulnerability security webapps school management software 2.75 sql injection
+0	trango altum ac600 default root login packetstorm
+0	rumrum85 sorry firefox isn t working for you in windows linux try these fixes https t.co cgsj4pof6a for common issues.
+0	vulnerability security joomla dt register sql injection
+0	fedora 24 chromium 2016-e0e1cb2b2b nessus
+0	0daytoday joomla com rpl sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	0daytoday micro blog script sql injection vulnerability webapps exploits vulnerability 0day exploit
+0	brostirling47 install the updated version to help fix any stability issues -csk
+0	vuln zabbix cve-2016-10134 sql injection vulnerability
+0	gentoo linux security advisory 201612-35 advisory
+0	the latest linux webserver security thanks to peterrei76 wordpress nginx
+0	vmpanel 2.7.4 sql injection
+0	oracle linux 6 7 thunderbird elsa-2016-2973 nessus
+0	news 8 ways companies can manage risks brought on by the saas tsunami
+0	threatmeter wordpress 404 1.0 sql injection
+0	local file inclusion lfi testing techniques packetstorm
+0	packet storm new exploits for december 2016 exploit
+0	apple ios lt 10.2.1 multiple vulnerabilities nessus
+0	dotcms 3.3 partly execute code sql injection vulnerability
+0	scientific linux security update firefox on sl5.x sl6.x sl7.x i386 x86 64 nessus
+0	threatmeter job vacancy script search.php term sql injection
+0	threatmeter wetransfer clone script sql injection
+0	wireshark 2.0.x lt 2.0.10 2.2.x lt 2.2.4 multiple dos nessus
+0	scientific linux security update python on sl7.x x86 64
+0	travel portal script 9.33 sql injection
+0	rt matthewheimer how a chance meeting at brainstormtech paved the way for tech s biggest deal ever mlevram fortunemagazine
+0	san francisco s muni public transit ticketing system shut down by hddcryptor ransomware attack u2026
+0	ask slashdot why did 3d tvs and stereoscopic 3d television broadcasting fail
+0	iot modules and sbcs can often be used interchangeably learn more from eric brown
+0	check out swapnilbhartiya s new list of lightweight linux distros
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	zdi-16-617 dell sonicwall universal management suite imagepreviewservlet sql injection remote code execution vulnerability u2026
+0	the latest linux webserver security thanks to secmash wordpress security
+0	oracle linux 7 kernel elsa-2017-0086
+0	threatmeter cisco webex browser extension remote code execution
+0	threatmeter webapps vine videosite creator script sql injection
+0	cve-2017-5517 sql injection vulnerability in author.control.php in genixcms through 0.0.8 allows remote attackers u2026
+0	guix system distribution guixsd 0.12.0 gnu linux os adds new system services
+0	the shadow brokers return with more elite nsa cyberweapons infosecmag
+0	fedora 25 2 qemu 2017-b953d4d3a4 nessus
+0	clone of oddee script 1.1.3 sql injection
+0	patnaciagoodman please copy your draft into a text editor like notepad then clear your browser cache and cookies and try again.
+0	vuln phpmyadmin pmasa-2016-69 multiple sql injection vulnerabilities
+0	glsa-201612-43 node.js multiple vulnerabilities nessus
+0	rorbrorb thanks for tweeting
+0	linux.mirai latestthreats
+0	job portal script 9.11 sql injection cxsecurity
+0	threatmeter 0daytoday itechscripts freelancer script 5.11 sk parameter sql injection exploit 0day exploit
+0	browser autofill systems are your new security nightmare
+0	fedora 25 chromium 2016-a815b7bf5d nessus
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	a brief interview with the shadow brokers news
+0	freebsd subversion -- unrestricted xml entity expansion in mod dontdothat and subversionclients using nessus
+0	na cve-2016-10096 sql injection vulnerability in register.php in sql injection vulnerability in register.ph u2026
+0	bernhardjenny your .blog domain is already working for me clear your browser cache if it s not working yet for you.
+0	bellag012 u00a0are you using the app or a browser and if a browser which one
+0	netgear multiple model cgi-bin rce nessus
+0	apple security advisory 2016-12-12-3 packetstorm
+0	cyber infosec designed by ossis sql injection
+0	music site script 1.2 sql injection
+0	fedora 25 chicken 2016-9b3ed5f170 nessus
+0	scientific linux security update squid on sl7.x x86 64 nessus
+0	easyphp devserver 16.1.1 cross site request forgery remote command execution packetstorm
+0	pelle s c dll hijacking packetstorm
+0	ryancerbus thanks for the update ryan have you tried replicating the same in another browser and check if it s highlighted let us know.
+0	east of western mobile scripts sqli
+0	threatmeter 0daytoday school management software 2.75 sql injection vulnerability webapps exploits vulnera u2026
+0	vuln foxit reader for linux unspecified stack buffer overflow vulnerability
+0	isc stormcast for wednesday december 21st 2016 wed dec 21st
+0	threatmeter 0daytoday phpback 1.3.1 sql injection cross-site scripting vulnerabilities 0day exploit
+0	learn about the newly launched open service broker api project from cloudfoundry via u2026
+0	scientific linux security update ipa on sl7.x x86 64 nessus
+0	vulnerability security webapps wordpress plugin simply poll 1.4.1 sql injection
+0	google android broadcom wi-fi driver privilege escalation cve-2014-9910
+0	vulnerability security webapps starting page 1.3 sql injection
+0	chezzykatz your modem or router and reboot your devices as well you can also try clearing your browser cache and cookies
+0	threatmeter business directory script admin edit review.php id sql injection
+0	study abroad education website script sql injection
+0	gentoo linux security advisory 201701-12 advisory
+0	security news israeli tv broadcast hacked attackers played muslim call to prayer
+0	solution by jaya shri combine sql injection cxsecurity
+0	wordpress copy-me 1.0.0 cross site request forgery packetstorm
+0	smart guard network manager 6.3.2 sql injection
+0	vulnerability security mc smart shop sql injection
+0	cyber infosec blackstratus logstorm 4.5.1.35 4.5.1.96 remote root
+0	dotcms 3.3 order execute code sql injection vulnerability n ndotcms 3.3 order execute code sql injection vulnerabil u2026
+0	cve-2016-8207 a directory traversal vulnerability in climonitorreportservlet in the brocade network advisor versio u2026
+0	websector.ge cms sql injection amp admin page bypass
+0	rt npuopolo reminder call for proposals linuxfoundation openiot summit na 2017 1 week left to submit openso u2026
+0	browser-based malware evolution and prevention
+0	ictutors tutoring site script 1.1 admin username password sql injection
+0	courier management system cross site scripting sql injection
+0	threatmeter sans internet storm center flaws found in emerson deltav liebert products securityweek
+0	vuln dell sonicwall universal management suite sql injection vulnerability sonicwall universal management s u2026
+0	jlwallen there is 1 thing to understand about updating linux not every distro handles it the same way u2026
+0	webapps dell sonicwall global management system gms 8.1 blind sql injection exploitdb
+0	threatmeter 0daytoday joomla com rpl sql injection vulnerability webapps exploits vulnerability 0day expl u2026
+0	same fate befalls post office broadband as hit dt
+0	threatmeter webapps dating script 3.25 sql injection
+0	threatmeter n-idea sql injection
+0	glsa-201701-46 mozilla network security service nss multiple vulnerabilities logjam sloth nessus
+0	pivotal software spring data jpa 1.9.4 execute code sql injection vulnerability
+0	telegram desktop 0.10.1 dll hijacking packetstorm
+0	pin to your heart u2019s content with the pinterest extension and microsoft edge the faster safer browser u2026
+0	threatmeter vigilnce wordpress olimometer sql injection
+0	14 eyebrow-raising things google knows about you networkworld
+0	threatmeter vigilnce wordpress party hall booking manager sql injection
+0	core ftp le 2.2 build 1883 buffer overflow packetstorm
+0	fedora 24 nagios-plugins 2016-8586235698 nessus
+0	rt kalilinux announcing a new kali linux certification and a new official kali book to be released at blackhatevents usa 2017 https u2026
+0	threatmeter 0daytoday classifieds script sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	gentoo linux security advisory 201701-24 advisory
+0	digital creations works sql injection vulnerability
+0	sans internet storm center notorious iot botnets weaponize new flaw found in millions of home routers arstechnic u2026
+0	fedora 24 icu 2016-a0dc2c43d0 nessus
+0	threatmeter 0daytoday openexpert 0.5.17 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	threatmeter scientific linux security update gstreamer-plugins-good on sl6.x i386 x86 64
+0	news in brief snowden supporters petition obama ios onion browser free bank bans whatsapp sophoslabs
+0	rt chandrarangan gdpr is not a security problem it s a business problem budget from board not sec team duncanwbrown hpediscover
+0	rt chuckdbrooks recent attacks demonstrate the urgent need for c-suite cybersecurity expertise by chuck brooks v u2026
+0	questions and answers script 1.1.3 sql injection
+0	threatmeter medical clinic website script admin giant username password sql injection
+0	debian security advisory 3723-1 packetstorm
+0	viral image and video sharing gagzone script sql injection packetstorm
+0	threatmeter scientific linux security update memcached on sl7.x x86 64
+0	threatmeter ars technica risk assessment nsa-leaking shadow brokers lob molotov cocktail before exiting world u2026
+0	vulnerability security medical clinic website script sql injection
+0	domains marketplace script 1.1 sql injection
+0	fedora 25 hdf5 2016-3477b592e3 nessus
+0	amazon linux ami docker alas-2017-783
+0	threatmeter linux 2017 with great power comes great responsibility
+0	linkcampus arturodicorinto barbaracarfagna recent power outages in turkey were also caused by cyber attacks
+0	at 1 persistence module packetstorm
+0	gstreamer heap corruption packetstorm
+0	freebsd wireshark -- multiple vulnerabilities 7fff2b16-b0ee-11e6-86b8-589cfc054129 nessus
+0	justienen file then clear your browser cache and cookies and reset your internet connection but be very sure you back up the post first.
+0	threatmeter vuln eclinicalworks patient portal cve-2017-5569 sql injection vulnerability
+0	cyber-blitz bombs 1m german broadband routers u2013 and your isp could be next
+0	how to take vehicle cybersecurity further than the government suggests by brucebrownnc
+0	security readings the official tor browser for ios is free to use ars techn u2026 see more
+0	styledsnapshots browser cookies and also make sure you have third party cookies enabled what is your site s address
+0	you need to be able to record who had access to data when and where--for forensic purposes duncanwbrown hpediscover security
+0	ibreathetweets u00a0hi is this regarding the wordpress ios app or through your phone browser
+0	gamersplane our browser works differently for different people we can only apologise for this and offer troubleshooting help josh
+0	f5 networks big-ip xss vulnerability in the big-ip and enterprise manager configuration utilities k9 nessus
+0	keypatch 2.1 packetstorm
+0	fedora 24 community-mysql 2016-c7e60a9fd4
+0	mozilla firefox esr 45.x lt 45.5.1 nssmiltimecontainer.cpp svg animation rce nessus
+0	the latest linux webserver security thanks to zerrotajo secureeb wordpress security
+0	jason fenty hmm try browsing the websites in incognito mode let us know if you re experiencing the same issue.
+0	my private tutor website builder script sql injection
+0	news the linux foundation announces 2017 events schedule
+0	samba 4.3.x lt 4.3.13 4.4.x lt 4.4.8 4.5.x lt 4.5.3 multiple vulnerabilities nessus
+0	facebook buys data from third-party brokers to fill in user profiles
+0	stacy x hi stacy we d like to look into this can you check amp let us know if you re experiencing in another browser
+0	android tsp sysfs cmd store overflows packetstorm
+0	oracle linux 7 gstreamer1-plugins-good elsa-2017-0020 nessus
+0	0daytoday starting page 1.3 category parameter sql injection vulnerability webapps exploits vulnerability u2026
+0	0daytoday complain management system sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	kittybrownphoto understood could you try downloading chrome using this link let us know if that works.
+0	threatmeter school management software 2.75 sql injection
+0	complexhumanity u00a0use a mobile browser edit the post click actions click gear by published then toggle the sticky option hope that helps
+0	4jeffbrown our developers are working on a fix -br
+0	yahoo users prompted to change credentials due to data breach
+0	cybermonday on your mind sign up for the linux foundation s training newsletter to see what we have in store u2026
+0	cyber infosec ens sql injection vulnerabilites
+0	newly uncovered tor browser exploit targeted dark web child porn site
+0	threatmeter hijacked home broadband routers
+0	easyphp webserver 14.1b2 privilege escalation packetstorm
+0	threatmeter the official tor browser for ios is free to use
+0	linux ntpd 4.2.8 derive nonce stack overflow cxsecurity
+0	find out how linux foundation training reduced telmex server workloads by 70
+0	gentoo linux security advisory 201612-04 advisory
+0	fileserve clone script sql injection packetstorm
+0	dell sonicwall global management system gms analyzer universal management appliance or host uma um nessus
+0	the latest linux webserver security thanks to artem i baranov 10abhishek grafixcatmedia wordpress security
+0	threatmeter online printing business clone script sql injection
+0	glsa-201612-11 chromium multiple vulnerabilities nessus
+0	security canada google and microsoft herald death of flash with default browser blocks
+0	vulnerability security webapps video site creator script sql injection
+0	threatmeter dnschanger exploit kit hijacks routers not browsers
+0	i2p 0.9.28 packetstorm
+0	ntpd 4.2.7.p22 4.3.0 denial of service packetstorm
+0	rt threatpost shadowbrokers dump came from internal code repository insider
+0	cyber infosec online food delivery 2.04 sql injection
+0	cve-2016-7206 ms16-145 microsoft edge browser information disclosure i 3204062 mcafee
+0	threatmeter 0daytoday online tshirt design script sql injection vulnerability webapps exploits vulnerabili u2026
+0	scientific linux security update qemu-kvm on sl7.x x86 64 nessus
+0	lpetkov we re glad you like it happy and faster browsing ud83d ude03 -wb
+0	vuln google nexus broadcom wi-fi driver multiple privilege escalation vulnerabilities bugtraq
+0	threatmeter 0daytoday video site creator script sql injection vulnerability webapps exploits vulnerabilit u2026
+0	unpatched vulnerability in firefox used to attack tor browser
+0	tenda adsl2 2 modem d820r unauthenticated remote dns change packetstorm
+0	cyber infosec joomla blog calendar sql injection
+0	dell sonicwall secure mobile access sma 8.1 csrf xss packetstorm
+0	mac os x ios missing error check use-after-free packetstorm
+0	anonymous hacktivist barrettbrown released from prison
+0	cve-2016-8464 an elevation of privilege vulnerability in the broadcom wi-fi driver could enable a local malicious u2026
+0	schoolhos cms v2.29 userberita sql injection vulnerability fulldisclosure
+0	threatmeter fileserve clone script admin username password sql injection
+0	0daytoday blackstratus logstorm 4.5.1.35 4.5.1.96 remote root exploit remote exploits 0day exploit
+0	opera browser asked to blacklist pirate sites in turbo mode
+0	threatmeter kritische sicherheitsl u00fccke warum sie sofort ihren firefox-browser updaten sollten
+0	webapps mc smart shop script sql injection
+0	0daytoday mc buy and sell cars script 1.1 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	threatmeter ibm tivoli monitoring up to 6.2.2 fp8 6.2.3 fp4 6.3.0 fp1 on linux unix stack-based buffer overflow
+0	vulnerability security edge skateshop blind sql injection
+0	threatmeter pwn2own 2017 expands attack surface beyond the web browser
+0	sedshah thanks for the info seda do you see the same issue when loading the website in another browser on your computer let us know.
+0	threatmeter scientific linux security update subscription-manager on sl7.x x86 64
+0	ibm bigfix platform 9.x lt 9.1.9.1301 9.2.9.36 9.5.4.38 bes root server and relay dos nessus
+0	anonymous hacktivist barrett brown released from prison
+0	na usn-3155-1 firefox vulnerabilities a security issue affects these releases of ubuntu and its derivatives u2026
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	are you a linux foundation certified sysadmin engineer what have you done w certification tag certsuperstar to u2026
+0	thomasareed thanks thomas we updated to clarify that nothing is actually installed but that it is a browser-based attack
+0	sap solman 7.31 information disclosure packetstorm
+0	cyber infosec complain management system sql injection
+0	br3aking c0de 2017 call for papers packetstorm
+0	threatmeter webapps complain management system sql injection
+0	threatmeter cve-2016-5423 debian linux postgresql
+0	slackware 14.1 14.2 current mozilla-firefox ssa 2017-023-01 nessus
+0	observium detection nessus
+0	this directory helps you sort through the many linux foundation projects like nodejs amp zephyriot check it out u2026
+0	medium cve-2016-8201 a csrf vulnerability in brocade virtual traffic
+0	openexpert 0.5.17 cross site scripting packetstorm
+0	stormcloud 2017 see me speaking in london january 2017
+0	jcurtisdrums images are uploading normally for me can you please try clearing your browser cache amp cookies and see if that helps
+0	threatmeter image and video script search.php term sql injection
+0	shadow brokers retire awaiting offer of 10 000 bitcoins for cache of exploits
+0	mozilla thunderbird lt 45.5.1 nssmiltimecontainer.cpp svg animation rce nessus
+0	antix 16.1 linux os is based on debian gnu linux 8.7 jessie without systemd
+0	rt eventslf register for vault linux storage amp filesystems conference by feb 4 and save 200 learn more at lfva u2026
+0	how to safely ignore a package from being upgraded in arch linux
+0	gentoo linux security advisory 201612-03 advisory
+0	vuln eclinicalworks patient portal cve-2017-5570 sql injection vulnerability patient portal cve-2 u2026
+0	kittybrownphoto hi kitty have you tried these steps to download amp install chrome keep us posted.
+0	cve-2016-7428 ntpd in ntp before 4.2.8p9 allows remote attackers to cause a denial of service reject broadcast mo u2026
+0	the shadow brokers are offering the nsa arsenal for direct sale
+0	gentoo linux security advisory 201701-06 advisory
+0	opensource license compliance issues can have serious consequences learn more from ibrahimatlinux u2026
+0	fedora 24 freeipa 2016-d337166907 nessus
+0	scientific linux security update bind on sl7.x x86 64
+0	freebsd samba -- multiple vulnerabilities e4bc323f-cc73-11e6-b704-000c292e4fd8 nessus
+0	glsa-201701-59 adodb multiple vulnerabilities nessus
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	security hacking onion browser goes free for privacy-conscious ios users citing recent events
+0	threatmeter na cve-2017-5574 sql injection vulnerability in register.php in
+0	glsa-201611-16 chromium multiple vulnerabilities nessus
+0	security hacking shadow brokers retire awaiting offer of 10 000 bitcoins for cache of exploits
+0	0daytoday viral image amp amp video sharing gagzone script sql injection vulnerability 0day exploit
+0	threatmeter larice club sqli vulnerability
+0	threatmeter phpback cross site scripting sql injection
+0	0daytoday macos kernel amp lt 10.12.2 ios amp lt 10.2 broken kernel mach port nam 0day exploit
+0	image and video script sql injection packetstorm
+0	pivotal software cloud foundry cf mysql 27 obtain information vulnerability
+0	google fixes 12 high-severity flaws in chrome browser
+0	itechscripts video sharing script 4.93 cross site scripting sql injection
+0	security readings new wave of hailstorm spam pelts inboxes threatpost th u2026 see more
+0	vuln pivotal mysql for pcf cve-2016-0898 information disclosure vulnerability bugtraq
+0	news chrome dev explains how modern browsers make secure ui just about impossible
+0	my link trader 1.1 out.php id sql injection
+0	network time protocol daemon ntpd read mru list remote dos nessus
+0	vuln phpmyadmin cve-2016-6617 sql-injection vulnerability bugtraq
+0	gentoo linux security advisory 201701-35 packetstorm
+0	ms16-147 security update for microsoft uniscribe 3204063 nessus
+0	want to learn about the top host based intrusion detection hids tools available today download our whitepaper u2026
+0	scientific linux security update qemu-kvm on sl7.x x86 64
+0	jmckey focus existed as a content blocker before the private browser was implemented into focus see 1 2 -at
+0	threatmeter firefox zero-day mozilla races to patch bug used to attack tor browser users
+0	fedora 25 drupal7 2016-95b1be8a3d nessus
+0	alienvault unified security management ossim sql injection vulnerability
+0	qnap nas heap overflow packetstorm
+0	0daytoday dell sonicwall global management system gms 8.1 blind sql injection vulnerability 0day exploit
+0	threatmeter webapps auction website script sql injection
+0	vuln ibm bigfix remote control cve-2016-2950 unspecified sql injection vulnerability
+0	zyxel d1000 cwmp get default password nessus
+0	gnu transport layer security library 3.3.26 packetstorm
+0	news self-protection is key to linux kernel security
+0	chuckbaggett so we can see if it is an addon please navigate to about addons in your browser and send a screenshot of the results josh
+0	fedora 25 nagios-plugins 2016-f30fae0f67 nessus
+0	no reason to believe singtel s broadband outage was due to a cyberattack yaacob
+0	dell sonicwall global management system gms 8.x lt 8.2 multiple vulnerabilities nessus
+0	brave browser address bar spoofing vulnerability ios android cxsecurity
+0	peter broadhurst inmarsat backs new campaign to protect ships mariners from cyber threats
+0	smarky7cd hmm go to system settings gt online accounts gt add google account gt turn on switcher gt open chrome browser amp login any luck
+0	dnschanger exploit kit hijacks routers not browsers
+0	siemens simatic wincc tia portal lt 14 unquoted service path local privilege escalation ssa-701708 nessus
+0	gregkh shares shares takeaways from the 2016 linux kernel development report amp lessons learned u2026
+0	threatmeter genixcms up to 0.x register.php activation sql injection
+0	the shadow brokers are offering the nsa arsenal for direct sale
+0	dell sonicwall global management system gms 8.1 adobe flex sop bypass packetstorm
+0	dup scout enterprise 9.1.14 buffer overflow packetstorm
+0	0daytoday b2b alibaba clone script sql injection vulnerability webapps exploits vulnerability 0day explo u2026
+0	glsa-201701-44 cvs heap-based overflow nessus
+0	security hacking python gdork sqli u2013 find sql injection.
+0	threatmeter 0daytoday dell sonicwall global management system gms 8.1 blind sql injection vulnerability 0da u2026
+0	starting page 1.3 outgoing.php linkid sql injection
+0	threatmeter cve-2016-4329 a local denial of service vulnerability exists in window broadcast message handling fun u2026
+0	m2b gsm wireless alarm system brute force issue packetstorm
+0	connected cars u2018pose cyber security challenge u2019
+0	webapps vine videosite creator script sql injection exploitdb
+0	0daytoday my php dating 2.0 path parameter sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	eric brown looks at two iot-oriented container technologies snappy ubuntu core and resinos 2.0 u2026
+0	jlwallen s linuxdotcom best of 2017 distro list includes parrot security see the other picks here u2026
+0	gregkh shares learnings from the 2016 linux kernel development report
+0	blackhat infosecnews credential-stuffing attacks take enterprise systems by storm
+0	cyber infosec ngo website script sql injection
+0	vuln dell sonicwall universal management suite sql injection vulnerability bugtraq
+0	nidesoft mp3 converter 2.6.18 buffer overflow packetstorm
+0	vulnerability security wordpress private messages 1.0.1 sql injection
+0	gentoo linux security advisory 201612-03 packetstorm
+0	browserautofill feature can leak your personal information to hackers
+0	glsa-201611-19 tar extract pathname bypass nessus
+0	israeli tv broadcast hacked attackers played muslim call to prayer securityaffairs hacking israel surveillance
+0	glsa-201701-63 graphite multiple vulnerabilities nessus
+0	threatmeter webapps openexpert 0.5.17 sql injection
+0	wordpress 404 1.0 sql injection
+0	the shadow brokers are offering the nsa arsenal for direct sale
+0	tp-link td-w8151n denial of service packetstorm
+0	threatmeter my php dating 2.0 id sql injection
+0	the latest linux webserver security thanks to wizardip michaelc0n mrtoughdev wordpress infosec
+0	fedora 24 vagrant 2016-24ffcb9a47 nessus
+0	superrebal123 hmm just to confirm are you experiencing this in another browser keep us posted.
+0	wordpress simply poll 1.4.1 sql injection packetstorm
+0	domains marketplace script 1.1 admin username password sql injection
+0	ibm domino 8.5.x lt 8.5.3 fix pack 6 interim fix 15 9.0.x lt 9.0.1 fix pack 7 interim fix 1 multiple vu nessus
+0	tor project releases sandboxedtorbrowser 0.0.2
+0	job portal script 9.11 sql injection packetstorm
+0	vuln google nexus broadcom wi-fi driver multiple privilege escalation vulnerabilities
+0	0daytoday social news and bookmarking script sql injection vulnerability webapps exploits vulnerability 0d u2026
+0	f5 networks big-ip oracle java se vulnerability k81223200 nessus
+0	genixcms up to 0.0.8 author.control.php type sql injection
+0	queenmidalah u00a0are you working in the desktop app or in a browser is there an error
+0	b2b alibaba clone script sql injection
+0	eimearxox hi there you can turn full-screen mode on or off by pressing u2318 ctrl f in mac or f11 in windows amp linux does that help
+0	atbox.io open redirect packetstorm
+0	research security brother and sister arrested for spying on italian politicians for years
+0	publicly released source code works reliably against a wide range of firefox versions.
+0	threatmeter how to safely ignore a package from being upgraded in arch linux
+0	yoga and fitness website script sql injection packetstorm
+0	fortinet fortios 4.3.x lt 4.3.19 tls and ipsec information disclosure nessus
+0	the latest linux webserver security thanks to wopot t toyota internetmktgcom security wordpress
+0	slackware security advisory openssh updates packetstorm
+0	threatmeter chatnow v1.1 sql injection web vulnerability
+0	zeroshell 3.6.0 3.7.0 remote code execution packetstorm
+0	news speakers and sessions announced for the linux foundation open source leadership summit u2026
+0	bkdidact for what site is this have you tried clearing your browser cache and cookies that might help.
+0	fedora 24 2 qemu 2017-12394e2cc7 nessus
+0	threatmeter my link trader 1.1 sql injection
+0	cyber infosec ctools upload file browser
+0	carlaschroder shares her list of fun linux commands to create holiday delights
+0	diskboss enterprise 7.5.12 post buffer overflow packetstorm
+0	browser gets safety add-on
+0	autogradelinux releases the latest version of its open-source infotainment platform read more here u2026
+0	firefox nssmiltimecontainer notifytimechange remote code execution packetstorm
+0	wordpress google analytics counter tracker 3.1.5 php object injection packetstorm
+0	threatmeter image sharing script 4.13 postcomment.php id sql injection
+0	cisco asr 5000 series ipsecmgr service dos cisco-sa-20161116-asr nessus
+0	medical clinic website script sql injection
+0	brodanoel what kind of performance issues are you seeing a lot of factors could affect this -at
+0	f5 networks big-ip big-ip spdy and http 2 profile vulnerability sol01587042 nessus
+0	threatmeter scientific linux security update firefox on sl5.x sl6.x sl7.x i386 x86 64
+0	news the linux foundation appoints veteran networking pro as general manager networking amp orchestration u2026
+0	0daytoday medical clinic website script sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	rpoli3 please try clearing your browser cache and cookies and try resetting your modem router for the comments we need the url of a
+0	threatmeter vuln eclinicalworks patient portal cve-2017-5570 sql injection vulnerability
+0	using this browser setting leaves you vulnerable to hackers
+0	cyber infosec maksem site scriptleri sql injection
+0	cve-2016-8455 an elevation of privilege vulnerability in the broadcom wi-fi driver could enable a local malicious u2026
+0	the botnet that broke the internet isn u2019t going away hitb
+0	threatmeter online food delivery 2.04 sql injection
+0	freebsd exim -- dkim private key leak e7002b26-caaa-11e6-a76a-9f7324e5534e nessus
+0	threatmeter vuln phpmyadmin pmasa-2016-69 multiple sql injection vulnerabilities
+0	taoxv88 what is the version number of the browser you are on -at
+0	gentoo linux security advisory 201701-05 advisory
+0	see highlights of 2016 events including the 25th anniv linux gala the first kids day cory doctorow and more u2026
+0	my private tutor website builder script sql injection
+0	na cve-2016-7427 the broadcast mode replay prevention the broadcast mode replay prevention functionality in u2026
+0	fedora 24 gstreamer-plugins-bad-free 2016-a3bc78de2b nessus
+0	israeli tv broadcast hacked attackers played muslim call to prayer securityaffairs hacking israel surveillance u2026
+0	glsa-201701-16 libtiff multiple vulnerabilities nessus
+0	threatmeter your browser might be filling in hidden fields and giving away your secrets
+0	mcafee host intrusion prevention installed nessus
+0	rt jzemlin dokyinc reinforces its commitment to open source development by becoming a linuxfoundation gold member
+0	vulnerability security mini blog 1.1 sql injection
+0	lennartregebro thanks for letting us know you re helping make firefox better please also leave feedback here -df
+0	cve-2016-5423 debian linux postgresql
+0	zdi-17-052 brocade network advisor climonitorreportservlet directory traversal information disclosure vulnerabili u2026
+0	us-cert u2013 warning shadow brokers hackers are offering an smb zero-day exploit securityaffairs shadowbrokers hac u2026
+0	freebsd upnp -- multiple vulnerabilities 244c8288-cc4a-11e6-a475-bcaec524bf84 nessus
+0	actively exploited firefox tor browser 0-day patched update now helpnetsecurity
+0	keithbarrett if you enable automatic updates updates will be downloaded while browsing and installed after when you restart firefox -wb
+0	just dial marketplace script admin username password sql injection
+0	tech support scams as a service from browser to computer lockers l
+0	scientific linux security update postgresql on sl7.x x86 64
+0	microsoft to disable most flash content in its edge browser hitb
+0	threatmeter smart guard network manager 6.3.2 sql injection
+0	threatmeter packet storm new exploits for december 2016
+0	hp version control repository manager for linux lt 7.6.0 multiple vulnerabilities nessus
+0	browser user interface security threats securityaffairs browser hacking
+0	ms17-004 security update for local security authority subsystem service 3216771 nessus
+0	threatmeter wordpress single personal message 1.0.3 sql injection
+0	local naenara browser 3.5 redstar 3.0 desktop jackrabbit client-side command execution exploitdb
+0	want to speak at lfvault the linux foundation s premier linux storage conference submit today u2026
+0	freebsd mozilla -- data url can inherit wrong origin after an http redirect f90fce70-ecfa-4f4d-9ee8 nessus
+0	pev 0.80 packetstorm
+0	threatmeter iot product development is broken u2013 6 ways developers and manufacturers can fix it
+0	mmandcompany are you using a browser or the mobile app
+0	bankers mortgage brokers question cybersecurity rules
+0	microsoft security bulletin revision increment for december 2016 packetstorm
+0	news in brief snowden supporters petition obama ios onion browser free bank bans whatsapp nakedsecurity
+0	buy and sell market place software sql injection
+0	rt bleepincomputer security firms almost brought down massive mirai botnet by campuscodi
+0	microsoft security bulletin summary for december 2016 packetstorm
+0	apple security advisory 2016-12-13-8 packetstorm
+0	the latest linux webserver security thanks to eboxnet glatorcom debug orz wordpress security
+0	freebsd atheme-services -- multiple vulnerabilities e47ab5db-c333-11e6-ae1b-002590263bf5 nessus
+0	threatmeter webapps home of viral images videos and articles script sql injection
+0	threatmeter webapps wordpress plugin single personal message 1.0.3 sql injection
+0	linuxnation that is personal preference
+0	fifty percent websites are risky to browse
+0	0daytoday joomla catalog 1.0.7 component sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	centos 7 postgresql cesa-2016 2606 nessus
+0	my php dating 2.0 view image.php path sql injection
+0	us-cert u2013 warning shadow brokers hackers are offering an smb zero-day exploit
+0	news hyperledger hit 100 members fastest growing collaborative project ever hosted by linuxfoundation u2026
+0	smallyellowone u00a0have you tried a different browser to see if saving drafts uploading are successful
+0	browser security fail
+0	shadow brokers u2019 latest leak could have come from beyond nsa staging servers
+0	threatmeter idg contributor network ubuntu core has the keys to iot security
+0	symantec endpoint protection small business edition unsupported version detection nessus
+0	the latest linux webserver security thanks to aristilabs bambino0710 security wordpress
+0	osirix dicom viewer 8.0.1 dulparse.cc remote memory corruption packetstorm
+0	dos brave browser 1.2.16 1.9.56 address bar url spoofing exploitdb
+0	threatmeter 0daytoday dating script 3.25 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	threatmeter webapps image and video script sql injection
+0	b2b alibaba clone script sql injection packetstorm
+0	softmaker office 201x privilege escalation packetstorm
+0	brucedawson0xb i m not seeing anything on that site so it could be malware in the browsers on the reporters devices themselves.
+0	brian riback got it do you see the same issue when viewing the website in another browser keep us posted.
+0	itechscripts freelancer script 5.11 sql injection
+0	vulnerability security wordpress support plus responsive ticket system 7.1.3 sql injection
+0	sans internet storm center firefox and tor release urgent update for 0-day thats under active attack arstechnica
+0	perfect cyber storm threatens europe report says
+0	zdi-16-644 apple os x applebroadcombluetoothhostcontroller type confusion privilege escalation vulnerability zdi
+0	designed by ossis sql injection
+0	threatmeter scientific linux security update pacemaker on sl7.x x86 64
+0	this week in open source news linux forces improved windows gaming blockchain s importance surges in 2017 amp more u2026
+0	0daytoday tor browser firefox remote use-after-free fbi exploit remote exploits 0day exploit
+0	gentoo linux security advisory 201701-25 advisory
+0	threatmeter autofill browser feature enables hackers to steal private data
+0	threatmeter oracle linux 7 qemu-kvm elsa-2017-0083
+0	0daytoday naenara browser 3.5 redstar 3.0 desktop jackrabbit client-side command execution ex 0day exploi u2026
+0	cyber infosec questions and answers script 1.1.3 sql injection
+0	softmaker freeoffice 2016 dll hijacking packetstorm
+0	glsa-201612-17 pecl http remote execution of arbitrary code nessus
+0	vuln ibm bigfix remote control cve-2016-2950 unspecified sql injection vulnerability bugtraq
+0	us-cert warns about smb zero-day exploit sold by the shadow brokers
+0	videolan vlc media player 2.2.1 buffer overflow packetstorm
+0	google broadens encryption options with cloud key management infosecmag
+0	without necurs locky struggles ciscosecurity talossecurity security ransomware cc u2026
+0	wordpress cms commander client 2.21 php object injection packetstorm
+0	galois seeks submissions to darpa-sponsored software reverse engineering prevention challenges
+0	the latest linux webserver security nginx wordpress
+0	threatmeter scientific linux security update gstreamer-plugins-bad-free on sl6.x i386 x86 64
+0	48 organizations now have access to every brit s browsing hstory
+0	gnu wget access list bypass race condition packetstorm
+0	0daytoday apache qpid broker for java 6.1.0 information leak vulnerability remote exploits vulnerability 0day u2026
+0	wordpress templatic 2.3.6 file upload packetstorm
+0	kat christine u00a0please clear the browser cache
+0	threatmeter here s why you should never use autofill in your browser
+0	high usn-3169-3 linux kernel raspberry pi 2 vulnerabilities a security issue affects these releases of ubunt u2026
+0	netgear wnr2000 remote code execution packetstorm
+0	threatmeter alienvault unified security management ossim sql injection vulnerability
+0	jacoblindgren11 welcome back and happy browsing -bw
+0	hashcat advanced password recovery 3.20 binary release packetstorm
+0	charlotteyuen can you use another browser to look at the article -bw
+0	marilyngard do you also see the warning if you use a different browser to access your site 2 2
+0	itechscripts freelancer script 5.11 sk parameter sql injection
+0	threatmeter malware infects computers by hiding in browser ad gifs
+0	webapps job vacancy script sql injection exploitdb
+0	robert shimp of oracle describes a future of specialized distributed services amp devices at linuxcon north america u2026
+0	oraclevm 3.3 3.4 expat ovmsa-2016-0168 nessus
+0	fedora 24 ipsilon 2016-b465090499 nessus
+0	cve-2016-10114 sql injection vulnerability in the aweb cart watching system for virtuemart extension before 2.6 u2026
+0	threatmeter webroot quarterly threat update 84 of phishing sites exist for less than 24 hours
+0	here s why you should never use autofill in your browser
+0	my private tutor website builder script sql injection
+0	mc smart shop sql injection packetstorm
+0	fujitsu s wolfgang ries explains how opensource software is a bit like magic in his talk from linuxcon europe u2026
+0	threatmeter cve-2016-8205 a directory traversal vulnerability in dashboardfilereceiveservlet in the brocade netwo u2026
+0	today is your last chance to score cybermonday savings on linux foundation training a free t-shirt u2026
+0	train like an oss pro with our e-learning courses learnlinux
+0	russlens what is your site s address please have you checked if the same happens on a different browser or a different connection
+0	freebsd p7zip -- null pointer dereference 48e83187-b6e9-11e6-b6cf-5453ed2e2b49 nessus
+0	threatmeter 0daytoday mc documentation creator script sql injection vulnerability webapps exploits vulnera u2026
+0	ghost blog 0.11.3 cross site scripting packetstorm
+0	accurate cross-browser fingerprinting is possible researchers show
+0	rt difezza 0day vulnerability in tor browser that allows to deanonymize tor users
+0	vuln broadcom wifi driver brcmf cfg80211 start ap function stack buffer overflow vulnerability
+0	systemd offers some nifty tools for linux adminstration linux spain has details
+0	threat network sql injection attack is tied to election commission breach
+0	ictutors tutoring site script 1.1 sql injection
+0	vulnerability security my private tutor website builder script sql injection
+0	hackers have broken into a european bank and are blackmailing its customers hitb
+0	chezzykatz i don t see any draft posts on your site which means your browser isn t connecting to our servers please try resetting
+0	tor project released an alpha version of the sandboxed tor browser securityaffairs
+0	don u2019t just wonder discover only microsoft edge has cortana built in learn more about the faster safer browser u2026
+0	don u2019t just make a list draw on the web and make it clear the only browser with inking and sharing built-in u2026
+0	blackstratus logstorm 4.5.1.35 4.5.1.96 remote root
+0	michaelbroley thank you hope you enjoy it
+0	want to learn about the top host based intrusion detection hids tools available today download our whitepaper u2026
+0	webapps wordpress plugin single personal message 1.0.3 sql injection exploitdb
+0	freebsd codeigniter -- multiple vulnerabilities 5e439ee7-d3bd-11e6-ae1b-002590263bf5 nessus
+0	open service broker api launches as industry standard
+0	creativemartial what exactly is the problem and what is your site s address have you tried clearing your browser cache amp cookies
+0	vuln brocade network advisor cve-2016-8205 directory traversal vulnerability
+0	ibm bigfix remote control up to 9.1.2 sql injection cve-2016-2950
+0	gentoo linux security advisory 201701-10 advisory
+0	leaking beeps it systems broadcasting sensitive info trendmicro
+0	threatmeter openexpert 0.5.17 sql injection
+0	the latest linux webserver security thanks to yo9fah ispireme security wordpress
+0	threatmeter 0daytoday manufacturer website design script sql injection vulnerability webapps exploits vuln u2026
+0	threatmeter mozilla patches firefox zero day used to unmask tor browser users
+0	juniper junos rpd bgp add-path dos jsa10771 nessus
+0	infosec podcast n npaul s security weekly enterprise security weekly 27 using ubuntu with windows 10 n n
+0	samsung devices knox extensions otp trustzone trustlet stack buffer overflow packetstorm
+0	gentoo linux security advisory 201612-14 advisory
+0	na cve-2016-8201 a csrf vulnerability in brocade virtual traffic
+0	rt cyb3rops extracted sigs from shadowbrokers screens readmes for fvey malware u2026
+0	threatmeter school management software 2.75 notice-edit.php aid sql injection
+0	vuln ibm qradar security information and event manager cve-2016-2873 sql injection vulnerability
+0	cve-2016-8457 an elevation of privilege vulnerability in the broadcom wi-fi driver could enable a local malicious u2026
+0	hassium cms 0.10 cross site scripting packetstorm
+0	nuked klan cms 1.8 file upload packetstorm
+0	0daytoday medical clinic website script sql injection vulnerability webapps exploits vulnerability 0day e u2026
+0	the latest linux webserver security thanks to dinosn ruggerotonelli vpsguide net wordpress security
+0	highhatfilmpod if not you ll need to clear your browser cache and cookies please copy the draft into a text file before doing this
+0	wordpress stop user enumeration 1.3.4 user enumeration packetstorm
+0	revisit the top articles of the past year from linuxdotcom
+0	0daytoday manufacturer website design script sql injection vulnerability webapps exploits vulnerability 0d u2026
+0	gibboverse thanks for the info can you check amp let us know if you re experiencing this in another browser
+0	nmap port scanner 7.40 packetstorm
+0	cyber infosec flippa website script sql injection
+0	courier management system cross site scripting sql injection
+0	same fate befalls post office broadband as hit dt
+0	don u2019t take chances protect yourself online use the browser that u2019s safer than google chrome u2026
+0	observium php object unserialization remote file writing vulnerability nessus
+0	threatmeter cve-2017-5575 sql injection vulnerability in inc lib options.class.php in genixcms before 1.0.0 allow u2026
+0	vulnerability security itechscripts payment gateway script 8.46 sql injection
+0	fedora 24 python-wikitcms 2016-608be17784 nessus
+0	browser security fail
+0	digital whisper electronic magazine 78 packetstorm
+0	andrewisiakpere please try clearing your cache and cookies and reset your connection also check if using a different browser works.
+0	don u2019t wait for answers see them instantly try the faster safer browser amp get answers right in your address bar u2026
+0	exponent cms 2.3.9 sql injection vulnerability n nexponent cms 2.3.9 sql injection vulnerability n n18 jan 2017 n n u2026
+0	threatmeter shengtuo information technology website management system sql injection vulnerability
+0	threat network shadowbrokers bid farewell close doors
+0	infosec podcast n nhacker public radio hpr2181 install openbsd from linux using grub n n
+0	wordpress olimometer 2.56 sql injection cxsecurity
+0	ibm tivoli storage manager fastback mount cmountdismount getvaultdump rce nessus
+0	brodoshagginz site s custom menu
+0	business networking script 8.11 cross site scripting sql injection
+0	threatmeter bromium wins 2016 government security news homeland security awards
+0	rt bsdmag 5 essential linux holiday amusements linuxfoundation linux unix opensource redhat software tech
+0	go digital drive brought cyber security to the fore in india
+0	threatmeter auction website script sql injection
+0	the latest linux webserver security thanks to linuxaria bensiali h t toyota wordpress security
+0	see highlights of 2016 linux foundation events share your favorite moments and register for 2017 u2026
+0	new fingerprinting techniques identify users across different browsers on the same pc
+0	threatmeter browser-based malware evolution and prevention
+0	softmaker flexipdf dll hijacking packetstorm
+0	packet storm new exploits for 2016 exploit
+0	blackhat infosecnews spammers work up a hailstorm
+0	harindu hippola lizmhull firefox focus focus it still integrates with safari but now is a privacy browser that has -mr
+0	cpanel cross domain scripting information disclosure packetstorm
+0	9 network linkedin clone insecure direct object reference packetstorm
+0	android maxdsm driver kernel information disclosure packetstorm
+0	gentoo linux security advisory 201701-32 packetstorm
+0	itechscripts payment gateway script 8.46 sql injection
+0	threatmeter drive-by web nasty unmasks tor browser users mozilla dashes to patch zero-day vuln
+0	hp security bulletin hpsbmu03685 1 packetstorm
+0	wordpress olimometer 2.56 sql injection
+0	vulnerability security itechscripts video sharing script 4.93 cross site scripting sql injection
+0	vulnerability security vuln dotcms stname parameter sql injection vulnerability
+0	0daytoday study abroad educational website script sql injection vulnerability 0day exploit
+0	cve-2016-4329 a local denial of service vulnerability exists in window broadcast message handling functionality of u2026
+0	threatmeter project zero finds cisco webex vulnerability in browser extensions
+0	threat network alpha version of sandboxed tor browser released
+0	firefox zero-day can be used to unmask tor browser users
+0	glsa-201701-36 apache multiple vulnerabilities httpoxy nessus
+0	threatmeter unpatched vulnerability in firefox used to attack tor browser wed nov 30th
+0	threatmeter sans internet storm center android security bulletin december 2016 what you need to know techrepub u2026
+0	wordpress wp vault 0.8.6.6 local file inclusion packetstorm
+0	threatmeter newly uncovered tor browser exploit targeted dark web child porn site
+0	gruttepier a reinstall should remove any bad corrupted pieces of data that may be causing issues with your browser -jr
+0	0daytoday viral image sharing script sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	imagemagick 7.x lt 7.0.3-6 waveletdenoiseimage heap buffer overflow rce nessus
+0	threatmeter business directory script admin edit member.php id sql injection
+0	top story autofill browser feature gives thieves your private information
+0	make or break 1.7 sql injection
+0	hacking wpa enterprise with kali linux
+0	packet storm new exploits for december 2016
+0	fortinet fortios 5.x lt 5.4.2 flow-mode detection bypass nessus
+0	r t onion browser goes free for privacy-conscious ios users citing recent events
+0	security hacking researchers link de-identified browsing history to social media accounts
+0	freebsd moinmoin -- xss vulnerabilities ab804e60-d693-11e6-9171-14dae9d210b8 nessus
+0	oraclevm 3.2 xen ovmsa-2016-0178 nessus
+0	fedora 25 drupal8 2016-411f8b961e nessus
+0	threatmeter cve-2016-8201 a csrf vulnerability in brocade virtual traffic manager versions released prior to and u2026
+0	manufacturer website design script sql injection
+0	this tutorial shows how to use nano and vim to write edit and manage your linux config files and more u2026
+0	mosesjay what is your site s url please then we can check have you tried clearing the browser cache
+0	0daytoday joomla catalog 1.0.7 component sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	rt d olex steventseeley mov ax gs cmp ax 0x2b je windows shellcode jmp linux shellcode
+0	news the grugq hacker house and boceffus cleetus weigh in on the latest shadowbroker dump
+0	asterisk opus codec dos ast-2016-008 nessus
+0	security hacking shadow brokers re-emerge with nsa s secret exploits for sale
+0	directadmin control panel 1.50.1 cross site scripting packetstorm
+0	cve-2016-7545 selinux policycoreutils allows local users to execute arbitrary commands outside of the sandbox via u2026
+0	security researcher hacks u201canti tracking amp pro privacy u201d brave browser securityaffairs brave hacking privacy
+0	vigilnce joomla ja k2 filter sql injection
+0	fedora 24 2 libpng 2016-12c22499dd nessus
+0	brocade network advisor up to 14.0.2 dashboardfilereceiveservlet directory traversal
+0	threatmeter remote blackstratus logstorm 4.5.1.35 4.5.1.96 remote root exploit
+0	israeli tv broadcast hacked attackers played muslim call to prayer securityaffairs hacking israel surveillance
+0	pagekit 1.0.10 password reset packetstorm
+0	new phishing attack steals info using browser autofill
+0	threatmeter 10 security vulnerabilities that broke the world wide web in 2016
+0	vulnerability security packet storm new exploits for november 2016
+0	rt hermescenter eu releases official proposal to update dual-use export control regime including broad controls on cybertechnology u2026
+0	remote blackstratus logstorm 4.5.1.35 4.5.1.96 remote root exploit
+0	vulnerability security packet storm new exploits for 2016
+0	vuln foxit reader for linux unspecified stack buffer overflow vulnerability
+0	gentoo linux security advisory 201701-22 advisory
+0	threatmeter sans internet storm center cyber-blitz bombs 1m german broadband routers and your isp could be next u2026
+0	freebsd use-after-free vulnerability in pcsc-lite c218873d-d444-11e6-84ef-f0def167eeea nessus
+0	brave browser address bar spoofing vulnerability ios android
+0	cve-2016-8201 a csrf vulnerability in brocade virtual traffic manager versions released prior to and including 11 u2026
+0	joomla dt register sql injection exploit
+0	the shadow brokers are offering the nsa arsenal for direct sale securityaffairs shadowbrokers nsa malware
+0	gentoo linux security advisory 201612-39 advisory
+0	research security secure websites brought to you by the letter s
+0	thomasreggi hi thomas can you check amp let us know if you re experiencing the same issue in another browser
+0	sans internet storm center android security bulletin november 2016 what you need to know techrepublic
+0	apt28 at the center of the storm fireeye
+0	alpha version of sandboxed tor browser available for linux
+0	threatmeter east of western mobile scripts sqli
+0	avant browser remote dos exploit cxsecurity
+0	scientific linux security update firefox on sl5.x sl6.x sl7.x i386 x86 64
+0	j n j web designing uk sql injection
+0	vuln ibm kenexa lms on cloud cve-2016-8928 unspecified sql-injection vulnerability
+0	rt odisseus torbrowser firefox uaf use-after-free fbi s exploit code here reported cwe n a cve n a local no h u2026
+0	gentoo linux security advisory 201612-23 advisory
+0	zx rquh so you re signing up for a new account via the app or a browser on a browser go to
+0	threatmeter business directory script sql injection
+0	threatmeter viral image and video sharing gagzone script sql injection
+0	scientific linux security update memcached on sl7.x x86 64
+0	the latest linux webserver security thanks to reddeskvirtual dinosn infosec wordpress
+0	mini blog 1.1 sql injection
+0	which linux distro is right for you depends partly on what you re used to jlwallen has suggestions u2026
+0	wordpress multisite post duplicator 0.9.5.1 cross site request forgery packetstorm
+0	vuln google nexus broadcom wi-fi driver multiple privilege escalation vulnerabilities bugtraq
+0	angelotofalo recent power outages in turkey were also caused by cyber attacks securityaffairs turkey
+0	pxtricixcxmpos u00a0what is the site url can you try to upload in a different browser
+0	blackhat infosecnews microsoft to block flash in edge browser for security speed
+0	infosec podcast n npacket pushers weekly podcast old network break 116 new brocade arista switches google u2026
+0	webapps viral image sharing script sql injection
+0	0daytoday school management software 2.75 sql injection vulnerability webapps exploits vulnerability 0day u2026
+0	nouralfulaij hi nour try browsing in incognito mode let us know if you re experiencing the same issue.
+0	cyber infosec wordpress simply poll 1.4.1 sql injection
+0	news melbourne man arrested for broadcasting fake messages to pilots
+0	fedora 24 ntp 2016-c198d15316 nessus
+0	vulnerability security vuln eclinicalworks patient portal cve-2017-5569 sql injection vulnerability
+0	threatmeter 0daytoday shiksha educational website script sql injection vulnerability webapps exploits vuln u2026
+0	cve-2017-5575 sql injection vulnerability in inc lib options.class.php in genixcms before 1.0.0 allows remote atta u2026
+0	bromium wins 2016 government security news homeland security awards
+0	macos sierra 10.12 16a323 double vm deallocate use-after-free packetstorm
+0	apple itunes lt 12.5.4 multiple vulnerabilities uncredentialed check nessus
+0	vuln genixcms cve-2017-5345 sql injection vulnerability cve-2017-5345 sql injection vulnerability n nbugt u2026
+0	webapps buy and sell market place software sql injection
+0	threatmeter sundown exploit kit now leverages on the steganography
+0	keithlovemovies if incognito in chrome works i d look to a browser extension that might be blocking things in a regular window.
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	rt 0xdude there is only 1 out of the 8 mongodb ransom groups that actually saves your database to another host we only don t know wh u2026
+0	get a preview of the new linux security fundamentals course in this tutorial series
+0	0daytoday vmpanel 2.7.4 sql injection web vulnerability webapps exploits vulnerability 0day exploit
+0	na cve-2017-5574 sql injection vulnerability in register.php in sql injection vulnerability in register.php u2026
+0	russian broadcaster blames sherlock episode leak on hackers
+0	buy and sell market place software sql injection cxsecurity
+0	threatmeter packet storm new exploits for november 2016
+0	vulnerability security vuln ibm websphere message broker cve-2016-6080 information disclosure vulnerability
+0	threatmeter eclinicalworks healowwork 8.0 build 8 employeeportalservlet select loadfile sql injection
+0	ubuntu 16.04 lts 16.10 python-cryptography vulnerability usn-3138-1 nessus
+0	hp operations manager installed linux
+0	stormgrass u00a0everything is working fine from what we can see what error s are you encountering
+0	threatmeter imperial commercial cooking equipment sqli
+0	vuln genixcms cve-2017-5345 sql injection vulnerability
+0	vulnerability security manufacturer website design script sql injection
+0	highhatfilmpod as clearing the cache will delete the draft that s saved locally in your browser.
+0	jlwallen looks at the best linux distributions for 2017 according to task
+0	infosec podcast n nsans internet storm center daily network security and information security podcast isc stor u2026
+0	2017 trends cybersecurity for digital broadcasters
+0	threatmeter 0daytoday open source real-estate script sql injection vulnerability webapps exploits vulnerab u2026
+0	movie portal script 7.35 sql injection
+0	threatmeter vuln phpmyadmin cve-2016-6616 sql-injection vulnerability
+0	lexfaptain nessa star4 johnsense38 yes try privatebrowsing next time -at
+0	vuln ibm kenexa lms on cloud cve-2016-8928 unspecified sql-injection vulnerability
+0	linux spain explains what s new in the latest linux kernel release
+0	cyber infosec yoga and fitness website script sql injection
+0	cryptolulz hacked the website of the russian embassy of armenia securityaffairs sqlinjection hacking
+0	phpmyadmin up to 4.6.4 4.4.15.8 4.0.10.17 username handler sql injection
+0	slackware 14.0 14.1 14.2 current python ssa 2016-363-01 nessus
+0	israeli tv broadcast hacked attackers played muslim call to prayer
+0	stuff we made hmm try browsing in incognito mode do you still experience the issue
+0	glsa-201701-64 x server multiple vulnerabilities nessus
+0	pengutronix kernel hacker jan l u00fcbbe summarized growing security threats in embedded linux at elc europe u2026
+0	mozilla firefox use-after-free packetstorm
+0	na cve-2016-7545 selinux policycoreutils allows local users to selinux policycoreutils allows local users t u2026
+0	cyber infosec apache qpid broker for java 6.1.0 information leak
+0	threatmeter exponent cms 2.3.9 sql injection vulnerability
+0	actively exploited firefox tor browser 0-day patched update now
+0	vuln dell sonicwall universal management suite sql injection vulnerability
+0	webapps mc yellow pages script sql injection exploitdb
+0	shadow brokers put nsa exploits up for direct sale
+0	threatmeter webapps buy and sell market place software sql injection
+0	threatmeter webapps finance website script sql injection
+0	solaris 10 x86 138353-03 nessus
+0	open source real-estate script viewpropertydetails.php id sql injection
+0	vulnerability security local naenara browser 3.5 redstar 3.0 jackrabbit client-side command execution
+0	webapps my php dating 2.0 id parameter sql injection
+0	threatmeter brave browser 1.2.16 1.9.56 address bar spoofing
+0	sometimes ya just gotta know and don u2019t want everyone else to know ud83d udc96 private browsing in the new firefox focus u2026
+0	atlassian confluence 5.9.12 cross site scripting packetstorm
+0	pozzo and lucky the phantom shell stego in tcp ip part 2 packetstorm
+0	the latest linux webserver security thanks to davejlong businesstipstri wordpress security
+0	medical clinic website script add team member.php id sql injection
+0	cve-2016-4338 the mysql user parameter configuration script userparameter mysql.conf in the agent in zabbix befo u2026
+0	my private tutor website builder script sql injection packetstorm
+0	keep gift ideas under wraps with automatic private browsing in firefox focus finally an un-spoiled surprise u2026
+0	vuln wordpress dukapress plugin dukapress download.php sql injection vulnerability
+0	ctools upload file browser
+0	encase forensic imager 7.10 denial of service heap buffer overflow packetstorm
